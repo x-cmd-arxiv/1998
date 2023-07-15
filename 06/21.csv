@@ -1,0 +1,219 @@
+"astro-ph/9806282","Lombardi Marco","Marco Lombardi and Giuseppe Bertin","Weak lensing and cosmology","17 pages, 8 figures. Uses A&A LaTeX style. Accepted for pubblication
+  by A&A. Several changes made: new model for the lens; Sect. 7 and App. A.
+  added",,,"none-00-00","astro-ph",,"  Recently, it has been shown that it is possible to reconstruct the projected
+mass distribution of a cluster from weak lensing provided that both the
+geometry of the universe and the probability distribution of galaxy redshifts
+are known; actually, when additional photometric data are taken to be
+available, the galaxy redshift distribution could be determined jointly with
+the cluster mass from the weak lensing analysis. In this paper we develop, in
+the spirit of a ``thought experiment,'' a method to constrain the geometry of
+the universe from weak lensing, provided that the redshifts of the source
+galaxies are measured. The quantitative limits and merits of the method are
+discussed analytically and with a set of simulations, in relation to point
+estimation, interval estimation, and test of hypotheses for homogeneous
+Friedmann-Lemaitre models. The constraints turn out to be significant when a
+few thousand source galaxies are used.
+","[{""version"":""v1"",""created"":""Sat, 20 Jun 1998 16:46:58 GMT""},{""version"":""v2"",""created"":""Tue, 1 Dec 1998 11:00:41 GMT""}]","2007-05-23"
+"astro-ph/9806283","Guenter Sigl","Guenter Sigl (Univ. of Chicago, USA), Martin Lemoine (DARC, CNRS,
+  France), Peter Biermann (MPI fuer Radioastronomie, Bonn, Germany)","Ultra-High Energy Cosmic Ray Propagation in the Local Supercluster","17 latex pages (tightened format), 9 updated postscript figures, uses
+  revtex.sty and epsf.sty, extended discussion of numerical results, to appear
+  in Astroparticle Physics","Astropart.Phys. 10 (1999) 141-156","10.1016/S0927-6505(98)00048-6",,"astro-ph",,"  We present detailed numerical simulations and analytical approximations of
+the propagation of nucleons above 10**(19) eV in the Local Supercluster,
+assuming that the ambient magnetic field is turbulent, and its strength 0.01 <
+B_rms < 1 micro-Gauss. In such strong magnetic fields, protons in the low
+energy part of the spectrum, 10**(19) eV < E < E_C diffuse, while the higher
+energy particles, with E > E_C propagate along nearly straight lines. The
+magnitude of the transition energy E_C depends mainly on the strength of the
+magnetic field, the coherence length, and the distance to the source; for
+B_rms=0.1 micro-Gauss, a largest eddy of length 10 Mpc, and a distance to the
+source of 10 Mpc, E_C=100 EeV. Our numerical treatment substantially improves
+on previous analytical approximations, as it allows to treat carefully the
+transition between the two propagation regimes, as well as the effects due to
+inhomogeneities expected on scales of a few Mpc. We show that a turbulent
+magnetic field B_rms=0.1 micro-Gauss, close to equipartition, would allow to
+reproduce exactly the observed spectrum of ultra high energy cosmic rays, up to
+the highest energy observed, for a distance to the source below 10 Mpc, for the
+geometry of the Local Supercluster, i.e. a sheet of thickness 10 Mpc.
+Diffusion, in this case, allows to reproduce the high flux beyond the Greisen
+Zatsepin Kuzmin cut-off, with a soft injection spectrum proportional to
+E**(-2.4). Moreover, the large deflection angles at the highest energies
+observed, typically 10 degrees for the above values, would explain why no
+close-by astrophysical counterpart could be associated with these events.
+","[{""version"":""v1"",""created"":""Sat, 20 Jun 1998 22:17:13 GMT""},{""version"":""v2"",""created"":""Thu, 24 Sep 1998 00:21:37 GMT""}]","2009-10-30"
+"astro-ph/9806284","Ray Norris","R. P. Norris, S. E. Byleveld, P. J. Diamond, S. P. Ellingsen, R. H.
+  Ferris, R. G. Gough, M. J. Kesteven, P. M. McCulloch, C. J. Phillips, J. E.
+  Reynolds, A. K. Tzioumis, Y. Takahashi, E. R. Troup, K. J. Wellington","Methanol Masers as Tracers of Circumstellar Disks","38 pages, 13 figures accepted by ApJ",,"10.1086/306373","N127","astro-ph",,"  We show that in many methanol maser sources the masers are located in lines,
+with a velocity gradient along them which suggests that the masers are situated
+in edge-on circumstellar, or protoplanetary, disks. We present VLBI
+observations of the methanol maser source G309.92+0.48, in the 12.2 GHz
+transition, which confirm previous observations that the masers in this source
+lie along a line. We show that such sources are not only linear in space but,
+in many cases, also have a linear velocity gradient. We then model these and
+other data in both the 6.7 GHz and the 12.2 GHz transition from a number of
+star formation regions, and show that the observed spatial and velocity
+distribution of methanol masers, and the derived Keplerian masses, are
+consistent with a circumstellar disk rotating around an OB star. We consider
+this and other hypotheses, and conclude that about half of these methanol
+masers are probably located in edge-on circumstellar disks around young stars.
+This is of particular significance for studies of circumstellar disks because
+of the detailed velocity information available from the masers.
+","[{""version"":""v1"",""created"":""Sun, 21 Jun 1998 06:24:04 GMT""},{""version"":""v2"",""created"":""Thu, 25 Jun 1998 23:33:21 GMT""}]","2009-10-30"
+"cmp-lg/9806013","John Carroll","John Carroll, Guido Minnen (University of Sussex), Ted Briscoe
+  (Cambridge University)","Can Subcategorisation Probabilities Help a Statistical Parser?","9 pages, uses colacl.sty","6th Workshop on Very Large Corpora, Montreal, Canada, 1998",,,"cmp-lg cs.CL",,"  Research into the automatic acquisition of lexical information from corpora
+is starting to produce large-scale computational lexicons containing data on
+the relative frequencies of subcategorisation alternatives for individual
+verbal predicates. However, the empirical question of whether this type of
+frequency information can in practice improve the accuracy of a statistical
+parser has not yet been answered. In this paper we describe an experiment with
+a wide-coverage statistical grammar and parser for English and
+subcategorisation frequencies acquired from ten million words of text which
+shows that this information can significantly improve parse accuracy.
+","[{""version"":""v1"",""created"":""Sun, 21 Jun 1998 05:35:53 GMT""}]","2007-05-23"
+"cond-mat/9806248","Masahiko Hayashi","Masahiko Hayashi","Spectral Flow and Quantum Theory of Dissipation in the Vortex Core of
+  BCS superconductors","4 pages, 5 figures. Some grammatical changes were made and new
+  references were added",,"10.1143/JPSJ.67.3372",,"cond-mat.supr-con",,"  The dissipation process in two dimensional BCS superconductor due to the
+quasiparticles in the core of moving vortex is studied from a quantum
+mechanical point of view, especially paying attention to the spectral flow of
+the bound state energies in the vortex core. In order to clarify the nature of
+the spectral flow, we performed a numerical study of a finite system and, by
+extending the analysis to include the effect of impurities, we discuss the
+quantum mechanical origin of the dissipation in the vortex core.
+","[{""version"":""v1"",""created"":""Sat, 20 Jun 1998 20:40:49 GMT""},{""version"":""v2"",""created"":""Fri, 17 Jul 1998 06:18:13 GMT""}]","2009-10-31"
+"cond-mat/9806249","Alessandro Vespignani","Alessandro Vespignani, Ronald Dickman, Miguel A. Munoz, and Stefano
+  Zapperi","Driving, conservation and absorbing states in sandpiles","12 pages, 2 figures; revised version with substantial changes and
+  improvements",,"10.1103/PhysRevLett.81.5676",,"cond-mat.stat-mech",,"  We use a phenomenological field theory, reflecting the symmetries and
+conservation laws of sandpiles, to compare the driven dissipative sandpile,
+widely studied in the context of self-organized criticality, with the
+corresponding fixed-energy model. The latter displays an absorbing-state phase
+transition with upper critical dimension $d_c=4$. We show that the driven model
+exhibits a fundamentally different approach to the critical point, and compute
+a subset of critical exponents. We present numerical simulations in support of
+our theoretical predictions.
+","[{""version"":""v1"",""created"":""Sun, 21 Jun 1998 10:54:55 GMT""},{""version"":""v2"",""created"":""Wed, 11 Nov 1998 18:27:44 GMT""}]","2009-10-31"
+"gr-qc/9806084","Dr. BG Sidharth","B.G. Sidharth","Space Time Quantization and the Big Bang","5 pages, TeX",,,,"gr-qc",,"  A recent cosmological model is recapitulated which deduces the correct mass,
+radius and age of the universe as also the Hubble constant and other well known
+apparently coincidental relations. It also predicts an ever expanding
+accelerating universe as is confirmed by latest supernovae observations.
+Finally the Big Bang model is recovered as a suitable limiting case.
+","[{""version"":""v1"",""created"":""Sun, 21 Jun 1998 02:49:15 GMT""}]","2007-05-23"
+"gr-qc/9806085","Dr. Panagiota Kanti","P. Kanti, J. Rizos and K. Tamvakis","Singularity-free cosmological solutions in quadratic gravity","Latex, 25 pages, 6 figures, some explanatory sentences and Comments
+  added, version to appear in Physical Review D","Phys. Rev. D 59, 083512 (1999)","10.1103/PhysRevD.59.083512",,"gr-qc hep-ph hep-th",,"  We study a general field theory of a scalar field coupled to gravity through
+a quadratic Gauss-Bonnet term $\xi(\phi) R^2_{GB}$. The coupling function has
+the form $\xi(\phi)=\phi^n$, where $n$ is a positive integer. In the absence of
+the Gauss-Bonnet term, the cosmological solutions for an empty universe and a
+universe dominated by the energy-momentum tensor of a scalar field are always
+characterized by the occurrence of a true cosmological singularity. By
+employing analytical and numerical methods, we show that, in the presence of
+the quadratic Gauss-Bonnet term, for the dual case of even $n$, the set of
+solutions of the classical equations of motion in a curved FRW background
+includes singularity-free cosmological solutions. The singular solutions are
+shown to be confined in a part of the phase space of the theory allowing the
+non-singular solutions to fill the rest of the space. We conjecture that the
+same theory with a general coupling function that satisfies certain criteria
+may lead to non-singular cosmological solutions.
+","[{""version"":""v1"",""created"":""Sun, 21 Jun 1998 09:37:00 GMT""},{""version"":""v2"",""created"":""Sun, 22 Nov 1998 14:09:34 GMT""}]","2016-08-25"
+"hep-ph/9806428","Mary Hall Reno","L. Pasquali, M. H. Reno (U Iowa), I. Sarcevic (U Arizona)","Lepton Fluxes from Atmospheric Charm","19 pages, latex, revtex, psfig","Phys.Rev.D59:034020,1999","10.1103/PhysRevD.59.034020",,"hep-ph",,"  We reexamine the charm contribution to atmospheric lepton fluxes in the
+context of perturbative QCD. We include next-to-leading order corrections and
+discuss theoretical uncertainties due to the extrapolations of the gluon
+distributions at small-x. We show that the charm contribution to the
+atmospheric muon flux becomes dominant over the conventional contribution from
+pion and kaon decays at energies of about 10^5 GeV. We compare our fluxes with
+previous calculations.
+","[{""version"":""v1"",""created"":""Sat, 20 Jun 1998 17:55:41 GMT""},{""version"":""v2"",""created"":""Fri, 17 Jul 1998 19:41:57 GMT""}]","2008-11-26"
+"hep-ph/9806429","Martin Beneke","M. Beneke (CERN)","New results on heavy quarks near threshold","Talk presented at the XXXIIIrd Rencontres de Moriond `Electroweak
+  Interactions and Unified Theories', 14-21 March 1998, Les Arcs, France; 12
+  pages, LaTeX, 1 figures, .sty files included, (v2): mistyped CF CA term in
+  Eq. (12) fixed",,,"CERN-TH/98-202","hep-ph",,"  We review in brief the threshold expansion, a method to perform the expansion
+of Feynman integrals near the heavy quark-antiquark threshold, and its relation
+to the construction of two effective theories, non-relativistic QCD (NRQCD) and
+potential-NRQCD. We then summarize recent next-to-next-to-leading order results
+on the decay $J/\Psi\to l^+ l^-$, the bottom quark mass from $\Upsilon$ sum
+rules and the top-anti-top production cross section near threshold in $e^+ e^-$
+collisions.
+","[{""version"":""v1"",""created"":""Sun, 21 Jun 1998 09:14:12 GMT""},{""version"":""v2"",""created"":""Thu, 25 Jun 1998 07:51:42 GMT""}]","2007-05-23"
+"hep-th/9806177","Angel Uranga","H. Garcia-Compean, A. M. Uranga","Brane Box Realization of Chiral Gauge Theories in Two Dimensions","48 pages, 10 eps figures, uses harvmac. Minor corrections, footnote
+  on conventions added","Nucl.Phys.B539:329-366,1999","10.1016/S0550-3213(98)00725-1","IASSNS-HEP-98/58","hep-th",,"  We study type IIA configurations of D4 branes and three kinds of NS
+fivebranes. The D4 brane world-volume has finite extent in three directions,
+giving rise to a two-dimensional low-energy field theory. The models have
+generically $(0,2)$ supersymmetry. We determine the rules to read off the
+spectrum and interactions of the field theory from the brane box configuration
+data. We discuss the construction of theories with enhanced $(0,4)$, $(0,6)$
+and $(0,8)$ supersymmetry. Using T-duality along the directions in which the D4
+branes are finite, the configuration can be mapped to D1 branes at
+$\IC^4/\Gamma$ singularities, with $\Gamma$ an abelian subgroup of SU(4). This
+provides a rederivation of the rules in the brane box model. The enhancement of
+supersymmetry has a nice geometrical interpretation in the singularity picture
+in terms of the holonomy group of the four-fold singularity.
+","[{""version"":""v1"",""created"":""Sun, 21 Jun 1998 02:51:42 GMT""},{""version"":""v2"",""created"":""Wed, 8 Jul 1998 15:45:56 GMT""}]","2009-10-09"
+"hep-th/9806178","Senarath P. de Alwis","S. P. de Alwis","On the Supergravity Gauge theory Correspondence and the Matrix Model","19 pages, Latex","Phys. Rev. D 59, 044029 (1999)","10.1103/PhysRevD.59.044029","COLO-HEP-98/408","hep-th",,"  We review the assumptions and the logic underlying the derivation of DLCQ
+Matrix models. In particular we try to clarify what remains valid at finite
+$N$, the role of the non-renormalization theorems and higher order terms in the
+supergravity expansion. The relation to Maldacena's conjecture is also
+discussed. In particular the compactification of the Matrix model on $T_3$ is
+compared to the $AdS_5\times S_5$ ${\cal N}=4$ super Yang-Mills duality, and
+the different role of the branes in the two cases is pointed out.
+","[{""version"":""v1"",""created"":""Sun, 21 Jun 1998 06:11:01 GMT""}]","2016-08-25"
+"hep-th/9806179","Morten Weis","Morten Weis","Topological Aspects of Quantum Gravity","257 pages, 30 figures. Latex2e. Ph.D. thesis",,,"NBI-Ph.D. thesis","hep-th",,"  This thesis discusses the topological aspects of quantum gravity, focusing on
+the connection between 2D quantum gravity and 2D topological gravity. The
+mathematical background for the discussion is presented in the first two
+chapters. The possible gauge formulations of 2D topological gravity as a BF or
+a Super BF theory are presented and compared against 2D quantum gravity in the
+dynamical triangulation scheme. A new identification between topological
+gravity in the Super BF formulation and the reduced hermitian matrix model at
+genus zero is explained in depth.
+","[{""version"":""v1"",""created"":""Sun, 21 Jun 1998 14:41:40 GMT""}]","2007-05-23"
+"math/9806115","Yuli Rudyak","Yuli B. Rudyak (University of Siegen, Germany)","On strict category weight and Arnold conjecture","AMSTEX, 6 pages",,,,"math.DG",,"  In [R2] and [RO] the Arnold conjecture for closed symplectic manifolds with
+trivial second homotopy group was proved. This proof used surgery and cobordism
+theory. Here we give a purely cohomological proof of this result.
+","[{""version"":""v1"",""created"":""Sat, 20 Jun 1998 19:23:14 GMT""}]","2007-05-23"
+"nucl-th/9806064","Thomas Schaefer","T. Schaefer (INT, Seattle)","Diquark Condensation in High Density Baryon Matter","6 pages, to appear in the Proceedings of the workshop on QCD at
+  finite Baryon Density, submitted to Nucl. Phys. A","Nucl.Phys. A642 (1998) 45-50","10.1016/S0375-9474(98)00497-7","DOE/ER/40561-13-INT98","nucl-th",,"  We argue that cold quark matter is a color superconductor. The Cooper pairs
+of QCD are spin-isospin zero, color anti-triplet diquarks. In this contribution
+we review some of the available information on the quark-quark interaction in
+QCD. We show that instantons provide a strongly attractive interaction in the
+scalar diquark channel. In the high density phase, this interaction leads to
+diquark Bose condensation with a gap on the order of 50 MeV.
+","[{""version"":""v1"",""created"":""Sat, 20 Jun 1998 20:44:24 GMT""}]","2009-10-31"
+"quant-ph/9806067","Tamas Fulop","T. Fulop, S. D. Katz","Building a frame and gauge free formulation of quantum mechanics","Changes: Several small improvements in the text, altered title. 35
+  pages, LaTeX",,,"KEK Preprint 98-86","quant-ph hep-th","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  The wave function of quantum mechanics is not a boost invariant and gauge
+invariant quantity. Correspondingly, reference frame dependence and gauge
+dependence are inherited to most of the elements of the usual formulation of
+quantum mechanics (including operators, states and events). If a frame
+dependent and gauge dependent formalism is called, in short, a relative
+formalism, then the aim of the paper is to establish an absolute, i.e., frame
+and gauge free, reformulation of quantum mechanics. To fulfil this aim, we
+develop absolute quantities and the corresponding equations instead of the wave
+function and the Schr\""odinger equation. The absolute quantities have a more
+direct physical interpretation than the wave function has, and the
+corresponding equations express explicitly the independent physical aspects of
+the system which are contained in the Schr\""odinger equation in a mixed and
+more hidden form. Based on the absolute quantities and equations, events,
+states and physical quantities are introduced also in an absolute way. The
+formalism makes it possible to obtain some sharper versions of the uncertainty
+relation and to extend the validity of Ehrenfest's theorem. The absolute
+formulation allows wide extensions of quantum mechanics. To give examples, we
+discuss two known nonlinear extensions and, in close detail, a dissipative
+system. An argument is provided that the absolute formalism may lead to an
+explanation of the Aharonov-Bohm effect purely in terms of the electromagnetic
+field strength tensor. At last, on special relativistic and curved spacetimes,
+absolute quantities and equations instead of the Klein-Gordon wave function and
+equation are given, and their nonrelativistic limit is derived.
+","[{""version"":""v1"",""created"":""Sun, 21 Jun 1998 06:00:31 GMT""},{""version"":""v2"",""created"":""Fri, 18 Sep 1998 09:01:26 GMT""},{""version"":""v3"",""created"":""Mon, 16 Jan 2012 16:13:34 GMT""}]","2012-01-17"
+"quant-ph/9806068","Konrad Banaszek","Konrad Banaszek and Krzysztof Wodkiewicz (Uniwersytet Warszawski)","Quantum Nonlocality in Phase Space","4 pages, REVTeX","Phys. Rev. Lett. 82, 2009 (1999)","10.1103/PhysRevLett.82.2009",,"quant-ph",,"  We propose an experiment demonstrating the nonlocality of a quantum
+singlet-like state generated from a single photon incident on a beam splitter.
+Each of the two spatially separated apparatuses in the setup performs a
+strongly unbalanced homodyning, employing a single photon counting detector. We
+show that the correlation functions violating the Bell inequalities in the
+proposed experiment are given by the joint two-mode Q-function and the Wigner
+function of the optical singlet-like state. This establishes a direct
+relationship between two intriguing aspects of quantum mechanics: the
+nonlocality of entangled states and the noncommutativity of quantum
+observables, which underlies the nonclassical structure of phase space
+quasidistribution functions.
+","[{""version"":""v1"",""created"":""Sun, 21 Jun 1998 12:28:39 GMT""}]","2009-10-31"
+"quant-ph/9806069","Konrad Banaszek","Konrad Banaszek and Krzysztof Wodkiewicz (Uniwersytet Warszawski)","Nonlocality of Einstein-Podolsky-Rosen State in Wigner Representation","3 pages, REVTeX","Phys. Rev. A 58, 4345 (1998)","10.1103/PhysRevA.58.4345",,"quant-ph",,"  We demonstrate that the Wigner function of the Einstein-Podolsky-Rosen state,
+though positive definite, provides a direct evidence of the nonlocal character
+of this state. The proof is based on an observation that the Wigner function
+describes correlations in the joint measurement of the phase space displaced
+parity operator.
+","[{""version"":""v1"",""created"":""Sun, 21 Jun 1998 12:30:22 GMT""}]","2009-10-31"

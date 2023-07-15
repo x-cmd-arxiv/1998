@@ -1,0 +1,263 @@
+"cond-mat/9803003","Ziqiang Wang","Vasiliki Plerou and Ziqiang Wang","Conductances, Conductance Fluctuations, and Level Statistics on the
+  Surface of Multilayer Quantum Hall States","Revised version to appear in Phys. Rev. B. July 15, 1998","Physical Review B58, 1967 (1998).","10.1103/PhysRevB.58.1967",,"cond-mat.mes-hall",,"  The transport properties on the two-dimensional surface of coupled multilayer
+heterostructures are studied in the integer quantum Hall states. We emphasize
+the criticality of the surface state and the phase coherent transport
+properties in the thermodynamic limit. A new, stable numerical algorithm for
+large scale conductance calculations in the transfer matrix approach is
+discussed in detail. It is then applied to a directed network model describing
+the quantum mechanical tunneling and impurity scattering of the multilayer edge
+states. We calculate the two-probe conductance in the direction parallel to the
+external magnetic field, its fluctuations and statistical distributions as a
+function of the interlayer tunneling strength. Using finite size scaling, the
+asymptotic scaling functions of the ensemble averaged conductance and the
+conductance fluctuations are calculated for a fixed aspect ratio and found to
+be in remarkable agreement with the analytical results obtained using the
+supersymmetric nonlinear $\sigma$-model approach. The conductance distribution
+is determined in the quasi-one-dimensional metallic, insulating, as well as the
+crossover regime where comparisons are made to that at the single-layer quantum
+Hall transition. We present, for the first time, a detailed study of the level
+statistics in the eigenvalue spectrum of the transfer matrix. Coexistence of
+metallic and insulating statistics is observed in the crossover regime, which
+is attributed to the emergence of a finite range level repulsion in the
+crossover regime, separating the metallic (Wigner-surmise) behavior at small
+level spacings from the insulating (uncorrelated or Poisson) behavior at large
+level spacings.
+","[{""version"":""v1"",""created"":""Sat, 28 Feb 1998 23:57:33 GMT""},{""version"":""v2"",""created"":""Tue, 9 Jun 1998 14:33:09 GMT""}]","2009-10-31"
+"cond-mat/9803005","Zhou Haijun","Zhou Haijun and Ou-Yang Zhong-can","Bending and Twisting Elasticity: a Revised Marko-Siggia Model on DNA
+  Chirality","7 pages in Latex form, without figure. Significant changes have been
+  made in this version, especially in the latter part","Phys.Rev.E 58 (1998) 4816","10.1103/PhysRevE.58.4816",,"cond-mat.soft cond-mat.mtrl-sci cond-mat.stat-mech q-bio",,"  A revised Marko-Siggia elastic model for DNA double helix [Macromolecules 27,
+981 (1994)] is proposed, which includes the WLC bending energy and a new chiral
+twisting energy term. It is predicted that the mean helical repeat length (HRL)
+for short DNA rings increases with the decreasing of chain length; while for
+very long chains, their mean HRL is the same, independent of both the chain
+length and whether the ends are closed, it is longer than the value for
+rectilinear DNAs. Our results are in good agreement with experiments.
+","[{""version"":""v1"",""created"":""Sun, 1 Mar 1998 01:04:07 GMT""},{""version"":""v2"",""created"":""Wed, 18 Mar 1998 09:36:14 GMT""}]","2009-10-31"
+"cond-mat/9803006","Mikhail V. Feigelman","M. V. Feigel'man and A. I. Larkin","Quantum Superconductor-Metal Transition in a 2D Proximity-Coupled Array","RevTex, 8 pages, to be published in a special issue of ""Chemical
+  Physics"" in memory of the late Professor V. I. Mel'nikov",,"10.1016/S0301-0104(98)00075-5",,"cond-mat.supr-con cond-mat.mes-hall",,"  We construct a theory of quantum fluctuatons in a regular array of small
+superconductive islands connected via low-resistance tunnel contacts to a dirty
+thin metal film.
+  Electron-electron interaction in the film is assumed to be repulsive. The
+system is macroscopically superconductive when the distance between
+neighbouring islands is short enough. The zero-temperature phase transition
+from superconductive to normal-conductive state is shown to occur with the
+increase of distance between superconductive islands; the logarithm of the
+critical distance is proportional to the low-frequency zero-voltage Andreev
+conductance between the SC island and the film. This critical distance is
+always much less the than the two-dimensional localization length, so the
+considered effect develops when weak-localization corrections are still small.
+The dependence of the critical temperature on the film conductance and
+inter-island distance is found.
+","[{""version"":""v1"",""created"":""Sun, 1 Mar 1998 13:38:29 GMT""}]","2016-08-31"
+"cs/9803101",,"B. Srivastava, S. Kambhampati","Synthesizing Customized Planners from Specifications","See http://www.jair.org/ for any accompanying files","Journal of Artificial Intelligence Research, Vol 8, (1998), 93-128",,,"cs.AI",,"  Existing plan synthesis approaches in artificial intelligence fall into two
+categories -- domain independent and domain dependent. The domain independent
+approaches are applicable across a variety of domains, but may not be very
+efficient in any one given domain. The domain dependent approaches need to be
+(re)designed for each domain separately, but can be very efficient in the
+domain for which they are designed. One enticing alternative to these
+approaches is to automatically synthesize domain independent planners given the
+knowledge about the domain and the theory of planning. In this paper, we
+investigate the feasibility of using existing automated software synthesis
+tools to support such synthesis. Specifically, we describe an architecture
+called CLAY in which the Kestrel Interactive Development System (KIDS) is used
+to derive a domain-customized planner through a semi-automatic combination of a
+declarative theory of planning, and the declarative control knowledge specific
+to a given domain, to semi-automatically combine them to derive
+domain-customized planners. We discuss what it means to write a declarative
+theory of planning and control knowledge for KIDS, and illustrate our approach
+by generating a class of domain-specific planners using state space
+refinements. Our experiments show that the synthesized planners can outperform
+classical refinement planners (implemented as instantiations of UCP,
+Kambhampati & Srivastava, 1995), using the same control knowledge. We will
+contrast the costs and benefits of the synthesis approach with conventional
+methods for customizing domain independent planners.
+","[{""version"":""v1"",""created"":""Sun, 1 Mar 1998 00:00:00 GMT""}]","2009-09-25"
+"cs/9803102",,"A. Moore, M. S. Lee","Cached Sufficient Statistics for Efficient Machine Learning with Large
+  Datasets","See http://www.jair.org/ for any accompanying files","Journal of Artificial Intelligence Research, Vol 8, (1998), 67-91",,,"cs.AI",,"  This paper introduces new algorithms and data structures for quick counting
+for machine learning datasets. We focus on the counting task of constructing
+contingency tables, but our approach is also applicable to counting the number
+of records in a dataset that match conjunctive queries. Subject to certain
+assumptions, the costs of these operations can be shown to be independent of
+the number of records in the dataset and loglinear in the number of non-zero
+entries in the contingency table. We provide a very sparse data structure, the
+ADtree, to minimize memory use. We provide analytical worst-case bounds for
+this structure for several models of data distribution. We empirically
+demonstrate that tractably-sized data structures can be produced for large
+real-world datasets by (a) using a sparse tree structure that never allocates
+memory for counts of zero, (b) never allocating memory for counts that can be
+deduced from other counts, and (c) not bothering to expand the tree fully near
+its leaves. We show how the ADtree can be used to accelerate Bayes net
+structure finding algorithms, rule learning algorithms, and feature selection
+algorithms, and we provide a number of empirical results comparing ADtree
+methods against traditional direct counting approaches. We also discuss the
+possible uses of ADtrees in other machine learning methods, and discuss the
+merits of ADtrees in comparison with alternative representations such as
+kd-trees, R-trees and Frequent Sets.
+","[{""version"":""v1"",""created"":""Sun, 1 Mar 1998 00:00:00 GMT""}]","2009-09-25"
+"cs/9803103",,"S. Argamon-Engelson, M. Koppel","Tractability of Theory Patching","See http://www.jair.org/ for any accompanying files","Journal of Artificial Intelligence Research, Vol 8, (1998), 39-65",,,"cs.AI",,"  In this paper we consider the problem of `theory patching', in which we are
+given a domain theory, some of whose components are indicated to be possibly
+flawed, and a set of labeled training examples for the domain concept. The
+theory patching problem is to revise only the indicated components of the
+theory, such that the resulting theory correctly classifies all the training
+examples. Theory patching is thus a type of theory revision in which revisions
+are made to individual components of the theory. Our concern in this paper is
+to determine for which classes of logical domain theories the theory patching
+problem is tractable. We consider both propositional and first-order domain
+theories, and show that the theory patching problem is equivalent to that of
+determining what information contained in a theory is `stable' regardless of
+what revisions might be performed to the theory. We show that determining
+stability is tractable if the input theory satisfies two conditions: that
+revisions to each theory component have monotonic effects on the classification
+of examples, and that theory components act independently in the classification
+of examples in the theory. We also show how the concepts introduced can be used
+to determine the soundness and completeness of particular theory patching
+algorithms.
+","[{""version"":""v1"",""created"":""Sun, 1 Mar 1998 00:00:00 GMT""}]","2007-05-23"
+"gr-qc/9803001","G. Haager","Gernot Haager (Institute of Theoretical Physics,
+  Friedrich-Schiller-University, Jena, Germany), Marc Mars (School of
+  Mathematical Sciences, Queen Mary and Westfield College, London, U.K.)","A self-similar inhomogeneous dust cosmology","17 pages, 3 postscript figures, uses psfig,sty, accepted for
+  publication in Class. Quantum Grav","Class.Quant.Grav. 15 (1998) 1567-1580","10.1088/0264-9381/15/6/013",,"gr-qc",,"  A detailed study of an inhomogeneous dust cosmology contained in a
+$\gamma$-law family of perfect-fluid metrics recently presented by Mars and
+Senovilla is performed. The metric is shown to be the most general orthogonally
+transitive, Abelian, $G_2$ on $S_2$ solution admitting an additional homothety
+such that the self-similar group $H_3$ is of Bianchi type VI and the fluid flow
+is tangent to its orbits. The analogous cases with Bianchi types I, II, III, V,
+VIII and IX are shown to be impossible thus making this metric privileged from
+a mathematical viewpoint. The differential equations determining the metric are
+partially integrated and the line-element is given up to a first order
+differential equation of Abel type of first kind and two quadratures. The
+solutions are qualitatively analyzed by investigating the corresponding
+autonomous dynamical system. The spacetime is regular everywhere except for the
+big bang and the metric is complete both into the future and in all spatial
+directions. The energy-density is positive, bounded from above at any instant
+of time and with an spatial profile (in the direction of inhomogeneity) which
+is oscillating with a rapidly decreasing amplitude. The generic asymptotic
+behaviour at spatial infinity is a homogeneous plane wave. Well-known dynamical
+system results indicate that this metric is very likely to describe the
+asymptotic behaviour in time of a much more general class of inhomogeneous
+$G_2$ dust cosmologies.
+","[{""version"":""v1"",""created"":""Sat, 28 Feb 1998 16:00:18 GMT""}]","2009-10-31"
+"gr-qc/9803002","Max Banados","Maximo Banados","Higher Dimensional Chern-Simons Theories and Topological Black Holes","13 pages, Latex. Talk given at the Conference ""Quantum Mechanics of
+  Fundamental Systems VI"", Santiago, Chile, Aug 1997",,,,"gr-qc",,"  It has been recently pointed out that black holes of constant curvature with
+a ""chronological singularity"" can be constructed in any spacetime dimension.
+These black holes share many common properties with the 2+1 black hole. In this
+contribution we give a brief summary of these new black holes and consider them
+as solutions of a Chern-Simons gravity theory. We also provide a brief
+introduction to some aspects of higher dimensional Chern-Simons theories.
+","[{""version"":""v1"",""created"":""Sat, 28 Feb 1998 23:30:09 GMT""}]","2007-05-23"
+"gr-qc/9803003","Yoonbai Kim","Yoonbai Kim and Sei-Hoon Moon","Gravitating $\sigma$ Model Solitons","35 pages, RevTeX","Phys.Rev.D58:105013,1998","10.1103/PhysRevD.58.105013","SNUTP-97-112","gr-qc",,"  We study axially symmetric static solitons of O(3) nonlinear $\sigma$ model
+coupled to (2+1)-dimensional anti-de Sitter gravity. The obtained solutions are
+not self-dual under static metric. The usual regular topological lump solution
+cannot form a black hole even though the scale of symmetry breaking is
+increased. There exist nontopological solitons of half integral winding in a
+given model, and the corresponding spacetimes involve charged Ba$\tilde
+n$ados-Teitelboim-Zanelli black holes without non-Abelian scalar hair.
+","[{""version"":""v1"",""created"":""Sun, 1 Mar 1998 08:11:05 GMT""}]","2014-11-17"
+"hep-ph/9803205","Ernest Ma","E. Keith (U of Texas, Austin) and Ernest Ma (UC Riverside)","Supersymmetric U(1) at the TeV Scale","7 pages, no figure, latex, sprocl.sty, talk by E. Ma at the
+  Conference on Phenomenological Aspects of Superstring Theories, Trieste, Oct
+  97",,,"UCRHEP-T216 (Feb 1998)","hep-ph",,"  If there exists an arbitrary supersymmetric U(1) gauge factor at the TeV
+scale, under which the two Higgs superfields H_{1,2} of the standard model are
+nontrivial, and if there is also a singlet superfield S such that the H_1 H_2 S
+term is allowed in the superpotential, then the structure of the two-doublet
+Higgs sector at the electroweak scale is more general than that of the MSSM
+(Minimal Supersymmetric Standard Model). Under further assumptions of grand
+unification and universal soft supersymmetry breaking terms, the scale of U(1)
+breaking is related to the parameter tan(beta) = v_2/v_1.
+","[{""version"":""v1"",""created"":""Sat, 28 Feb 1998 20:08:50 GMT""}]","2007-05-23"
+"hep-ph/9803206","Ernest Ma","Ernest Ma (UC Riverside)","Neutrino Masses and Anomalous Interactions","7 pages, no figure, latex, sprocl.sty, talk at XVI Autumn School and
+  Workshop on Fermion Masses, Mixing and CP Violation, Lisbon, Oct 97",,,"UCRHEP-T217 (Feb 98)","hep-ph",,"  The interplay between neutrino masses and the interactions of neutrinos with
+matter is discussed with an eye to extending the latter to include possible new
+interactions. This conjecture may resolve the conundrum posed by the present
+experimental data on neutrino oscillations which suggest the existence of four
+neutrinos, whereas Z decay and Big Bang Nucleosynthesis allow only three. The
+case of a possible sterile neutrino is also briefly discussed.
+","[{""version"":""v1"",""created"":""Sat, 28 Feb 1998 20:42:22 GMT""}]","2007-05-23"
+"hep-ph/9803207","Ernest Ma","Ernest Ma (UC Riverside)","Models of Neutrino Mass and Interactions for Neutrino Oscillations","9 pages, no figure, latex, sprocl.sty, talk at the Workshop on B and
+  Neutrino Physics, Allahabad, Jan 98",,,"UCRHEP-T218 (Feb 98)","hep-ph",,"  I review the various mechanisms for obtaining nonzero neutrino masses. I
+focus on the possibility of adding one light singlet neutrino to the three
+known doublet neutrinos nu_e, nu_mu, and nu_tau to accommodate the totality of
+neutrino-oscillation experiments. I review the various theoretical suggestions
+for this singlet. I discuss also a scenario in which there are only the three
+doublet neutrinos but a large anomalous interaction is assumed for nu_tau as an
+attempt to explain all present data.
+","[{""version"":""v1"",""created"":""Sat, 28 Feb 1998 21:10:41 GMT""}]","2007-05-23"
+"hep-ph/9803208","Ernest Ma","Ernest Ma (UC Riverside)","Symmetries of the Standard Model without and with a Right-Handed
+  Neutrino","7 pages, no figure, latex, sprocl.sty, talk at the Fifth Workshop on
+  High Energy Physics Phenomenology, Pune, Jan 98","Pramana 51 (1998) 45-50","10.1007/BF02827479","UCRHEP-T219 (Feb 98)","hep-ph",,"  Given the particle content of the standard model without and with a
+right-handed neutrino, the requirement that all anomalies cancel singles out a
+set of possible global symmetries which can be gauged. I review this topic and
+propose a new gauge symmetry B - 3L_tau in the context of the minimal standard
+model consisting of the usual three families of quarks and leptons plus just
+one nu_R. The many interesting phenomenological consequences of this hypothesis
+are briefly discussed.
+","[{""version"":""v1"",""created"":""Sat, 28 Feb 1998 20:59:38 GMT""}]","2009-10-31"
+"hep-ph/9803209","Rainer Dick","Rainer Dick","Confinement from a massive scalar in QCD","LaTeX, 5 pages","Eur.Phys.J.C6:701-703,1999","10.1007/s100520050377","LMU-TPW-98/06","hep-ph hep-ex hep-th",,"  A model is introduced with a massive scalar coupling to the Yang--Mills term
+in four--dimensional gauge theory. It is shown that the resulting potential of
+colour sources consists of a short range Coulomb interaction and a long range
+confining part. Far away from the source the scalar vanishes $\sim r^{-1}$
+while the potential diverges linearly $\sim r$. Up to an $N_c$--dependent
+factor of order 1 the tension parameter in the model is $gmf$, where $m$
+denotes the mass of the scalar and $f$ is a coupling scale entering the
+scalar--gluon coupling.
+","[{""version"":""v1"",""created"":""Sat, 28 Feb 1998 21:18:15 GMT""}]","2011-09-13"
+"hep-th/9803002","Juan Maldacena","Juan M. Maldacena","Wilson loops in large N field theories","12 pages, harvmac. v2: sign in eqn. (5.6) corrected, v3 typo
+  corrected","Phys.Rev.Lett. 80 (1998) 4859-4862","10.1103/PhysRevLett.80.4859","HUTP-98/A014","hep-th",,"  We propose a method to calculate the expectation values of an operator
+similar to the Wilson loop in the large N limit of field theories. We consider
+N=4 3+1 dimensional super-Yang-Mills. The prescription involves calculating the
+area of a fundamental string worldsheet in certain supergravity backgrounds. We
+also consider the case of coincident M-theory fivebranes where one is lead to
+calculating the area of M-theory two-branes. We briefly discuss the computation
+for 2+1 dimensional super-Yang-Mills with sixteen supercharges which is
+non-conformal. In all these cases we calculate the energy of quark-antiquark
+pair.
+","[{""version"":""v1"",""created"":""Sun, 1 Mar 1998 00:26:14 GMT""},{""version"":""v2"",""created"":""Wed, 4 Mar 1998 22:42:45 GMT""},{""version"":""v3"",""created"":""Thu, 19 Mar 1998 18:56:26 GMT""}]","2016-09-06"
+"hep-th/9803003","Mark A. Van Raamsdonk","Mark Van Raamsdonk (Princeton)","Conservation of Supergravity Currents from Matrix Theory","11 pages, LaTeX, typos corrected","Nucl.Phys. B542 (1999) 262-272","10.1016/S0550-3213(98)00787-1","PUPT-1769","hep-th",,"  In recent work by Kabat and Taylor, certain Matrix theory quantities have
+been identified with the spatial moments of the supergravity stress-energy
+tensor, membrane current, and fivebrane current. In this note, we determine the
+relations between these moments required by current conservation, and prove
+that these relations hold as exact Matrix Theory identities at finite N. This
+establishes conservation of the effective supergravity currents (averaged over
+the compact circle). In addition, the constraints of current conservation allow
+us to deduce Matrix theory quantities corresponding to moments of the spatial
+current of the longitudinal fivebrane charge, not previously identified.
+","[{""version"":""v1"",""created"":""Sun, 1 Mar 1998 07:39:51 GMT""},{""version"":""v2"",""created"":""Thu, 5 Mar 1998 03:43:26 GMT""}]","2009-10-31"
+"hep-th/9803004","Avinash Dhar","Avinash Dhar and Gautam Mandal","Probing 4-Dimensional Nonsupersymmetric Black Holes Carrying D0- and
+  D6-brane charges","26 pages, latex, no figures. A new section containing U-duality
+  invariant formulae for entropy and mass of the general non-extremal black
+  hole has been added and some corresponding changes made in the abstract and
+  sections 1, 5 and 7. References added","Nucl.Phys. B531 (1998) 256-274","10.1016/S0550-3213(98)00497-0","TIFR-TH-98/05","hep-th",,"  We discuss a 4-dimensional nonsupersymmetric black hole solution to low
+energy type IIA string theory which carries D0- and D6-brane charges. For equal
+charges this solution reduces to the one discussed recently by Sheinblatt. We
+present a new parametrization of the solution in terms of four numbers which
+reveals the underlying brane and antibrane structure of the black hole
+arbitrarily far from extremality. In this parametrization, the entropy of the
+general nonextremal black hole takes on a simple U-duality invariant form. A
+Yang-Mills solution for the brane configuration corresponding to the extremal
+case is constructed and a computation of the 1-loop matrix theory potential for
+the scattering of a 0-brane probe off this brane configuration done. We find
+that this agrees with the 1-loop potential obtained from a supergravity
+calculation in the limit in which the ratio of the 0-brane to 6-brane charges
+is large.
+","[{""version"":""v1"",""created"":""Sun, 1 Mar 1998 14:32:27 GMT""},{""version"":""v2"",""created"":""Mon, 16 Mar 1998 10:37:38 GMT""}]","2009-10-31"
+"physics/9803001",,"Xi-Wen Hou, Mi Xie, Shi-Hai Dong, and Zhong-Qi Ma","Overtone spectra and intensities of tetrahedral molecules in
+  boson-realization models","14 pages Revtex, no figure, to appear in Annals of Physics",,"10.1006/aphy.1997.5767",,"physics.chem-ph",,"  The stretching and bending vibrational spectrum and the intensities of
+infrared transitions in a tetrahedral molecule are studied in two
+boson-realization models, where the interactions between stretching and bending
+vibrations are described by a quadratic cross term and by Fermi resonance
+terms, called harmonically coupled and Fermi resonance boson-realization model,
+respectively. The later is a development of our recent model. As an example,
+the two models are applied to the overtone spectrum and the intensities of
+silicon tetrafluorde. Those models provide fits to the published experimental
+vibrational eigenvalues with standard deviations 1.956 cm$^{-1}$ and 0.908
+cm$^{-1}$, respectively. The intensities of infrared transitions of its
+complete vibrations are calculated in the two models, and results show a good
+agreement with the observed data.
+","[{""version"":""v1"",""created"":""Sun, 1 Mar 1998 07:34:27 GMT""}]","2009-10-31"
+"quant-ph/9803002","Arkadiusz Jadczyk","G.G. Emch and A Jadczyk","On Quaternions and Monopoles","12 pages amstex, Postscript file available also at
+  http://www.ift.uni.wroc.pl/~ajad","Canadian Mathematical Society Proceedings 20, 157-164 (2000)",,,"quant-ph",,"  It is shown that the quaternionic Hilbert space formulation of quantum
+mechanics allows a quantization, based on a generalized system of
+imprimitivity, that leads to a description of the motion of a quantum particle
+in the field of a magnetic monopole. The corresponding Hamilton operator is
+linked to the theory of projective representations in the weakened form
+proposed by Adler.
+","[{""version"":""v1"",""created"":""Sat, 28 Feb 1998 17:35:45 GMT""}]","2022-04-05"

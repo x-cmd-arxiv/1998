@@ -1,0 +1,1227 @@
+"astro-ph/9801080","Wendy L. Freedman","Wendy L. Freedman, Jeremy R. Mould, Robert C. Kennicutt, Barry F.
+  Madore","The Hubble Space Telescope Key Project to Measure the Hubble Constant","14 pages",,,,"astro-ph",,"  A review of the Hubble Space Telescope H0 Key Project is given, as presented
+at the IAU Symposium 183 on ""Cosmological Parameters"" held in Kyoto, Japan in
+August, 1997. An outline of the goals and progress toward this effort is given.
+Cepheid distances to over a dozen galaxies have now been measured using HST.
+These distances form the basis for the calibration of a number of secondary
+distance indicators including the Tully-Fisher relation and type Ia supernovae.
+Substantial progress has been made in placing empirical limits on the effects
+of varying metal abundance on the derived Cepheid distances. The Key Project
+data are consistent with a small effect of -0.24 +/- 0.16 mag/dex. The value of
+the Hubble constant is presently determined to be 73 +/- 6 (statistical) +/- 8
+km/sec/Mpc, based upon a number of methods. A summary of the recent calibration
+of the Cepheid period-luminosity relation using Hipparcos is also given.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 22:30:13 GMT""}]","2007-05-23"
+"astro-ph/9801095","Roberto Soria","Roberto Soria, Dayal T. Wickramasinghe, Richard W. Hunstead and Kinwah
+  Wu","Measuring the Motion of the Black Hole in GRO J16550-40","14 pages including 4 figures, 200K",,"10.1086/311225","E97-5862","astro-ph",,"  We report optical spectroscopic observations of the Low Mass X-ray Binary GRO
+J1655-40 during outbursts in August-September 1994 and in June 1996. The
+spectra show emission and absorption lines from the accretion disk surrounding
+the X-ray source, which have enabled us to measure the motion of the black-hole
+candidate in this system. It is the first time among black-hole candidates that
+an emission-line radial velocity curve is seen in phase with the expected
+motion of the primary. The projected radial velocity semi-amplitude determined
+for the primary [K(X) = 76.2 +/- 7.5 km/s], combined with estimates of the
+projected radial velocity semi-amplitude of the companion star from previous
+observations [K(C) = 228.2 +/- 3.0 km/s], yields a 95% confidence limit,
+derived purely from kinematics, of M(X) > 5.1 M(sun) for the mass of the
+compact object in GRO J1655-40, confirming its black hole nature.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 01:06:38 GMT""}]","2009-10-30"
+"astro-ph/9801097","D. R. Lorimer","D. R. Lorimer, A. Jessner, J. H. Seiradakis, A. G. Lyne, N. D'Amico,
+  A. Athanasopoulos, K. M. Xilouris, M. Kramer, R. Wielebinski","A flexible format for exchanging pulsar data","4 pages, 2 figures",,"10.1051/aas:1998161",,"astro-ph",,"  We describe a data format currently in use amongst European institutions for
+exchanging and archiving pulsar data. The format is designed to be as flexible
+as possible with regard to present and future compatibility with different
+operating systems. One application of the common format is simultaneous
+multi-frequency observations of single pulses. A data archive containing over
+2500 pulse profiles stored in this format is now available via the Internet
+(see http://www.mpifr-bonn.mpg.de/pulsar/data), together with a small suite of
+computer programs that can read, write and display the data.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 16:03:10 GMT""}]","2009-10-30"
+"astro-ph/9801098","Andrew Blain","Andrew W. Blain (Cavendish Laboratory, Cambridge, UK)","The Planck Surveyor mission and gravitational lenses","6 pages, 3 single-frame figures, 2 double-frame figures, to be
+  published in MNRAS","Mon.Not.Roy.Astron.Soc. 297 (1998) 511-516","10.1046/j.1365-8711.1998.01584.x",,"astro-ph",,"  An extremely sensitive all-sky survey will be carried out in the
+millimetre/submillimetre waveband by the forthcoming ESA mission Planck
+Surveyor. The main scientific goal of the mission is to make very accurate
+measurements of the spatial power spectrum of primordial anisotropies in the
+cosmic microwave background radiation; however, hundreds of thousands of
+distant dusty galaxies and quasars will also be detected. These sources are
+much more likely to be gravitationally lensed by intervening galaxies as
+compared with sources discovered in surveys in other wavebands. Here the number
+of lenses expected in the survey is estimated, and techniques for
+discriminating between lensed and unlensed sources are discussed. A practical
+strategy for this discrimination is presented, based on exploiting the
+remarkable sensitivity and resolving power of large ground-based
+millimetre/submillimetre-wave interferometer arrays. More than a thousand
+gravitational lenses could be detected: a sample that would be an extremely
+valuable resource in observational cosmology.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 18:07:24 GMT""}]","2009-10-30"
+"astro-ph/9801099","Andrew Blain","Andrew W. Blain (Cavendish Laboratory, Cambridge, UK)","Gravitational lensing and the Sunyaev-Zel'dovich effect in the
+  millimetre/submillimetre waveband","9 pages, 4 single-panel figures, 1 four-panel figure. To be published
+  in MNRAS","Mon.Not.Roy.Astron.Soc. 297 (1998) 502-510","10.1046/j.1365-8711.1998.01582.x",,"astro-ph",,"  The intensity of the cosmic microwave background radiation in the fields of
+clusters of galaxies is modified by inverse Compton scattering in the hot
+intracluster gas - the Sunyaev-Zel'dovich (SZ) effect. The effect is expected
+to be most pronounced at a frequency of about 350 GHz (a wavelength of about
+800 microns), and has been detected in the centimetre and millimetre wavebands.
+In the millimetre/submillimetre waveband, the gravitationally-lensed images of
+distant dusty star-forming galaxies in the background of the cluster are
+predicted to dominate the appearance of clusters on scales of several
+arcseconds, and could confuse observations of the SZ effect at frequencies
+greater than about 200 GHz (wavelengths shorter than about 1.5 mm). Recent
+observations by Smail, Ivison & Blain (1997) confirm that a significant
+population of confusing sources are present in this waveband. Previous
+estimates of source confusion in observations of the
+millimetre/submillimetre-wave SZ effect did not include the effects of lensing
+by the cluster, and so the accuracy of such measurements could be lower than
+expected. Source subtraction may be required in order to measure the SZ effect
+accurately, and a careful analysis of the results of an ensemble of SZ
+measurements could be used to impose limits to the form of evolution of distant
+star-forming galaxies.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 18:45:44 GMT""}]","2009-10-30"
+"astro-ph/9801100","David Crampton","David Crampton, P.L. Schechter, J.-L. Beuzit","Detection of the Galaxy Lensing the Doubly-imaged Quasar SBS 1520+530","11 pages latex including one table and 2 postscript figures.
+  Corrected typo. Accepted by AJ. Also available at
+  http://www.hia.nrc.ca/science/preprint/preprint.html",,"10.1086/300288","HIA-9726","astro-ph",,"  H band observations with a spatial resolution of 0.15"" carried out with the
+Canada-France-Hawaii Telescope adaptive optics system show a galaxy between the
+components of the double BAL quasar SBS 1520+530, thereby confirming this
+system as a gravitational lens. The galaxy is located 0.40"" from the fainter of
+the two QSO images and is offset 0.12"" from the line joining them. The H
+magnitude of the lensing galaxy is ~1 mag fainter than expected from the
+velocity dispersion derived for the lensing galaxy were it at z = 0.71 or z =
+0.81, the redshifts of the two absorption line systems.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 19:27:09 GMT""},{""version"":""v2"",""created"":""Tue, 13 Jan 1998 17:32:38 GMT""}]","2009-10-30"
+"astro-ph/9801101","Adam Dobrzycki","D. Dobrzycka, A. Dobrzycki, D. Engels and H.-J. Hagen","HS0551+7241: A New Possible Magnetic Cataclysmic Variable in the
+  Hamburg/CfA Bright Quasar Survey","17 pages (including 4 figures and 3 tables), to appear in
+  Astronomical Journal, April 1998 issue",,"10.1086/300281",,"astro-ph",,"  We present the analysis of the spectroscopic observations of a newly
+discovered cataclysmic variable HS0551+7241. In 1995 the star's brightness
+dropped by Delta(B)~2.5 mag and HS0551+7241 entered a low state lasting for ~2
+yr. The H-alpha, H-beta and HeII(4686) emission line radial velocity curves
+show evidence of short ~50 min fluctuations superimposed on longer, ~4 hour
+variations. We found similar modulations in the line fluxes and the line
+equivalent widths. The continuum magnitude light curve suggest that HS0551+7241
+may be an eclipsing system. If the 4 hour period is related to the orbital
+period then the mass function is ~0.138 M_sun. Relatively strong HeII(4686)
+emission and short fluctuation may suggest that the binary is an intermediate
+polar. In that case the ~50 min variations would correspond to the Alfven
+radius of ~3 x 10^10 cm.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 22:25:42 GMT""}]","2009-10-30"
+"astro-ph/9801103","Christian Y. Cardall","Christian Y. Cardall (SUNY at Stony Brook), George M. Fuller (UCSD)","Semianalytic Analysis of Primordial Black Hole Formation During a
+  First-order QCD Phase Transition","LaTex, 17 pages, 6 figures; uses REVTEX and epsf macros; submitted to
+  Phys. Rev. D",,,,"astro-ph gr-qc hep-ph",,"  It has recently been suggested that cosmologically significant numbers of
+black holes could form during a first-order QCD phase transition. Further, it
+has been asserted that these black holes would have masses corresponding
+naturally to the inferred mass ($\sim 1 M_{\odot}$) of the MACHOs responsible
+for the observed gravitational microlensing events. In this model, the
+underlying spectrum of primordial density perturbations provides the
+fluctuations that give rise to black holes at the epoch of the QCD transition.
+We employ a simplified model to estimate the reduction in the critical
+overdensity of a horizon-sized primordial perturbation required for collapse to
+a black hole. We find that a first-order QCD transition does indeed produce a
+sharp peak in the black hole mass spectrum, but that this peak corresponds to
+the horizon mass at an epoch somewhat earlier than the cosmological transition
+itself. Assuming a COBE normalized primordial density perturbation spectrum
+with constant spectral index, for the black holes so produced to be
+cosmologically significant would require an extremely finely tuned ``blue''
+primordial density perturbation spectrum. Specifically, in the context of our
+simplified model, a spectral index in the range $n=1.37-1.42$ corresponds to
+the range $\Omega \sim 10^{-5}-10^3$ of the black hole contribution to the
+present-day density parameter.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 01:20:50 GMT""}]","2007-05-23"
+"astro-ph/9801104","Tomonori Totani","Tomonori Totani (The University of Tokyo)","Electron Neutrino Mass Measurement by Supernova Neutrino Bursts and
+  Implications on Hot Dark Matter","4 pages including 1 figure, accepted by Phys. Rev. Lett","Phys.Rev.Lett. 80 (1998) 2039-2042","10.1103/PhysRevLett.80.2039","UTAP-283/97","astro-ph hep-ex hep-ph",,"  We present a new strategy for measuring the electron neutrino mass ($\mnue$)
+by future detection of a Galactic supernova in large underground detectors such
+as the Super-Kamiokande (SK). This method is nearly model-independent and one
+can get a mass constraint in a straightforward way from experimental data
+without specifying any model parameters for profiles of supernova neutrinos. We
+have tested this method using virtual data generated from a numerical model of
+supernova neutrino emission by realistic Monte-Carlo simulations of the SK
+detection. It is shown that this method is sensitive to $\mnue$ of $\sim$ 3 eV
+for a Galactic supernova, and this range is as low as the prediction of the
+cold+hot dark matter scenario with a nearly degenerate mass hierarchy of
+neutrinos, which is consistent with the current observations of solar and
+atmospheric neutrino anomalies and density fluctuations in the universe.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 08:29:58 GMT""}]","2009-10-30"
+"astro-ph/9801105","Tomonori Totani","Tomonori TOTANI (The University of Tokyo)","Gamma-Ray Bursts from Neutron Star Mergers and Evolution of Galaxies","5 pages including 1 figure. To Appear in the proceedings of `Neutron
+  Stars and Pulsars', November 1997, Tokyo, Japan",,,"UTAP-282/97","astro-ph",,"  Most of proposed models of cosmological gamma-ray bursts (GRBs) are
+associated to gravitational collapses of massive stars, and hence evolution of
+the GRB rate, which is crucially important in GRB intensity distribution
+analysis, is determined by the cosmic star formation history. Here we present
+complementary results of GRB logN-logP analysis, which were omitted in the
+previous paper (Totani 1997, ApJ, 486, L71). A unique feature of the binary
+neutron-star merger scenario, in contrast to other scenarios associated to
+single stellar collapses, is that a time delay during binary spiral-in phase
+emitting gravitational waves is not negligible and makes the rate evolution
+flatter than that of star formation rate. We show that binary merger scenario
+is more favored than single stellar collapses. The estimated peak luminosity
+and total emitted energy in rest-frame 50-300 keV range is 1--3 $\times 10^{51}
+(\Omega / 4 \pi)$ erg/s and 1--3 $\times 10^{52} (\Omega / 4 \pi)$ erg,
+respectively, where $\Omega$ is opening angle of gamma-ray emission. Absolute
+rate comparison between GRBs and neutron-star mergers suggests that a beaming
+factor of $(\Omega/4\pi)^{-1} \sim$ a few hundreds is required. High-$z$ SFR
+data ($z>2$) based on UV luminosity need to be corrected upwards by a factor of
+5--10 for a good fit, and this is likely explained by the dust extinction
+effect.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 08:31:17 GMT""}]","2007-05-23"
+"astro-ph/9801106","Xiangdong Shi","Xiangdong Shi and George M. Fuller (UCSD)","Neutrinos and Supermassive Stars: Prospects for Neutrino Emission and
+  Detection","21 pages including 4 figures, submitted to ApJ","Astrophys.J. 503 (1998) 307","10.1086/305992",,"astro-ph hep-ph",,"  We calculate the luminosity and energy spectrum of the neutrino emission from
+electron-positron pair annihilation during the collapse of a supermassive star
+(${M} \ga 5\times10^4 {M_\odot}$). We then estimate the cumulative flux and
+energy spectrum of the resulting neutrino background as a function of the
+abundance and redshift of supermassive stars and the efficiency of these
+objects in converting gravitational energy into neutrino energy. We estimate
+the expected signal in some of the new generation of astrophysical neutrino
+detectors from both a cumulative background of supermassive stars and single
+collapse events associated with these objects.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 03:38:44 GMT""}]","2009-10-30"
+"astro-ph/9801108","Sergei Levshakov","Sergei A. Levshakov (National Astronomical Observatory, Japan),
+  Wilhelm H. Kegel (University Frankfurt/Main, Germany), and Fumio Takahara
+  (Osaka University, Japan)","The D/H ratio at z=0.7 toward Q 1718+4807","4 pages, 5 Postscript figures, l-aa.sty file, submitted to the A&A
+  Letters",,,,"astro-ph",,"  The apparent discrepancy between low and high D abundances derived from QSO
+spectra may be caused by spatial correlations in the stochastic velocity field.
+If one accounts for such correlations, one finds good agreement between
+different observations and the theoretical predictions for standard big bang
+nucleosynthesis (SBBN). In particular, we show that the H+D Ly-alpha profile
+observed at z = 0.7 toward Q1718+4807 is compatible with 4.1*10^{-5} <= D/H <=
+4.7*10^{-5}. This result is consistent with our previous D/H determination for
+the z = 2.504 system toward Q1009+2956 and, thus, supports SBBN.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 05:39:48 GMT""}]","2007-05-23"
+"astro-ph/9801109","Tsuguya Naito","Saku Tsuneta and Tsuguya Naito","Fermi acceleration at fast shock in a solar flare and impulsive loop-top
+  hard X-ray source","13 pages, 3 postscript figures, used AASTeX macros; accepted in
+  Astrophysical Journal Letters",,"10.1086/311207",,"astro-ph",,"  We propose that non-thermal electrons are efficiently accelerated by
+first-order Fermi process at the fast shock, as a natural consequence of the
+new magnetohydrodynamic picture of the flaring region revealed with Yohkoh. An
+oblique fast shock is naturally formed below the reconnection site, and boosts
+the acceleration to significantly decrease the injection energy. The slow
+shocks attached to the reconnection X-point heat the plasma up to 10--20 MK,
+exceeding the injection energy. The combination of the oblique shock
+configuration and the pre-heating by the slow shock allows bulk electron
+acceleration from the thermal pool. The accelerated electrons are trapped
+between the two slow shocks due to the magnetic mirror downstream of the fast
+shock, thus explaining the impulsive loop-top hard X-ray source discovered with
+Yohkoh. Acceleration time scale is ~ 0.3--0.6 s, which is consistent with the
+time scale of impulsive bursts. When these electrons stream away from the
+region enclosed by the fast shock and the slow shocks, they are released toward
+the footpoints and may form the simultaneous double-source hard X-ray structure
+at the footpoints of the reconnected field lines.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 07:58:13 GMT""}]","2009-10-30"
+"astro-ph/9801110","Jacco Vink","Jacco Vink","Three Supernova Remnants observed by BeppoSAX","6 pages, 6 figures, LateX. To appear in The Active X-ray Sky, Rome,
+  Italy, 21-24 October, 1997. Eds.: L. Scarsi, H. Bradt, P. Giommi and F. Fiore","Nucl.Phys.Proc.Suppl. 69 (1998) 62-67","10.1016/S0920-5632(98)00185-6",,"astro-ph",,"  We present the results of three observations of shell-type supernova remnants
+observed by BeppoSAX. Two of the remnants (N132D and Cas A) are oxygen rich
+supernova remnants. They were observed during the PV phase. SN1006 was observed
+during A01. For SN1006 we present preliminary results on the abundance
+measurements based on the emission from the center of the remnant.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 11:07:22 GMT""}]","2009-10-30"
+"astro-ph/9801111","Villante Francesco","G.Fiorentini, M.Moretti, F.L.Villante","The anisotropy of inverse beta decay and antineutrino detection","3 pages including 2 figures, LaTex file, espcrc2.sty is needed; to
+  appear in Nucl. Phys. B Proc. Suppl., Proceedings of TAUP97 conference,
+  Laboratori Nazionali del Gran Sasso, September 1997","Nucl.Phys.Proc.Suppl. 70 (1999) 364-366","10.1016/S0920-5632(98)00453-8",,"astro-ph hep-ph",,"  The anisotropy of the positrons emitted in the reaction $\bar{\nu}_{e}+p\to
+n+e^{+}$ has to be taken into account for extracting an antineutrino signal in
+Superkamiokande. For the Sun, this effect allows a sensitivity to
+$\nu_{e}\to\bar{\nu}_{e}$ transition probability at the 3% level already with
+the statistics collected in the first hundred days. For a supernova in the
+Galaxy, the effect is crucial for extracting the correct ratio of $\nu-e$ to
+$\bar\nu_{e}-p$ events.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 11:40:21 GMT""}]","2009-10-30"
+"astro-ph/9801113","Richard Ellis","Richard S Ellis (IoA, Cambridge)","The Formation and Evolution of Galaxies: Perspectives on the Origin of
+  the Hubble Sequence","17 pages, LaTeX, with CRCKAPB macros, 7 postscript/gif figures. To
+  appear in `Cosmological Parameters & Evolution of the Universe', ed. Sato,
+  K., IAU Symposium 183",,,,"astro-ph",,"  I review recent observational progress concerning the evolution of the
+morphological distribution of galaxies in the rich cluster environment and in
+the faint field population. By coupling HST imagery with ground-based
+spectroscopic diagnostics, evidence accumulates that galaxy morphology can be a
+transient phenomenon reflecting various changes in the star formation rate.
+Possible physical processes responsible for these changes are discussed. Future
+progress in understanding them will depend on securing 2-D spectroscopic data
+for representative systems.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 12:40:18 GMT""}]","2007-05-23"
+"astro-ph/9801114","James Dunlop","James Dunlop (University of Edinburgh)","Old stellar populations in distant radio galaxies","To be published in `The most distant radio galaxies' KNAW Colloquium,
+  Amsterdam, October 1997, eds Best et al., Kluwer. 16 pages of LaTex including
+  8 postscript figures (5 in colour). Uses knawproc.cls and psfile",,,,"astro-ph",,"  I describe the current status of our attempts to determine the age of the
+oldest known stellar populations at high redshift, in the red mJy radio
+galaxies 53W091 ($z = 1.55$) and 53W069 ($z = 1.43$). During the past year the
+original conclusion of Dunlop et al. (1996) - that 53W091 is $>3$ Gyr old - has
+been questioned from two, basically orthogonal directions. First, reports that
+the near-infrared light from 53W091 is highly polarized have cast some doubt on
+whether its red colour is genuinely due to an old population of stars. Second,
+assuming that all the light is indeed due to stars, it has been claimed that
+53W091 is in fact only 1-2 Gyr old. Here I present a preliminary analysis of
+new infrared polarimetric observations of 53W091 which show that the first of
+these criticisms can be rejected with very high confidence. I then explore why
+different modellers have derived different ages for 53W091, and present new
+model fits to the spectrum of 53W069 which demonstrate that different spectral
+synthesis codes are certainly in good agreement that this galaxy is 3-4 Gyr
+old. Finally I present a preliminary analysis of the morphologies and
+scale-lengths of 53W091 and 53W069 as derived from new I-band WFPC2 HST images,
+and compare the results with those for 3CR galaxies at comparable redshifts. I
+conclude that the scalelengths and luminosities of radio galaxies at $z \simeq
+1.5$ appear to scale together as would be predicted from the Kormendy relation
+for low-redshift elliptical galaxies.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 12:45:56 GMT""}]","2007-05-23"
+"astro-ph/9801115","Hector DE Vega","H. J. de Vega, N. S\'anchez and F. Combes","Fractal Dimensions and Scaling Laws in the Interstellar Medium and
+  Galaxy Distributions: a new Field Theory Approach","Latex file, 35 pages, no figures. To appear in the Proceedings of the
+  6th. Erice Chalonge School on Astrofundamental Physics, N. S\'anchez and A.
+  Zichichi eds., Kluwer, 1998, references updated",,,,"astro-ph cond-mat gr-qc hep-ph hep-th",,"  We develop a field theoretical approach to the cold interstellar medium (ISM)
+and large structure of the universe. We show that a non-relativistic self-
+gravitating gas in thermal equilibrium with variable number of atoms or
+fragments is exactly equivalent to a field theory of a scalar field phi(x) with
+exponential self-interaction. We analyze this field theory perturbatively and
+non-perturbatively through the renormalization group(RG).We show scaling
+behaviour (critical) for a continuous range of the physical parameters as the
+temperature. We derive in this framework the scaling relation M(R) \sim R^{d_H}
+for the mass on a region of size R, and Delta v \sim R^\frac12(d_H -1) for the
+velocity dispersion. For the density-density correlations we find a power-law
+behaviour for large distances \sim |r_1 - r_2|^{2D - 6}.The fractal dimension D
+turns to be related with the critical exponent \nu by D = 1/ \nu. Mean field
+theory yields \nu = 1/2, D = 2. Both the Ising and the mean field values are
+compatible with the present ISM observational data:1.4\leq D \leq 2. We develop
+a field theoretical approach to the galaxy distribution considering a gas of
+self-gravitating masses on the FRW background, in quasi-thermal equi- librium.
+We show that it exhibits scaling behaviour by RG methods. The galaxy
+correlations are computed without assuming homogeneity. We find <\rho({\vec
+r_0})\rho({\vec r_0} + {\vec r}) > \sim r^{D-3} $. The theory allows to compute
+the three and higher density correlators without any assumption.We find that
+the connected N-points density scales as r_1^{N(D-3)}, when $ r_1 >> r_i, 2\leq
+i \leq N $. There are no free parameters in this theory.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 13:07:03 GMT""},{""version"":""v2"",""created"":""Fri, 6 Feb 1998 16:27:28 GMT""}]","2016-08-30"
+"astro-ph/9801116","Patricia Tissera","P.B. Tissera, R. Dom\ci nguez-Tenreiro","Dark Matter Halo Structure in CDM Hydrodynamical Simulations","28 pages, 15 figures (figures 3ab sent by request), 2 tables.
+  Accepted for publication MNRAS",,"10.1046/j.1365-8711.1998.01440.x",,"astro-ph",,"  We have carried out a comparative analysis of the properties of dark matter
+halos in N-body and hydrodynamical simulations. We analyze their density
+profiles, shapes and kinematical properties with the aim of assessing the
+effects that hydrodynamical processes might produce on the evolution of the
+dark matter component. The simulations performed allow us to reproduce dark
+matter halos with high resolution, although the range of circular velocities is
+limited. We find that for halos with circular velocities of $[150-200] km
+s^{-1}$ at the virial radius, the presence of baryons affects the evolution of
+the dark matter component in the central region modifying the density profiles,
+shapes and velocity dispersions. We also analyze the rotation velocity curves
+of disk-like structures and compare them with observational results.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 13:46:54 GMT""}]","2009-10-30"
+"astro-ph/9801117","Paulo Aguiar","Paulo Aguiar and Paulo Crawford","Axially Symmetric Cosmological Models with Perfect Fluid and
+  Cosmological Constant","8 pages, 5 figures; Extended version of a paper to appear in
+  Proceedings of NON-SLEEPING UNIVERSE Conference","Astrophys.Space Sci.261:299-300,1999","10.1023/A:1002071910713",,"astro-ph",,"  Following recent considerations of a non-zero value for the vacuum energy
+density and the realization that a simple Kantowski-Sachs model might fit the
+classical tests of cosmology, we study the qualitative behavior of three
+anisotropic and homogeneous models: Kantowski-Sachs, Bianchi I and Bianchi III
+universes, with dust and cosmological constant, in order to find out which are
+physically permitted. In fact, these models undergo isotropisation, except for
+the Kantowski-Sachs model (Omega_{k_{0}}>0) with Omega_{Lambda_{0}}<
+Omega_{Lambda_{M}} and for the Bianchi III (Omega_{k_{0}}<0) with
+Omega_{Lambda_{0}}<Omega_{Lambda_{M}}, and the observations will not be able to
+distinguish between these models and the standard model. If we impose that the
+Universe should be very much isotropic since the last scattering epoch (z
+approximately 1000), meaning that the Universe should have approximately the
+same Hubble parameter in all directions, we are led to a matter density
+parameter very close to the unity at the present time.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 14:56:50 GMT""},{""version"":""v2"",""created"":""Sat, 20 Jun 1998 16:32:20 GMT""},{""version"":""v3"",""created"":""Sat, 27 Jun 1998 02:18:27 GMT""}]","2011-04-15"
+"chao-dyn/9801014","J. R. Dorfman","J. R. Dorfman (1), Arnulf Latz (2), and Henk van Beijeren (3) ((1)
+  Institute for Physical Science and Technology and Department of Physics,
+  University of Maryland, College Park, MD, USA; (2) Fachbereich Physik (18),
+  Institut f\""ur Physik Johannes Gutenberg Universit\""at Mainz, Mainz, Germany;
+  (3) Institute for Theoretical Physics, University of Utrecht, Utrecht, The
+  Netherlands)","B. B. G. K. Y. Hierarchy Methods for Sums of Lyapunov Exponents for
+  Dilute Gases","submitted to CHAOS, special issue, T. Tel. P. Gaspard, and G.
+  Nicolis, eds",,"10.1063/1.166325",,"chao-dyn nlin.CD",,"  We consider a general method for computing the sum of positive Lyapunov
+exponents for moderately dense gases. This method is based upon hierarchy
+techniques used previously to derive the generalized Boltzmann equation for the
+time dependent spatial and velocity distribution functions for such systems. We
+extend the variables in the generalized Boltzmann equation to include a new set
+of quantities that describe the separation of trajectories in phase space
+needed for a calculation of the Lyapunov exponents. The method described here
+is especially suitable for calculating the sum of all of the positive Lyapunov
+exponents for the system, and may be applied to equilibrium as well as
+non-equilibrium situations. For low densities we obtain an extended Boltzmann
+equation, from which, under a simplifying approximation, we recover the sum of
+positive Lyapunov exponents for hard disk and hard sphere systems, obtained
+before by a simpler method. In addition we indicate how to improve these
+results by avoiding the simplifying approximation. The restriction to hard
+sphere systems in $d$-dimensions is made to keep the somewhat complicated
+formalism as clear as possible, but the method can be easily generalized to
+apply to gases of particles that interact with strong short range forces.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 22:13:09 GMT""}]","2009-10-31"
+"chao-dyn/9801015","Darryl D. holm","D. D. Holm (1), J. E. Marsden (2) and T. S. Ratiu (3) ((1) Los Alamos
+  National Laboratory, (2) Caltech and (3) UC Santa Cruz)","The Euler-Poincare Equations and Semidirect Products with Applications
+  to Continuum Theories","72 pages, LATeX, no figures",,,"LAUR-97-3352","chao-dyn nlin.CD",,"  We study Euler-Poincare systems (i.e., the Lagrangian analogue of Lie-Poisson
+Hamiltonian systems) defined on semidirect product Lie algebras. We first give
+a derivation of the Euler-Poincare equations for a parameter dependent
+Lagrangian by using a variational principle of Lagrange d'Alembert type. Then
+we derive an abstract Kelvin-Noether theorem for these equations. We also
+explore their relation with the theory of Lie-Poisson Hamiltonian systems
+defined on the dual of a semidirect product Lie algebra. The Legendre
+transformation in such cases is often not invertible; so it does not produce a
+corresponding Euler-Poincare system on that Lie algebra. We avoid this
+potential difficulty by developing the theory of Euler-Poincare systems
+entirely within the Lagrangian framework. We apply the general theory to a
+number of known examples, including the heavy top, ideal compressible fluids
+and MHD. We also use this framework to derive higher dimensional Camassa-Holm
+equations, which have many potentially interesting analytical properties. These
+equations are Euler-Poincare equations for geodesics on diffeomorphism groups
+(in the sense of the Arnold program) but where the metric is H^1 rather than
+L^2.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 10:50:09 GMT""}]","2007-05-23"
+"chao-dyn/9801016","Darryl D. holm","H. Cendra (1), D. D. Holm (2), M. J. W. Hoyle and J. E. Marsden ((1)
+  Universidad Nacional del Sur, AR, (2) Los Alamos National Laboratory, (3) UC
+  Santa Cruz, (4) Caltech)","The Maxwell-Vlasov equations in Euler-Poincare form","27 pages, LATeX, no figures",,"10.1063/1.532244","LAUR-97-3326","chao-dyn nlin.CD",,"  Low's well known action principle for the Maxwell-Vlasov equations of ideal
+plasma dynamics was originally expressed in terms of a mixture of Eulerian and
+Lagrangian variables. By imposing suitable constraints on the variations and
+analyzing invariance properties of the Lagrangian, as one does for the Euler
+equations for the rigid body and ideal fluids, we first transform this action
+principle into purely Eulerian variables. Hamilton's principle for the Eulerian
+description of Low's action principle then casts the Maxwell-Vlasov equations
+into Euler-Poincare form for right invariant motion on the diffeomorphism group
+of position-velocity phase space, R^6. Legendre transforming the Eulerian form
+of Low's action principle produces the Hamiltonian formulation of these
+equations in the Eulerian description. Since it arises from Euler-Poincare
+equations, this Hamiltonian formulation can be written in terms of a Poisson
+structure that contains the Lie-Poisson bracket on the dual of a semidirect
+product Lie algebra. Because of degeneracies in the Lagrangian, the Legendre
+transform is dealt with using the Dirac theory of constraints. Another
+Maxwell-Vlasov Poisson structure is known, whose ingredients are the
+Lie-Poisson bracket on the dual of the Lie algebra of symplectomorphisms of
+phase space and the Born-Infeld brackets for the Maxwell field. We discuss the
+relationship between these two Hamiltonian formulations. We also discuss the
+general Kelvin-Noether theorem for Euler-Poincare equations and its meaning in
+the plasma context.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 10:58:50 GMT""}]","2009-10-31"
+"chao-dyn/9801017",,"O.V. Usatenko, J.-P. Provost, G. Vallee and A. Boudine","Comparative Study of the Adiabatic Evolution of a Nonlinear Damped
+  Oscillator and an Hamiltonian Generalized Nonlinear Oscillator","17 pages, LaTeX, no figures",,"10.1016/S0375-9601(98)00797-X",,"chao-dyn nlin.CD",,"  In this paper we study to what extent the canonical equivalence and the
+identity of the geometric phases of dissipative and conservative linear
+oscillators, established in a preceeding paper, can be generalized to nonlinear
+ones. Considering first the 1-D quartic generalized oscillator we determine, by
+means of a perturbative time dependent technic of reduction to normal forms,
+the canonical transformations which lead to the adiabatic invariant of the
+system and to the first order non linear correction to its Hannay angle. Then,
+applying the same transformations to the 1-D quartic damped oscillator we show
+that this oscillator is canonically equivalent to the linear generalized
+harmonic oscillator for finite values of the damping parameter (which implies
+no correction to the linear Hannay angle) whereas, in an appropriate weak
+damping limit, it becomes equivalent to the quartic generalized oscillator
+(which implies a non linear correction to this angle) .
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 13:26:12 GMT""}]","2009-10-31"
+"cond-mat/9801105","Christian Kuebert","C. Kuebert, P.J. Hirschfeld (U. of Florida, FL)","Transport Properties of d-Wave Superconductors in the Vortex State","5 pages, 2 Postscript figures",,"10.1103/PhysRevLett.80.4963",,"cond-mat.supr-con",,"  We calculate the magnetic field dependence of quasiparticle transport
+properties in the vortex state of a d-wave superconductor arising solely from
+the quasiparticle's Doppler shift in the superflow field surrounding the
+vortex. Qualitative features agree well with experiments on cuprate and heavy
+fermion superconductors at low fields and temperatures. We derive scaling
+relations in the variable $T/H^{1/2}$ valid at sufficiently low temperatures
+$T$ and fields $H$, but show that these relations depend on the scattering
+phase shift, and are in general fulfilled only approximately even in the clean
+limit, due to the energy dependence of the quasiparticle relaxation time.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 17:03:52 GMT""}]","2009-10-31"
+"cond-mat/9801106","Christophe Texier","Jean Desbois, Stephane Ouvry and Christophe Texier","Persistent Currents and Magnetization in two-dimensional Magnetic
+  Quantum Systems","27 pages latex, 1 figure","Nucl. Phys. B 528, p. 727, (1998).","10.1016/S0550-3213(98)00395-2","IPNO/TH 97-43","cond-mat",,"  Persistent currents and magnetization are considered for a two-dimensional
+electron (or gas of electrons) coupled to various magnetic fields.
+Thermodynamic formulae for the magnetization and the persistent current are
+established and the ``classical'' relationship between current and
+magnetization is shown to hold for systems invariant both by translation and
+rotation. Applications are given, including the point vortex superposed to an
+homogeneous magnetic field, the quantum Hall geometry (an electric field and an
+homogeneous magnetic field) and the random magnetic impurity problem (a random
+distribution of point vortices).
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 18:06:41 GMT""}]","2009-10-31"
+"cond-mat/9801107","Wolfgang Belzig","W. Belzig, C. Bruder, and M. Sigrist","Quasiclassical theory of twin boundaries in High-T_c superconductors","4 pages, LaTeX, 4 eps-figures","Phys. Rev. Lett. 80, 4285 (1998)","10.1103/PhysRevLett.80.4285","TFP-1/98","cond-mat.supr-con",,"  We investigate the electronic structure of twin boundaries in
+orthorhombically distorted high-T$_c$ materials using the quasiclassical theory
+of superconductivity. At low temperatures we find a local instability to a
+time-reversal symmetry breaking state at the twin boundary. This state yields
+spontaneous currents along the twin boundary that are microscopically explained
+by the structure of the quasiparticle bound states. We calculate the local
+density of states and find a splitting in the zero-bias peak once the
+spontaneous currents set in. This splitting is measurable by STM techniques and
+is a unique signature of time-reversal breaking states at a twin boundary.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 18:25:31 GMT""}]","2009-10-31"
+"cond-mat/9801108","Sorin Bastea","Sorin Bastea and Philip M. Duxbury (1) ((1) Michigan State University)","Ground State Structure of Random Magnets","REVTEX, 5 included figures (1 color)","Phys. Rev. E 58, 4261 (1998)","10.1103/PhysRevE.58.4261",,"cond-mat.dis-nn cond-mat.stat-mech",,"  Using exact optimization methods, we find all of the ground states of +/- h
+random-field Ising magnets (RFIM) and of dilute antiferromagnets in a field
+(DAFF). The degenerate ground states are usually composed of isolated clusters
+(two-level systems) embedded in a frozen background. We calculate the
+paramagnetic response (sublattice response) and the ground state entropy for
+the RFIM (DAFF) due to these clusters. In both two and three dimensions there
+is a broad regime in which these quantities are strictly positive, even at
+irrational values of h/J (J is the exchange constant).
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 21:06:07 GMT""},{""version"":""v2"",""created"":""Tue, 13 Jan 1998 19:20:07 GMT""},{""version"":""v3"",""created"":""Wed, 14 Jan 1998 14:39:51 GMT""},{""version"":""v4"",""created"":""Fri, 13 Mar 1998 15:00:46 GMT""},{""version"":""v5"",""created"":""Thu, 8 Oct 1998 20:04:26 GMT""}]","2007-05-23"
+"cond-mat/9801109","Jaime Ferrer","J. Ferrer, J. S\'anchez-Ca\~nizares and M. A. Gonz\'alez-Alvarez","s-s*-d-wave superconductor on a square lattice and its BCs phase diagram","4 pages, 3 figures included. Accepted for publication in Phys. Rev. B",,"10.1103/PhysRevB.57.7470","FFUOV-97/10","cond-mat.supr-con cond-mat.str-el",,"  We study an extended Hubbard model with on-site repulsion and nearest
+neighbors attraction which tries to mimic some of the experimental features of
+doped cuprates in the superconducting state. We draw and discuss the phase
+diagram as a function of the effective interactions among electrons for a wide
+range of doping concentrations. We locate the region which is relevant for the
+cuprates setting some constraints on the parameters which may be used in this
+kind of effective models. We also study the effects of temperature and
+orthorrombicity on the symmetry and magnitude of the gap function, and map the
+model onto a simpler linearized hamiltonian, which produces similar phase
+diagrams.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 18:49:14 GMT""}]","2009-10-31"
+"cond-mat/9801110","Chris Wolverton","C. Wolverton and Alex Zunger (National Renewable Energy Laboratory,
+  Golden, CO)","Cation- and vacancy-ordering in Li_xCoO_2","12 Pages, RevTeX galley format, 5 figures embedded using epsf Phys.
+  Rev. B (in press, 1998)","Phys. Rev. B 57, 2242 (1998).","10.1103/PhysRevB.57.2242",,"cond-mat.mtrl-sci",,"  Using a combination of first-principles total energies, a cluster expansion
+technique, and Monte Carlo simulations, we have studied the Li/Co ordering in
+LiCoO_2 and Li-vacancy/Co ordering in CoO_2. We find: (i) A ground state search
+of the space of substitutional cation configurations yields the (layered) CuPt
+structure as the lowest-energy state in the octahedral system LiCoO_2 (and
+CoO_2), in agreement with the experimentally observed phase. (ii) Finite
+temperature calculations predict that the solid-state order- disorder
+transitions for LiCoO_2 and CoO_2 occur at temperatures (~5100 K and ~4400 K,
+respectively) much higher than melting, thus making these transitions
+experimentally inaccessible. (iii) The energy of the reaction E(LiCoO_2) -
+E(CoO_2) - E(Li) gives the average battery voltage V of a Li_xCoO_2/Li cell.
+Searching the space of configurations for large average voltages, we find that
+CuPt (a monolayer <111> superlattice) has a high voltage (V=3.78 V), but that
+this could be increased by cation randomization (V=3.99 V), partial disordering
+(V=3.86 V), or by forming a 2-layer Li_2Co_2O_4 superlattice along <111>
+(V=4.90 V).
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 21:12:37 GMT""}]","2009-10-31"
+"cond-mat/9801111","Nadav M. Shnerb","Nadav M. Shnerb and David R. Nelson","Winding Numbers, Complex Currents, and Non-Hermitian Localization","4 pages, 2 figures",,"10.1103/PhysRevLett.80.5172",,"cond-mat.dis-nn cond-mat.stat-mech cond-mat.supr-con",,"  The nature of extended states in disordered tight binding models with a
+constant imaginary vector potential is explored. Such models, relevant to
+vortex physics in superconductors and to population biology, exhibit a
+delocalization transition and a band of extended states even for a one
+dimensional ring. Using an analysis of eigenvalue trajectories in the complex
+plane, we demonstrate that each delocalized state is characterized by an
+(integer) winding number, and evaluate the associated complex current. Winding
+numbers in higher dimensions are also discussed.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 23:11:15 GMT""},{""version"":""v2"",""created"":""Wed, 28 Jan 1998 17:18:07 GMT""}]","2009-10-31"
+"cond-mat/9801112","Steven van der Marck","Steven C. van der Marck (SIEP Research and Technical Services)","Site percolation and random walks on d-dimensional Kagome lattices","11 pages, LaTeX, 8 figures (EPS format), submitted to J. Phys. A","J. Phys. A: Math. Gen. 31 (1998) 3449--3460.","10.1088/0305-4470/31/15/010","SIEP 98-5020","cond-mat.stat-mech",,"  The site percolation problem is studied on d-dimensional generalisations of
+the Kagome' lattice. These lattices are isotropic and have the same
+coordination number q as the hyper-cubic lattices in d dimensions, namely q=2d.
+The site percolation thresholds are calculated numerically for d= 3, 4, 5, and
+6. The scaling of these thresholds as a function of dimension d, or
+alternatively q, is different than for hypercubic lattices: p_c ~ 2/q instead
+of p_c ~ 1/(q-1). The latter is the Bethe approximation, which is usually
+assumed to hold for all lattices in high dimensions. A series expansion is
+calculated, in order to understand the different behaviour of the Kagome'
+lattice. The return probability of a random walker on these lattices is also
+shown to scale as 2/q. For bond percolation on d-dimensional diamond lattices
+these results imply p_c ~ 1/(q-1).
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 07:56:19 GMT""}]","2009-10-31"
+"cond-mat/9801113","Yuli Lyanda-Geller","Yuli Lyanda-Geller, I.L. Aleiner and Paul M. Goldbart","Domain walls and the conductivity of mesoscopic ferromagnets","4 pages, 1 fugure, RevTEX, Submitted to Phys. Rev. Lett",,"10.1103/PhysRevLett.81.3215",,"cond-mat.mes-hall",,"  Quantum interference phenomena in the conductivity of mesoscopic ferromagnets
+are considered, particularly with regard to the effects of geometric phases
+acquired by electrons propagating through regions of spatially varying
+magnetization (due, e.g., to magnetic domain walls). Weak localization and
+electron-electron interaction quantum corrections to the conductivity and
+universal conductance fluctuations are discussed. Experiments are proposed for
+multiply-connected geometries that should reveal conductance oscillations with
+variations of the profile of the magnetization.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 13:09:43 GMT""}]","2009-10-31"
+"cond-mat/9801114",,"Ar. Abanov and V. L. Pokrovsky (Texas A&M University)","Skyrmion in a real magnetic film","RevTex, 4 pages, no figures",,"10.1103/PhysRevB.58.R8889",,"cond-mat",,"  Skyrmions are the magnetic defects in an ultrathin magnetic film, similar to
+the bubble domains in the thicker films. Even weak uniaxial anisotropy
+determines its radius unambiguously. We consider the dynamics of the skyrmion
+decay. We show that the discreteness of the lattice in an isotropic 2D magnet
+leads to a slow rotation of the local magnetization in the skyrmion and,
+provided a small dissipation, to decay of the skyrmion. The radius of such a
+skyrmion as a function of time is calculated. We prove that uniaxial anisotropy
+stabilizes the skyrmion and study the relaxation process.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 09:00:45 GMT""}]","2009-10-31"
+"cond-mat/9801115","Marti Pi Pericay","D.M. Jezek, M. Pi, M. Barranco, R.J. Lombard, and M. Guilleumas","Ring vortex destabilization in supersaturated 3He-4He liquid mixtures at
+  low temperatures","Typeset using Revtex, 11 pages and 10 Postscript figures","J. of Low Temp. Phys. 112,(1998) 303",,,"cond-mat",,"  The effect of ring vortices on the destabilization of supersaturated liquid
+helium mixtures at very low temperatures is investigated as a function of
+pressure. We have found that large ring vortices trigger the segregation of 3He
+at smaller values of the concentration than small ring vortices. Our
+calculations indicate that the existence of ring vortices in the mixture is a
+possible mechanism to understand the rather small degree of critical
+supersaturation found in the experiments.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 10:06:00 GMT""}]","2007-05-23"
+"cond-mat/9801116","Junzo Chihara","Chihara and Kahl","Structure Factor and Electronic Structure of Compressed Liquid Rubidium","18 pages, 11 figures",,"10.1103/PhysRevB.58.5314",,"cond-mat.mtrl-sci cond-mat.stat-mech",,"  We have applied the quantal hypernetted-chain equations in combination with
+the Rosenfeld bridge-functional to calculate the atomic and the electronic
+structure of compressed liquid-rubidium under high pressure (0.2, 2.5, 3.9, and
+6.1 GPa); the calculated structure factors are in good agreement with
+experimental results measured by Tsuji et al. along the melting curve. We found
+that the Rb-pseudoatom remains under these high pressures almost unchanged with
+respect to the pseudoatom at room pressure; thus, the effective ion-ion
+interaction is practically the same for all pressure-values. We observe that
+all structure factors calculated for this pressure-variation coincide almost
+into a single curve if wavenumbers are scaled in units of the Wigner-Seitz
+radius $a$ although no corresponding scaling feature is observed in the
+effective ion-ion interaction.This scaling property of the structure factors
+signifies that the compression in liquid-rubidium is uniform with increasing
+pressure; in absolute Q-values this means that the first peak-position ($Q_1$)
+of the structure factor increases proportionally to $V^{-1/3}$ ($V$ being the
+specific volume per ion), as was experimentally observed by Tsuji et al.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 10:15:12 GMT""}]","2009-10-31"
+"cond-mat/9801117","Kabanov V. V.","Yu.A. Firsov, V.V. Kabanov, E.K. Kudinov, and A.S. Alexandrov","Comment on `Dynamical properties of small polarons'","To appear in Phys. Rev. B",,"10.1103/PhysRevB.59.12132",,"cond-mat.supr-con",,"  We show that the conclusion on the breakdown of the standard small polaron
+theory made recently by E.V. deMello and J. Ranninger (Phys. Rev. B 55, 14872
+(1997)) is a result of an incorrect interpretation of the electronic and
+vibronic energy levels of the two-site Holstein model. The small polaron
+theory, when properly applied, agrees well with the numerical results of these
+authors. Also we show that their attempt to connect the properties of the
+calculated correlation functions with the features of the intersite electron
+hopping is unsuccessful.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 11:04:11 GMT""},{""version"":""v2"",""created"":""Fri, 12 Feb 1999 12:23:09 GMT""}]","2009-10-31"
+"cond-mat/9801118","Igor Tsatskis","Igor Tsatskis (University of Cambridge)","Simple CVM-based approximations for the configurational entropy","6 pages, no figures, EuroTeX, submitted to Europhysics Letters",,,,"cond-mat.stat-mech cond-mat.mtrl-sci",,"  It is shown how to derive simple polynomial expressions for the variational
+configurational entropy starting from the cluster variation method (CVM). As an
+example, first six terms of the expansion of the entropy in powers of the
+nearest-neighbour (NN) short-range order (SRO) parameter are obtained for the
+NN Ising ferromagnet on the face-centered cubic lattice using the tetrahedron
+(T-CVM) approximation. Calculated values of the transition temperature and the
+NN SRO parameter at the transition converge rapidly to their T-CVM counterparts
+as order of the approximation increases.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 12:51:41 GMT""}]","2007-05-23"
+"cond-mat/9801119","Tomas Alarcon","T. Alarcon, A. Perez-Madrid and J.M. Rubi (U. de Barcelona)","Stochastic Resonance in Nonpotential Systems","Submitted to Phys. Rev. E",,"10.1103/PhysRevE.57.4979",,"cond-mat",,"  We propose a method to analytically show the possibility for the appearance
+of a maximum in the signal-to-noise ratio in nonpotential systems. We apply our
+results to the FitzHugh-Nagumo model under a periodic external forcing, showing
+that the model exhibits stochastic resonance. The procedure that we follow is
+based on the reduction to a one-dimensional dynamics in the adiabatic limit,
+and in the topology of the phase space of the systems under study. Its
+application to other nonpotential systems is also discussed.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 14:37:05 GMT""}]","2009-10-31"
+"cond-mat/9801120","Anthony J. Webster","A. J. Webster and M. E. Cates (Department of Physics and Astronomy,
+  University of Edinburgh)","Stabilisation of Emulsions by Trapped Species","27 pages, Latex, 6 eps figures, uses epsffile. Submitted to Langmuir","Langmuir (1998), Vol 14, 2068-2079",,,"cond-mat.soft",,"  We consider an emulsion whose droplets contain a trapped species (insoluble
+in the continuous phase), and study the emulsion's stability against coarsening
+via Lifshitz-Slyozov dynamics (Ostwald Ripening). Extending an earlier
+treatment by Kabalnov et al(Colloids and Surfaces, 24,(1987), 19-32), we derive
+a general condition on the mean initial droplet volume which ensures stability,
+even when arbitrary polydispersity is present in both size and composition of
+the initial droplets. We distinguish ""nucleated"" coarsening, which requires
+either fluctuations about the mean field equations or a tail in the initial
+droplet size distribution, from ""spinodal"" coarsening in which a typical
+droplet is locally unstable. A weaker condition for stability, previously
+suggested by Kabalnov et al., is sufficient only to prevent ""spinodal""
+coarsening and is best viewed as a condition for metastability. The coarsening
+of unstable emulsions is considered, and shown at long times to resemble that
+of ordinary emulsions (with no trapped species), but with a reduced value of
+the initial volume fraction of dispersed phase. We discuss the physical
+principles relevant to the stability of emulsions with trapped species,
+describing how these may be exploited to restabilise partially coarsened
+emulsions and to ""shrink"" previously formed emulsion droplets to form
+""miniemulsions"".
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 15:24:12 GMT""},{""version"":""v2"",""created"":""Tue, 28 Apr 1998 20:06:35 GMT""}]","2007-05-23"
+"cond-mat/9801121","Tomas Alarcon","T. Alarcon, A. Perez-Madrid and J.M. Rubi (U. de Barcelona)","Periodic Modulation Induced Increase of Reaction Rates in Autocatalytic
+  Systems","Submitted to J. Chem. Phys",,"10.1063/1.476156",,"cond-mat",,"  We propose a new mechanism to increase the reactions ratesin multistable
+autocatalytic systems. The mechanism is based upon the possibility for the
+enhancement of the response of the system due to the cooperative behavior
+between the noise and an external periodic modulation. In order to illustrate
+this feature we compute the reaction velocities for the particular case of the
+Sel'Kov model, showing that they increase significantly when the periodic
+modulation is introduced. This behavior originates from the existence of a
+minimum in the mean first passage time, one of the signatures of stochastic
+resonance.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 15:25:36 GMT""}]","2009-10-31"
+"gr-qc/9801032","Patrick R. Brady","Patrick R. Brady, Ian G. Moss and Robert C. Myers","Cosmic Censorship: As Strong As Ever","4 pages RevTeX style, 1 figure included using epsfig","Phys.Rev.Lett. 80 (1998) 3432-3435","10.1103/PhysRevLett.80.3432","NSF-ITP-98-001, GRP-490","gr-qc",,"  Spacetimes which have been considered counter-examples to strong cosmic
+censorship are revisited. We demonstrate the classical instability of the
+Cauchy horizon inside charged black holes embedded in de Sitter spacetime for
+all values of the physical parameters. The relevant modes which maintain the
+instability, in the regime which was previously considered stable, originate as
+outgoing modes near to the black hole event horizon. This same mechanism is
+also relevant for the instability of Cauchy horizons in other proposed
+counter-examples of strong cosmic censorship.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 17:10:18 GMT""}]","2009-10-31"
+"gr-qc/9801037","Mike Grebeniuk","V.N. Melnikov","Multidimensional Gravity and Cosmology: Exact Solutions","17 pages, Latex. To appear in Proceedings of MG8 Meeting, Jerusalem,
+  1997 (World Scientific, Singapore)",,,,"gr-qc",,"  A short review of recent results on exact solutions in multidimensional
+cosmology and overview of reports at workshop in MG8 (held by the author) are
+presented.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 16:29:57 GMT""}]","2007-05-23"
+"gr-qc/9801038","Eric Poisson","Eric Poisson","Gravitational waves from inspiraling compact binaries: Accuracy of the
+  post-Newtonian waveforms","3 pages, ReVTeX, to appear in the Proceedings of the Second
+  Gravitational Wave Data Analysis Workshop, held in Orsay, France",,,,"gr-qc",,"  The accuracy of the post-Newtonian waveforms, both in standard and Pade form,
+is determined by computing their matched-filtering overlap integral with a
+reference waveform obtained from black-hole perturbation theory.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 18:53:31 GMT""}]","2007-05-23"
+"gr-qc/9801039","Toporenskij A. V.","A.Yu.Kamenshchik (Landau Institute for theoretical physics, Moscow,
+  Russia), I.M.Khalatnikov (Landau Institute for theoretical physics and Tel
+  Avive University, Ramat Avive, Israel) and A.V.Toporensky (Sternberg
+  Astronomical Institute, Moscow, Russia)","Complex inflaton field in quantum cosmology","34 pages with 2 gif figures, mprocl.sty, To appear in International
+  Journal of Modern Physics D","Int.J.Mod.Phys.D6:649-672,1997","10.1142/S0218271897000406",,"gr-qc",,"  We investigate the cosmological model with the complex scalar
+self-interacting inflaton field non-minimally coupled to gravity. The different
+geometries of the Euclidean classically forbidden regions are represented. The
+instanton solutions of the corresponding Euclidean equations of motion are
+found by numerical calculations supplemented by the qualitative analysis of
+Lorentzian and Euclidean trajectories. The applications of these solutions to
+the no-boundary and tunneling proposals for the wave function of the Universe
+are studied. Possible interpretation of obtained results and their connection
+with inflationary cosmology is discussed. The restrictions on the possible
+values of the new quasi-fundamental constant of the theory-non-zero classical
+charge-- are obtained. The equations of motion for the generalized cosmological
+model with complex scalar field are written down and investigated. The
+conditions of the existence of instanton solutions corresponding to permanent
+values of an absolute value of scalar field are obtained.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 20:13:07 GMT""}]","2014-11-17"
+"gr-qc/9801040","Manoelito Martins de Souza","Manoelito M. de Souza and Robson N. Silveira","Discrete and finite Genral Relativity","Modified conform the version to appear in Classical and Quantum
+  Gravity","Class.Quant.Grav. 16 (1999) 619-630","10.1088/0264-9381/16/2/023","UFES-DF-MMS-98/1","gr-qc hep-ph hep-th",,"  We develop the General Theory of Relativity in a formalism with extended
+causality that describes physical interaction through discrete, transversal and
+localized pointlike fields. The homogeneous field equations are then solved for
+a finite, singularity-free, point-like field that we associate to a ``classical
+graviton"". The standard Einstein's continuous formalism is retrieved by means
+of an averaging process, and its continuous solutions are determined by the
+chosen imposed symetry. The Schwarzschild metric is obtained by the imposition
+of spherical symmetry on the averaged field.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 01:07:23 GMT""},{""version"":""v2"",""created"":""Thu, 5 Feb 1998 21:33:13 GMT""},{""version"":""v3"",""created"":""Tue, 24 Nov 1998 20:39:35 GMT""}]","2009-10-31"
+"gr-qc/9801041","Vitaly Melnikov","V.D. Ivashchuk and V.N. Melnikov","Multidimensional Gravity with p-branes","3 pages, Latex. To appear in Proceedings of MG8 Meeting, Jerusalem,
+  1997 (World Scientific, Singapore)",,,,"gr-qc",,"  A short review of recent results of authors on sigma-model approach in
+multidimensional gravity with p-branes is presented.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 09:38:04 GMT""}]","2007-05-23"
+"gr-qc/9801042","Gavrilov Valery","V. R. Gavrilov, V. N. Melnikov","Integration of D-dimensional 2-factor spaces cosmological models by
+  reducing to the generalized Emden-Fowler equation","LaTeX file, no figures",,"10.1007/BF02575448",,"gr-qc",,"  The D-dimensional cosmological model on the manifold $M = R \times M_{1}
+\times M_{2}$ describing the evolution of 2 Einsteinian factor spaces, $M_1$
+and $M_2$, in the presence of multicomponent perfect fluid source is
+considered. The barotropic equation of state for mass-energy densities and the
+pressures of the components is assumed in each space. When the number of the
+non Ricci-flat factor spaces and the number of the perfect fluid components are
+both equal to 2, the Einstein equations for the model are reduced to the
+generalized Emden-Fowler (second-order ordinary differential) equation, which
+has been recently investigated by Zaitsev and Polyanin within discrete-group
+analysis. Using the integrable classes of this equation one generates the
+integrable cosmological models. The corresponding metrics are presented. The
+method is demonstrated for the special model with Ricci-flat spaces $M_1,M_2$
+and the 2-component perfect fluid source.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 09:38:20 GMT""}]","2009-10-31"
+"gr-qc/9801043","Renaud Parentani","S. Massar and R. Parentani","On the Gravitational Back Reaction to Hawking Radiation","12 pages, latex",,,"THU-98/03","gr-qc",,"  We show that a surface term should be added to the Einstein-Hilbert action in
+order to properly describe quantum transitions occurring around a black hole.
+The introduction of this boundary term has been advocated by Teitelboim and
+collaborators and it has been used in the computation of the black hole
+entropy. Here, we use it to compute the gravitational corrections to the
+transition amplitudes giving rise to Hawking radiation. This surface term
+implies that the probability to emit a particle is given by $e^{- \Delta A/4}$
+where $\Delta A$ is the change in the area of the black hole horizon induced by
+the emission. Its inclusion at the level of the amplitudes therefore relates
+quantum black hole radiation to the first law of black hole dynamics. In both
+cases indeed, the term expressing the change in area directly results from the
+same boundary term introduced for the same reason: to obtain a well defined
+action principle.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 13:03:23 GMT""}]","2007-05-23"
+"hep-ex/9801010","Preprints Libr/pam","CLEO Collaboration, C. P. Jessop et al","Measurement of the Branching Ratios for the Decays of $D_{s}^{+}\to
+  \eta\pi^{+}, \eta^{'}\pi^{+}, \eta\rho^{+}$, and $eta^{'}\rho^{+}$","18 page postscript file, postscript file also available through
+  http://w4.lns.cornell.edu/public/CLNS","Phys.Rev.D58:052002,1998","10.1103/PhysRevD.58.052002","CLNS 97/1515, CLEO 97-22","hep-ex",,"  Using a data sample with integrated luminosity of about 3.9 fb^{-1} collected
+in e+ e- annihilation with the CLEO-II detector at the Cornell Electron Storage
+Ring, we have measured the branching ratios for the decay modes Ds -> (eta,
+eta') pi and Ds -> (eta, eta') rho relative to Ds -> phi pi. These decay modes
+are among the most common hadronic decays of the Ds's and can be related by
+factorization to the semileptonic decays Ds -> (eta,eta') l nu. The results
+obtained are compared with previous CLEO results and with the branching ratios
+measured for the related semileptonic decays. We also report results on the
+Cabibbo-suppressed decays of the D+ to the same final states.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 18:16:31 GMT""}]","2010-04-08"
+"hep-ex/9801012","Preprints Libr/pam","CLEO Collaboration, B. Behrens et al","Two-Body B Meson Decays to $\eta$ and $\eta^{'}$ -- Observation of $B\to
+  \eta${'}K$","12 page postscript file, postscript file also available through
+  http://w4.lns.cornell.edu/public/CLNS","Phys.Rev.Lett.80:3710-3714,1998","10.1103/PhysRevLett.80.3710","CLNS 97/1536, CLEO 97-31","hep-ex",,"  In a sample of 6.6 million produced B mesons we have observed decays B ->
+eta' K, with branching fractions BR(B+ -> eta' K+ = 6.5 +1.5 -1.4 +- 0.9) x
+$10^{-5}$ and BR(B0 -> eta' K0 = 4.7 +2.7 -2.0 +- 0.9) x $10^{-5}$. We have
+searched with comparable sensitivity for 17 related decays to final states
+containing an eta or eta' meson accompanied by a single particle or low-lying
+resonance. Our upper limits for these constrain theoretical interpretations of
+the B -> eta' K signal.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 15:22:14 GMT""},{""version"":""v2"",""created"":""Fri, 13 Feb 1998 18:58:30 GMT""}]","2010-04-08"
+"hep-lat/9801009","Kevin Eric Cahill","Kevin Cahill and Gary Herling","Confinement Artifacts in the U(1) and SU(2) Compact Lattice Gauge
+  Theories","15 pages, 5 figures, latex; minor changes",,,"NMCPP/97-17","hep-lat",,"  We identify the artifact that causes confinement at strong coupling in
+compact U(1) lattice gauge theory and show that most of the string tension in
+compact SU(2) lattice gauge theory is due to plaquettes of negative trace.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 07:45:42 GMT""},{""version"":""v2"",""created"":""Thu, 20 Aug 1998 05:55:13 GMT""}]","2007-05-23"
+"hep-lat/9801010",,"M.N. Chernodub, F.V. Gubarev and M.I. Polikarpov","Abelian Dyons in the Maximal Abelian Projection of SU(2) Gluodynamics","6 pages, 2 EPS figures, LaTeX, uses epsf.sty; revision: minor
+  corrections, references added","JETP Lett.69:169-173,1999","10.1134/1.568001","FISIST/17-98/CFIF","hep-lat hep-ph hep-th",,"  Correlations of the topological charge Q, the electric current J^e and the
+magnetic current J^m in SU(2) lattice gauge theory in the Maximal Abelian
+projection are investigated. It occurs that the correlator <<QJ^e J^m>> is
+nonzero for a wide range of values of the bare charge. It is shown that: (i)
+the abelian monopoles in the Maximal Abelian projection are dyons which carry
+fluctuating electric charge; (ii) the sign of the electric charge e(x)
+coincides with that of the product of the monopole charge m(x) and the
+topological charge density Q(x).
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 12:08:56 GMT""},{""version"":""v2"",""created"":""Tue, 8 Dec 1998 16:07:43 GMT""}]","2010-04-15"
+"hep-ph/9801262","John Collins","John C. Collins and Andreas Freund","Proof of Factorization for Deeply Virtual Compton Scattering in QCD","14 pages, Revtex, postscript figures. Improved treatement of
+  ""endpoint/breakpoint"" regions. Corrected references to earlier work","Phys. Rev. D 59, 074009 (1999)","10.1103/PhysRevD.59.074009","PSU/TH/192","hep-ph",,"  We show that factorization holds for the deeply virtual Compton scattering
+amplitude in QCD, up to power suppressed terms, to all orders in perturbation
+theory. Furthermore, we show that the virtuality of the produced photon does
+not influence the general theorem.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 21:26:10 GMT""},{""version"":""v2"",""created"":""Thu, 2 Jul 1998 15:52:38 GMT""}]","2016-08-25"
+"hep-ph/9801270","Ahmed Ali","A. Ali (DESY, Hamburg)","Flavour Changing Neutral Current Processes and CKM Phenomenology","Latex2e, 12 pages, 2 figures (requires sprocl.sty). To be published
+  in the Proceedings of the First APCTP Workshop: Pacific Particle Physics
+  Phenomenology, Oct. 31 - Nov. 2, 1997, Seoul National University, Seoul,
+  South Korea",,,"DESY 97-256","hep-ph",,"  Some selected topics in flavour changing neutral current processes in $B$
+decays are discussed in the context of the Standard Model. The emphasis here is
+on the determination of the CKM matrix elements from the ongoing and
+forthcoming experiments. The topics discussed include: (i) CKM-allowed
+radiative decays $B \to X_s + \gamma$, (ii) CKM-suppressed radiative decays $B
+\to X_d + \gamma$, $B^\pm \to \rho^\pm + \gamma$ and $B^0 \to (\rho^0,\omega) +
+\gamma$, (iii) $B^0 - \bar{B^0}$-mixings, and (iv) the Fleischer-Mannel bound
+in $B \to K\pi$ decays.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 16:02:44 GMT""}]","2007-05-23"
+"hep-ph/9801271",,"G.F. Giudice, R. Rattazzi","Theories with Gauge-Mediated Supersymmetry Breaking","Several minor changes; new appendix with complete analytical formulae
+  for the mass spectrum in gauge mediation at the next-to-leading order","Phys.Rept. 322 (1999) 419-499","10.1016/S0370-1573(99)00042-3",,"hep-ph hep-th",,"  Theories with gauge-mediated supersymmetry breaking provide an interesting
+alternative to the scenario in which the soft terms of the low-energy fields
+are induced by gravity. These theories allow for a natural suppression of
+flavour violations in the supersymmetric sector and have very distinctive
+phenomenological features. Here we review their basic structure, their
+experimental implications, and the attempts to embed them into models in which
+all mass scales are dynamically generated from a single fundamental scale.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 17:20:02 GMT""},{""version"":""v2"",""created"":""Mon, 19 Apr 1999 12:37:20 GMT""}]","2009-10-31"
+"hep-ph/9801272",,"J.M. Moreno, M. Quiros and M. Seco","Bubbles in the supersymmetric standard model","18 pages, LateX + psfig, 6 figures","Nucl.Phys. B526 (1998) 489-500","10.1016/S0550-3213(98)00283-1","IEM-FT-168/98","hep-ph",,"  We compute the tunneling probability from the symmetric phase to the true
+vacuum, in the first order electroweak phase transition of the MSSM, and the
+corresponding Higgs profiles along the bubble wall. We use the resummed
+two-loop temperature-dependent effective potential, and pay particular
+attention to the light stop scenario, where the phase transition can be
+sufficiently strongly first order not to wipe off any previously generated
+baryon asymmetry. We compute the bubble parameters which are relevant for the
+baryogenesis mechanism: the wall thickness and $\Delta\beta$. The two-loop
+corrections provide important enhancement effects, with respect to the one-loop
+results, in the amount of baryon asymmetry.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 19:15:05 GMT""}]","2009-10-31"
+"hep-ph/9801273","Hoang","A.H. Hoang (University of California, San Diego)","Top Quark Pair Production at Threshold -- Uncertainties and Relativistic
+  Corrections","Talk presented at the Workshop on Physics at the First Muon Collider
+  and the Front End of a Muon Collider, Fermilab, November 6-9, 1997, to appear
+  in the proceedings; 9 pages, latex, one ps figure included",,"10.1063/1.56224","UCSD/PTH 97-38","hep-ph",,"  It is shown how nonrelativistic QCD (NRQCD) can be used to determine
+next-to-next-to-leading order relativistic and short-distance contributions to
+the total $t\bar t$ production cross section in the threshold regime at lepton
+colliders. A recipe for the calculation of all such contributions for the total
+photon mediated production cross section is presented and a review of the
+already known Abelian next-to-next-to-leading results is given.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 19:35:52 GMT""}]","2009-10-31"
+"hep-ph/9801274","Sharon Jensen","Yung Su Tsai (SLAC)","CP Violation in tau -> nu_tau + 3 pi","LaTex, 12 pages",,,"SLAC-PUB-7728","hep-ph",,"  We discuss the ways to find CP violation in the decay of $\tau^\pm\to
+\nu_\tau + 3\pi$ from unpolarized as well as polarized $\tau^\pm$.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 22:41:17 GMT""}]","2007-05-23"
+"hep-ph/9801275","Hoang","A.H. Hoang (University of California, San Diego)","Top Quark Pair Production at Higher Energies at the First Muon Collider","Talk presented at the Workshop on Physics at the First Muon Collider
+  and the Front End of a Muon Collider, Fermilab, November 6-9, 1997, to appear
+  in the proceedings; 5 pages, latex, three ps figure included",,,"UCSD/PTH 97-39","hep-ph",,"  For a proper theoretical description of the top quark pair production cross
+section at the First Muon Collider in the kinematic regime away from the
+threshold the complete mass and energy dependence has to be taken into account.
+Two-loop calculations for the photon mediated total cross section are reviewed.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 23:49:30 GMT""}]","2007-05-23"
+"hep-ph/9801276","Teshima Tadayuki","T. Teshima, T. Sakai, O. Inagaki","Analysis of neutrino oscillation in three-flavor neutrinos","25 pages, LaTeX, 8 postscript figures included","Int.J.Mod.Phys. A14 (1999) 1953-1974","10.1142/S0217751X99000981","CU-TP/98-01","hep-ph",,"  We analyzed the solar, terrestrial and atmospheric neutrinos experiments
+using the three-flavor neutrino framework and got the allowed regions for
+parameters (\Delta m_{12}^2, \sin^22\theta_{12}, \Delta m_{23}^2, \theta_{13},
+\theta_{23}). In solar neutrino experiments, we got the large angle solution
+(\Delta m_{12}^2, \sin^22\theta_{12})=(4x10^{-6}
+  - 7x10^{-5}eV^2, 0.6 - 0.9) and small angle solution (3x10^{-6} -
+1.2x10^{-5}eV^2, 0.003 - 0.01) for \theta_{13}=0^\circ - 20^\circ. From the
+terrestrial and atmospheric neutrino experiments, we got the allowed regions
+(\theta_{13}<4^\circ, 24^\circ<\theta_{23}<26^\circ) for \Delta m_{23}^2=2eV^2,
+(\theta_{13}<4^\circ, 24^\circ<\theta_{23} <45^\circ) for \Delta
+m_{23}^2=0.2eV^2 and (\theta_{13}<14^\circ, \theta_{23}=40^\circ) for \Delta
+m_{23}^2=0.02eV^2. It seems that the large angle solution for (\Delta m_{12}^2,
+\sin^22\theta_{12}) is favored than the small angle slution from the analysis
+of zenith angle dependence in atmospheric neutrino sub-GeV experiment.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 09:05:20 GMT""}]","2016-09-06"
+"hep-ph/9801277","M. A. Braun","M.A.Braun","Double scattering on the nucleus in the perturbative QCD","11 pages, 1 figure, 1 table, LaTex","Eur.Phys.J.C6:343-348,1999","10.1007/s100529800917","SPbU-IP-1998-1","hep-ph",,"  In the hard pomeron model consequences are studied which follow from the
+recently obtained form of the diffractive amplitude for the double scattering
+on the nucleus and the related EMC effect at small $x$. It is shown that at
+large $Q^2$ the double scattering contribution to the latter falls as
+$Q^{-0.6338}$ and in all probability dominates the total effect.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 09:19:00 GMT""}]","2011-09-13"
+"hep-ph/9801278","M. A. Braun","M.A.Braun","On the diffraction in the perturbative QCD","9 pages, 1 table, LaTex","Phys.Lett. B425 (1998) 354-358","10.1016/S0370-2693(98)00253-6","SPbU-IP-1998-2","hep-ph",,"  In the framework of the hard pomeron model it is shown that at large $Q^2$
+the diffractive contribution to the structure functions rises as $Q^{0.3362}$
+and much slowlier than the total contribution rising as $Q$.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 09:28:49 GMT""}]","2009-10-31"
+"hep-ph/9801279","Sasa Prelovsek","S. Fajfer, S. Prelovsek and P. Singer","Long distance contributions in $D \to V \gamma$ decays","15 pages, latex, 2 figures; we have changed Table 2 and the caption
+  of Table 1. To be published in Eur. Phys. C","Eur.Phys.J.C6:471-476,1999","10.1007/s100520050356",,"hep-ph",,"  Using the factorization scheme for the nonleptonic $D \to V V_0$ weak
+amplitudes, we classify all diagrams which arise in $D \to V \gamma$ decays and
+calculate them with the help of the hybrid model which combines the heavy quark
+effective theory and the chiral Lagrangian approach. Thus we determine the long
+distance contribution to the amplitudes of Cabibbo allowed and Cabibbo
+suppressed $D \to V\gamma$ decays. The calculation of the expected range of the
+branching ratios of nine different $D \to V \gamma$ channels is compared with
+results of other approaches. The present work establishes an increase of the
+parity violating contribution in these decays in comparison with previous
+analyses.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 10:31:00 GMT""},{""version"":""v2"",""created"":""Wed, 21 Oct 1998 14:26:59 GMT""}]","2008-11-26"
+"hep-ph/9801280","Choi Kiwoon","Kiwoon Choi, Eung Jin Chun and Hang Bae Kim","Cosmology of Light Moduli","23 pages including 3 pictex-figures, Latex","Phys. Rev. D 58, 046003 (1998)","10.1103/PhysRevD.58.046003","KAIST-TH 97/14","hep-ph astro-ph hep-th",,"  In string/M-theory with a large compactification radius, some axion-like
+moduli can be much lighter than the gravitino. Generic moduli in gauge-mediated
+supersymmetry breaking models also have a mass far below the weak scale.
+Motivated by these, we examine the cosmological implications of light moduli
+for the mass range from the weak scale to an extremely small scale of order
+10^{-26} eV, and obtain an upper bound on the initial moduli misalignment for
+both cases with and without a late entropy production.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 11:09:15 GMT""}]","2016-08-25"
+"hep-ph/9801281","Drago Alessandro","V.Barone, T.Calarco and A.Drago","Gluon Spin in a Quark Model","8 pages, no figures, 1 table","Phys.Lett. B431 (1998) 405-409","10.1016/S0370-2693(98)00550-4",,"hep-ph",,"  We compute the gluon polarization $\Delta G$ and the gluon total angular
+momentum $J_g$ in the Isgur-Karl quark model. Taking into account
+self-interaction contributions, we obtain for both quantities a positive value
+of about 0.24 at the model scale $\mu_0^2 \simeq 0.25$ GeV$^2$. This estimate
+is reasonably close to the expectation from polarized deep inelastic scattering
+analyses.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 11:30:24 GMT""}]","2009-10-31"
+"hep-ph/9801282","Jan Stern","Jan Stern (IPN-Orsay)","Two alternatives of spontaneous chiral symmetry breaking in QCD","4 pages, LaTeX, submitted to Physical Review Letters",,,"IPNO/TH 97-41","hep-ph cond-mat hep-lat hep-th",,"  Considering QCD in an Euclidean box, the mechanism of spontaneous breaking of
+chiral symmetry (SB$\chi$S) is analyzed in terms of average properties of
+lowest eigenstates of the Dirac operator. A formal analogy between the pion
+decay constant and conductivity in disordered systems is established. It
+follows that SB$\chi$S results from a subtle balance between the density of
+Euclidean quark states and their mobility. SB$\chi$S can be realized either
+with $<\bar q q > =0$, provided the low density of states is compensated by a
+high mobility, or with a non-vanishing condensate, provided the mobility is
+suppressed. It is conjectured that the first case corresponds to extended
+whereas the latter case to (weakly) localized quark states.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 14:17:58 GMT""}]","2007-05-23"
+"hep-th/9801057","Ron Donagi","Gottfried Curio and Ron Y. Donagi","Moduli in N=1 heterotic/F-theory duality","Latex, 26 pages. Acknowledgements added","Nucl.Phys. B518 (1998) 603-631","10.1016/S0550-3213(98)00185-0","IASSNS-HEP-97/139","hep-th math.AG",,"  The moduli in a 4D N=1 heterotic compactification on an elliptic CY, as well
+as in the dual F-theoretic compactification, break into ""base"" parameters which
+are even (under the natural involution of the elliptic curves), and ""fiber"" or
+twisting parameters; the latter include a continuous part which is odd, as well
+as a discrete part. We interpret all the heterotic moduli in terms of
+cohomology groups of the spectral covers, and identify them with the
+corresponding F-theoretic moduli in a certain stable degeneration. The argument
+is based on the comparison of three geometric objects: the spectral and cameral
+covers and the ADE del Pezzo fibrations. For the continuous part of the
+twisting moduli, this amounts to an isomorphism between certain abelian
+varieties: the connected component of the heterotic Prym variety (a modified
+Jacobian) and the F-theoretic intermediate Jacobian. The comparison of the
+discrete part generalizes the matching of heterotic 5brane / F-theoretic 3brane
+impurities.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 20:28:50 GMT""},{""version"":""v2"",""created"":""Wed, 14 Jan 1998 00:14:31 GMT""}]","2009-10-31"
+"hep-th/9801060","Jan DeBoer","Jan de Boer, Kentaro Hori, Hirosi Ooguri and Yaron Oz","Branes and Dynamical Supersymmetry Breaking","LaTeX, 57 pages, nine figures. References corrected, minor changes","Nucl.Phys.B522:20-68,1998","10.1016/S0550-3213(98)00252-1",,"hep-th",,"  We study dynamical supersymmetry breaking in four dimensions using the
+fivebrane of M theory, in particular for the Izawa-Yanagida-Intriligator-Thomas
+(IYIT) model, which we realize as the worldvolume theory of a certain M-theory
+fivebrane configuration. From the brane point of view, supersymmetry is broken
+when a holomorphic configuration with the proper boundary conditions does not
+exist. We discuss the difference between explicit and spontaneous supersymmetry
+breaking and between runaway behavior and having a stable vacuum. As a
+preparation for the study of the IYIT model, we examine a realization of the
+orientifold four-plane in M theory. We derive known as well as new results on
+the moduli spaces of N=2 and N=1 theories with symplectic gauge groups. These
+results are based on a hypothesis that a certain intersection of the fivebrane
+and the Z_2 fixed plane breaks supersymmetry. In the IYIT model, we show that
+the brane exhibits runaway behavior when the flavor group is gauged. On the
+other hand, if the flavor group is not gauged, we find that the brane does not
+run away. We suggest that a stable supersymmetry-breaking vacuum is realized in
+the region beyond the reach of the supergravity approximation.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 22:35:37 GMT""},{""version"":""v2"",""created"":""Wed, 14 Jan 1998 01:08:08 GMT""}]","2009-09-17"
+"hep-th/9801067","Barak Kol","Barak Kol, J. Rahmfeld","BPS Spectrum of 5 Dimensional Field Theories, (p,q) Webs and Curve
+  Counting","20 pages, latex, 9 figures. Changes are described at the end of the
+  introduction","JHEP 9808:006,1998","10.1088/1126-6708/1998/08/006",,"hep-th",,"  We study the BPS spectrum of supersymmetric 5 dimensional field theories and
+their representations as string webs. It is found that a state of given charges
+exists when it has a representation as an irreducible string web. Its spin is
+determined by the string web. The number of fermionic zero modes is 8g+4b,
+where g is the number of internal faces and b is the number of boundaries. In
+the lift to M theory of 4d field theories such states are described by
+membranes ending on the 5-brane, breaking SUSY from 8 to 4, and g becomes the
+genus of the membrane. Mathematically, we obtain a diagrammatic method to find
+the spectrum of curves on a toric complex surface, and the number of their
+moduli.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 00:54:40 GMT""},{""version"":""v2"",""created"":""Fri, 20 Mar 1998 21:39:33 GMT""}]","2010-02-03"
+"hep-th/9801068","Pawel Mazur","P. O. Mazur","Toward the New Gravitational Noncommutative Mechanics and Statistical
+  Mechanics of Quantum Black Holes","Latex file, uses mprocl.sty, 3pp., to be published in the Proceedings
+  of the Eight Marcel Grossmann Meeting (World Scientific 1998)","Proceedings of 8th Marcel Grossmann Meeting on Recent Developments
+  in Theoretical and Experimental General Relativity, Gravitation and
+  Relativistic Field Theories, Pt B, pp. 989-991, ed. Tsvi Piran, World
+  Scientific, Singapore, 1999",,,"hep-th gr-qc",,"  This is a short account of our work on the statistical mechanics of `cold'
+quantum black holes in the constituent model of a black hole$^{3,4,6}$. A
+quantum Schwarzschild black hole consists of gravitational atoms of Planckian
+mass scale$^{3,4,6}$. The gapless collective excitations of a bound state of N
+gravitational atoms dominate the thermodynamics of a cold quantum black hole.
+It turns out that it is only in the limit of large $N$, with the observable
+mean values of the gravitational mass-energy kept fixed, that we recover the
+Bekenstein thermodynamics$^1$ of spin-zero black holes. This is also the limit
+of the Boltzmann statistics.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 17:52:35 GMT""}]","2009-10-19"
+"hep-th/9801069","Marco Frasca","Marco Frasca","Duality in Perturbation Theory and the Quantum Adiabatic Approximation","9 pages, revtex. Improved english and presentation. Final version
+  accepted for publication by Physical Review A","Phys.Rev. A58 (1998) 3439","10.1103/PhysRevA.58.3439",,"hep-th chao-dyn cond-mat gr-qc hep-ph math-ph math.MP nlin.CD quant-ph",,"  Duality is considered for the perturbation theory by deriving, given a series
+solution in a small parameter, its dual series with the development parameter
+being the inverse of the other. A dual symmetry in perturbation theory is
+identified. It is then shown that the dual to the Dyson series in quantum
+mechanics is given by a recent devised series having the adiabatic
+approximation as leading order. A simple application of this result is given by
+rederiving a theorem for strongly perturbed quantum systems.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 19:59:38 GMT""},{""version"":""v2"",""created"":""Sun, 28 Jun 1998 10:48:41 GMT""},{""version"":""v3"",""created"":""Thu, 23 Jul 1998 18:21:15 GMT""}]","2016-09-06"
+"hep-th/9801070","Emil Martinec","Miao Li and Emil Martinec","Probing Matrix Black Holes","17 pages, harvmac",,,"EFI-98-1","hep-th",,"  Black holes in matrix theory may consist of interacting clusters (correlated
+domains) which saturate the uncertainty principle. We show that this assumption
+qualitatively accounts for the thermodynamic properties of both charged and
+neutral black holes, and reproduces the asymptotic geometry seen by probes.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 21:45:48 GMT""}]","2007-05-23"
+"hep-th/9801071","Antonio Edson Goncalves","A.A. Bytsenko, A.E. Goncalves, S. Nojiri and S.D. Odintsov","Vacuum energy for the supersymmetric twisted D-brane in constant
+  electromagnetic field","LaTeX, 10 pages","Class.Quant.Grav.15:1103-1110,1998","10.1088/0264-9381/15/5/003","Preprint NDA - FP - 39","hep-th",,"  We calculate vacuum energy for twisted SUSY D-brane on toroidal background
+with constant magnetic or constant electric field. Its behaviour for toroidal
+D-brane (p=2) in constant electric field shows the presence of stable minimum
+for twisted versions of the theory. That indicates such a background maybe
+reasonable groundstate.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 21:54:42 GMT""},{""version"":""v2"",""created"":""Thu, 23 Apr 1998 19:42:25 GMT""}]","2009-09-17"
+"hep-th/9801072","James T. Liu","M. J. Duff, James T. Liu and J. Rahmfeld","g=1 for Dirichlet 0-branes","13 pages, Latex","Nucl.Phys. B524 (1998) 129-140","10.1016/S0550-3213(98)00224-7","CTP-TAMU-2/98, RU98-2-B, SU-ITP-98/01","hep-th",,"  Dirichlet 0-branes, considered as extreme Type IIA black holes with spin
+carried by fermionic hair, are shown to have the anomalous gyromagnetic ratio
+g=1, consistent with their interpretation as Kaluza-Klein modes.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 01:05:06 GMT""}]","2009-10-31"
+"hep-th/9801073","Andrei Linde","Nemanja Kaloper, Andrei Linde, and Raphael Bousso","Pre-Big-Bang Requires the Universe to be Exponentially Large From the
+  Very Beginning","14 pages, a discussion of the flatness problem in the PBB cosmology
+  is added","Phys.Rev.D59:043508,1999","10.1103/PhysRevD.59.043508","SU-ITP-97-46","hep-th astro-ph gr-qc hep-ph",,"  We show that in a generic case of the pre-big-bang scenario, inflation will
+solve cosmological problems only if the universe at the onset of inflation is
+extremely large and homogeneous from the very beginning. The size of a
+homogeneous part of the universe at the beginning of the stage of pre-big-bang
+(PBB) inflation must be greater than $10^{19}$ $l_s$, where $l_s$ is the
+stringy length. The total mass of an inflationary domain must be greater than
+$10^{72} M_{s}$, where $M_{s} \sim l_s^{-1}$. If the universe is initially
+radiation dominated, then its total entropy at that time must be greater than
+$10^{68}$. If the universe is closed, then at the moment of its formation it
+must be uniform over $10^{24}$ causally disconnected domains. The natural
+duration of the PBB stage in this scenario is $M_p^{-1}$. We argue that the
+initial state of the open PBB universe could not be homogeneous because of
+quantum fluctuations. Independently of the issue of homogeneity, one must
+introduce two large dimensionless parameters, $g_0^{-2} > 10^{53}$, and $B >
+10^{91}$, in order to solve the flatness problem in the PBB cosmology. A regime
+of eternal inflation does not occur in the PBB scenario. This should be
+compared with the simplest versions of the chaotic inflation scenario, where
+the regime of eternal inflation may begin in a universe of size $O(M_{p}^{-1})$
+with vanishing initial radiation entropy, mass $O(M_p)$, and geometric entropy
+O(1). We conclude that the current version of the PBB scenario cannot replace
+usual inflation even if one solves the graceful exit problem in this scenario.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 01:19:54 GMT""},{""version"":""v2"",""created"":""Wed, 14 Jan 1998 04:55:26 GMT""},{""version"":""v3"",""created"":""Thu, 29 Jan 1998 04:03:00 GMT""}]","2009-09-29"
+"hep-th/9801074","Haisong Yang","Haisong Yang (UC Santa Barbara)","Black Holes with Multiple Charges and the Correspondence Principle","26 pages, harvmac, minor corrections","Phys.Rev. D58 (1998) 044008","10.1103/PhysRevD.58.044008","UCSBTH-98-01","hep-th gr-qc",,"  We consider the entropy of near extremal black holes with multiple charges in
+the context of the recently proposed correspondence principle of Horowitz and
+Polchinski, including black holes with two, three and four Ramond-Ramond
+charges. We find that at the matching point the black hole entropy can be
+accounted for by massless open strings ending on the D-branes for all cases
+except a black hole with four Ramond-Ramond charges, in which case a possible
+resolution in terms of brane-antibrane excitations is considered.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 03:49:29 GMT""},{""version"":""v2"",""created"":""Thu, 5 Feb 1998 05:02:17 GMT""},{""version"":""v3"",""created"":""Fri, 6 Mar 1998 21:59:33 GMT""}]","2009-10-31"
+"hep-th/9801075","Kazunori Takenaga","K.Takenaga(Kobe University)","Softly Broken Supersymmetric Gauge Theories through Compactifications","22 pages, 1 EPSF figure(corrected)","Phys.Rev.D58:026004,1998; Erratum-ibid.D61:129902,2000","10.1103/PhysRevD.58.026004 10.1103/PhysRevD.61.129902","KOBE-TH-98-01","hep-th",,"  Effects of boundary conditions of fields for compactified space directions on
+the supersymmetric gauge theories are discussed. For general and possible
+boundary conditions the supersymmetry is explicitly broken to yield universal
+soft supersymmetry breaking terms, and the gauge symmetry of the theory can
+also be broken through the dynamics of non-integrable phases, depending on
+number and the representation under the gauge group of matters. The
+4-dimensional supersymmetric QCD is studied as a toy model when one of the
+space coordinates is compactified on $S^1$.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 08:44:20 GMT""},{""version"":""v2"",""created"":""Thu, 22 Jan 1998 08:54:00 GMT""}]","2014-11-18"
+"hep-th/9801076","Bas Peeters","Harm Jan Boonstra, Bas Peeters, Kostas Skenderis","Branes and anti-de Sitter spacetimes","6 pages, uses neuchatel.sty (included), contribution to proceedings
+  of ""Quantum Aspects of Gauge Theories, Supersymmetry and Unification"",
+  Neuchatel, September 18-23, 1997","Fortsch.Phys.47:109-116,1999","10.1002/(SICI)1521-3978(199901)47:1/3<109::AID-PROP109>3.0.CO;2-S","KUL-TF-98-02","hep-th",,"  We consider a series of duality transformations that leads to a constant
+shift in the harmonic functions appearing in the description of a configuration
+of branes. This way, for several intersections of branes, we can relate the
+original brane configuration which is asymptotically flat to a geometry which
+is locally isometric to adS_k x E^l x S^m. These results imply that certain
+branes are dual to supersingleton field theories. We also discuss the
+implications of our results for supersymmetry enhancement and for supergravity
+theories in diverse dimensions.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 09:16:09 GMT""}]","2015-06-26"
+"hep-th/9801077","Rui Vilela Mendes","R. Vilela Mendes (Grupo de Fisica-Matematica, Complexo
+  Interdisciplinar, Univ. de Lisboa, Portugal)","Gluon condensate and the vacuum structure of QCD","12 pages Latex",,,,"hep-th",,"  Phenomenological evidence and analytic approximations to the QCD ground state
+suggest a complex gluon condensate structure. Exclusion of elementary fermion
+excitations by the generation of infinite mass corrections is a consequence. In
+addition the existence of vacuum condensates in unbroken non-abelian gauge
+theories, endows SU(3) and higher order groups with a non-trivial structure in
+the manifold of possible vacuum solutions, which is not present in SU(2). This
+may be related to the existence of particle generations.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 11:20:17 GMT""}]","2007-05-23"
+"hep-th/9801078",,"A.V. Smilga","6 + 1 Vacua in Supersymmetric QCD with G_2 Gauge Group","15 pages LaTeX, 1 Postscript figure","Phys.Rev.D58:105014,1998","10.1103/PhysRevD.58.105014","ITEP-TH-2/98","hep-th",,"  We consider N=1 supersymmetric QCD based on the G_2 gauge group and including
+3 chiral matter 7-plets. In that case, the gauge symmetry is broken completely
+and the instanton-generated superpotential on the classical moduli space is
+present. If the theory involves the Yukawa term, there are six chirally
+asymmetric vacua. In the limit when the Yukawa coupling vanishes, two of the
+vacua run away to infinity and only 4 asymmetric vacuum states are left.
+Besides, a chirally symmetric state is always present. We consider also an O(7)
+model with 4 chiral multiplets in spinor representation. In that case, there
+are 4 extra ""virtual vacua"" dwelling at infinity of the moduli space. In a
+non-renormalizable theory involving a quartic term in the superpotential, they
+show up at finite moduli values.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 12:35:34 GMT""}]","2008-11-26"
+"hep-th/9801079","Tatsuya Ueno","Tatsuya Ueno","General Solution of 7D Octonionic Top Equation","13 pages, Latex, 3 eps.files. Minor changes, eq.(4) added","Phys.Lett. A245 (1998) 373-381","10.1016/S0375-9601(98)00407-1","YITP-98-1","hep-th nlin.SI solv-int",,"  The general solution of a 7D analogue of the 3D Euler top equation is shown
+to be given by an integration over a Riemann surface with genus 9. The 7D model
+is derived from the 8D $Spin(7)$ invariant self-dual Yang-Mills equation
+depending only upon one variable and is regarded as a model describing
+self-dual membrane instantons. Several integrable reductions of the 7D top to
+lower target space dimensions are discussed and one of them gives 6, 5, 4D
+descendants and the 3D Euler top associated with Riemann surfaces with genus 6,
+5, 2 and 1, respectively.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 12:41:15 GMT""},{""version"":""v2"",""created"":""Tue, 20 Jan 1998 13:57:29 GMT""}]","2009-10-31"
+"hep-th/9801080","Alexander Sevrin","M.T. Grisaru, M. Massar, A. Sevrin, J. Troost","Some Aspects of N=(2,2), D=2 Supersymmetry","6 pages, Latex, to appear in the proceedings of `Quantum aspects of
+  gauge theories, supersymmetry and unification', Neuchatel University, 18-23
+  September 1997","Fortsch.Phys.47:301-307,1999","10.1002/(SICI)1521-3978(199901)47:1/3<301::AID-PROP301>3.0.CO;2-F","BRX-TH-423, VUB/TENA/98/1","hep-th",,"  The off-shell description of N=(2,2) supersymmetric non-linear sigma-models
+is reviewed. The conditions for ultra-violet finiteness are derived and
+T-duality is discussed in detail.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 12:52:40 GMT""}]","2015-06-26"
+"hep-th/9801081","G. Lopes Cardoso","Klaus Behrndt, Gabriel Lopes Cardoso, Bernard de Wit, Dieter L\""ust,
+  Thomas Mohaupt and Wafic A. Sabra","Higher-Order Black-Hole Solutions in N=2 Supergravity and Calabi-Yau
+  String Backgrounds","12 pages, LaTeX; reference added; minor changes, note added, version
+  to appear in Phys. Lett. B","Phys.Lett.B429:289-296,1998","10.1016/S0370-2693(98)00413-4","HUB-EP-98/4, THU-98/02, QMW-PH-98-01","hep-th",,"  Based on special geometry, we consider corrections to N=2 extremal black-hole
+solutions and their entropies originating from higher-order derivative terms in
+N=2 supergravity. These corrections are described by a holomorphic function,
+and the higher-order black-hole solutions can be expressed in terms of
+symplectic Sp(2$n$+2) vectors. We apply the formalism to N=2 type-IIA
+Calabi-Yau string compactifications and compare our results to recent related
+results in the literature.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 13:42:58 GMT""},{""version"":""v2"",""created"":""Mon, 19 Jan 1998 12:14:54 GMT""},{""version"":""v3"",""created"":""Tue, 12 May 1998 09:50:00 GMT""}]","2008-11-26"
+"hep-th/9801082","Mees de Roo","A. Achucarro, M. de Roo, and L. Huiszoon","Unstable vortices do not confine","Latex, 8 pages","Phys.Lett. B424 (1998) 288-292","10.1016/S0370-2693(98)00239-1",,"hep-th",,"  Recently, a geometric model for the confinement of magnetic charges in the
+context of type II string compactifications was constructed by Greene, Morrison
+and Vafa. This model assumes the existence of stable magnetic vortices with
+quantized flux in the low energy theory. However, quantization of flux alone
+does not imply that the vortex is stable, since the flux may not be confined to
+a tube of definite size. We show that in the field theoretical model which
+underlies the geometric model of confinement, static, cylindrically symmetric
+magnetic vortices do not exist. While our results do not preclude the existence
+of confinement in a different low-energy regime of string theory, they show
+that confinement is not a universal outcome of the string picture, and its
+origin in the low energy theory remains to be understood.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 15:09:56 GMT""}]","2009-10-31"
+"hep-th/9801083","Matthias Blau","Chaouki Boulahouache, George Thompson","One Loop Effects in Various Dimensions and D-Branes","18 pages, LaTeX","Int.J.Mod.Phys. A13 (1998) 5409-5424","10.1142/S0217751X98002456",,"hep-th",,"  We calculate some one loop corrections to the effective action of theories in
+$d$ dimensions that arise on the dimensional reduction of a Weyl fermion in $D$
+dimensions. The terms that we are interested in are of a topological nature.
+Special attention is given to the effective actions of the super Yang Mills
+theories that arise on dimensional reduction of the N=1 theory in six
+dimensions or on the dimensional reduction of the N=1 theory in ten dimensions.
+In the latter case we suggest an interpretation of the quantum effect as a
+coupling of the gauge field on the brane to a relative background gauge field.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 15:55:22 GMT""}]","2009-10-31"
+"hep-th/9801084","Akira Tokura","H. Itoyama and A. Tokura","USp(2k) Matrix Model: Nonperturbative Approach to Orientifolds","LaTeX, 29 pages, 3 figures. PostScript problems are fixed","Phys.Rev. D58 (1998) 026002","10.1103/PhysRevD.58.026002","OU-HET 287","hep-th",,"  We discuss theoretical implications of the large k USp(2k) matrix model in
+zero dimension. The model appears as the matrix model of type IIB superstrings
+on a large $T^{6}/Z^{2}$ orientifold via the matrix twist operation. In the
+small volume limit, the model behaves four dimensional and its T dual is
+six-dimensional worldvolume theory of type I superstrings in ten spacetime
+dimensions. Several theoretical considerations including the analysis on planar
+diagrams, the commutativity of the projectors with supersymmetries and the
+cancellation of gauge anomalies are given, providing us with the rationales for
+the choice of the Lie algebra and the field content. A few classical solutions
+are constructed which correspond to Dirichlet p-branes and some fluctuations
+are evaluated. The particular scaling limit with matrix T duality
+transformation is discussed which derives the F theory compactification on an
+elliptic fibered K3.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 15:47:53 GMT""},{""version"":""v2"",""created"":""Fri, 16 Jan 1998 12:55:55 GMT""}]","2009-10-31"
+"math/9801053","B. M. Brown","B.M. Brown, M.S.P. Eastham, D.K.R. McCormack, W.D. Evans","Approximate diagonalization in differential systems and an effective
+  algorithm for the computation of the spectral matrix",,"Math. Proc. Camb. Phil. Soc. (1997), 121, pp 495 - 517",,,"math.SP math.NA",,"  This paper reports on recent work to compute the asymptotic solution of a
+n-th order ordinary differential equation. Symbolic methods are used to compute
+the asymptotics over a large region. Application is made to the computation of
+the Titchmarsh-Weyl M-matrix for the fourth order operator.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 17:17:49 GMT""}]","2007-05-23"
+"math/9801054",,"Leonid Polterovich","Hofer's diameter and Lagrangian intersections","LATEX, 7 pages",,,,"math.DG",,"  We prove that the group of Hamiltonian diffeomorphisms of the 2-sphere has
+infinite diameter with respect to Hofer's metric. Our approach is based on the
+theory of Lagrangian intersections.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 17:25:55 GMT""}]","2007-05-23"
+"math/9801055","B. M. Brown","B.M. Brown, M.S.P. Eastham, D.K.R. McCormack","A new algorithm for computing the asymptotic solutions of a class of
+  linear differential systems",,"J. Symbolic Computation (1997) 23,119-131",,,"math.SP math.NA",,"  This paper reports on a new algorithm to compute the asymptotic solutions of
+a linear differential system. A feature of the algorithm is the ability to
+accommodate periodic coefficients.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 17:53:58 GMT""}]","2007-05-23"
+"math/9801056","B. M. Brown","B.M. Brown, M.S.P. Eastham, D.K.R. McCormack","Extensions of a New Algorithm for the Numerical Solution of Linear
+  Differential Systems on an Infinite Interval",,,"10.1017/S0305004198002825",,"math.SP math.NA",,"  This paper is part of a series of papers in which the asymptotic theory and
+appropriate symbolic computer code are developed to compute the asymptotic
+expansion of the solution of an n-th order ordinary differential equation. The
+paper examines the situation when the matrix that appears in the Levinson
+expansion has a double eigenvalue. Application is made to a fourth-order ODE
+with known special function solution.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 18:05:57 GMT""}]","2009-10-31"
+"math/9801057","Heinz Sorge","H. Sorge","Valuation of path-dependent American options using a Monte Carlo
+  approach","32 pages LaTeX including 4 postscript figures",,,"SUNY-NTG 98-02, formerly math.SC/9801057","math.NA q-fin.CP",,"  It is shown how to obtain accurate values for American options using Monte
+Carlo simulation. The main feature of the novel algorithm consists of tracking
+the boundary between exercise and hold regions via optimization of a certain
+payoff function. We compare estimates from simulation for some types of claims
+with results from binomial tree calculations and find very good agreement. The
+novel method allows to calculate so far untractable path-dependent option
+values.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 20:34:51 GMT""}]","2016-09-07"
+"math/9801058","William P. Thurston","William P. Thurston","Hyperbolic Structures on 3-manifolds, III: Deformations of 3-manifolds
+  with incompressible boundary","19 pages, 4 figures",,,,"math.GT math.DG",,"  This is the third in a series of papers constructing hyperbolic structures on
+all Haken three-manifolds. This portion deals with the mixed case of the
+deformation space for manifolds with incompressible boundary that are not
+acylindrical, but are more complicated than interval bundles over surfaces.
+This is a slight revision of a 1986 preprint, with a few figures added, and
+slight clarifications of some of the text, but with no attempt to connect this
+to later developments such as groups acting on R-trees, etc.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 00:59:54 GMT""}]","2007-05-23"
+"math/9801059","Jim Propp","Henry Cohn, Michael Larsen, James Propp","The shape of a typical boxed plane partition","29 pages, 4 figures. This revision correctes four inconsequential
+  typos and adds more bibliographic information for several references. All
+  changes from the published version are marked with ""UPDATE"" in the TeX source","New York Journal of Mathematics 4 (1998), 137-165",,,"math.CO",,"  Using a calculus of variations approach, we determine the shape of a typical
+plane partition in a large box (i.e., a plane partition chosen at random
+according to the uniform distribution on all plane partitions whose solid Young
+diagrams fit inside the box). Equivalently, we describe the distribution of the
+three different orientations of lozenges in a random lozenge tiling of a large
+hexagon. We prove a generalization of the classical formula of MacMahon for the
+number of plane partitions in a box; for each of the possible ways in which the
+tilings of a region can behave when restricted to certain lines, our formula
+tells the number of tilings that behave in that way. When we take a suitable
+limit, this formula gives us a functional which we must maximize to determine
+the asymptotic behavior of a plane partition in a box. Once the variational
+problem has been set up, we analyze it using a modification of the methods
+employed by Logan and Shepp and by Vershik and Kerov in their studies of random
+Young tableaux.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 05:16:02 GMT""},{""version"":""v2"",""created"":""Wed, 7 Apr 1999 17:06:24 GMT""},{""version"":""v3"",""created"":""Tue, 28 May 2002 09:23:44 GMT""}]","2007-05-23"
+"math/9801060","Jim Propp","James Propp (MIT)","Twenty Open Problems in Enumeration of Matchings","25 pages",,,,"math.CO",,"  This document is an exposition of an assortment of open problems arising from
+the exact enumeration of (perfect) matchings of finite graphs. Roughly half
+have been solved at the time of this writing; see the document ""Twenty Open
+Problems in Enumeration of Matchings: Progress Report"" (also available from
+this server as math.CO/9801061). NOTE: This article has now been superseded by
+math.CO/9904150.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 05:58:35 GMT""},{""version"":""v2"",""created"":""Thu, 22 Jan 1998 22:13:28 GMT""},{""version"":""v3"",""created"":""Tue, 27 Apr 1999 20:45:40 GMT""}]","2007-05-23"
+"math/9801061","Jim Propp","James Propp (MIT)","Twenty Open Problems in Enumeration of Matchings: Progress Report","4 pages",,,,"math.CO",,"  This document is a brief summary of progress that has been made on the
+problems posed in the document ""Twenty Open Problems in Enumeration of
+Matchings"" (also available from this server as math.CO/9801060). NOTE: This
+article has now been superseded by math.CO/9904150.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 06:24:55 GMT""},{""version"":""v2"",""created"":""Thu, 22 Jan 1998 22:13:52 GMT""},{""version"":""v3"",""created"":""Tue, 27 Apr 1999 20:51:27 GMT""}]","2007-05-23"
+"math/9801062","Zhao Liu","Bo-Yu Hou, Liu Zhao, Xiang-Mao Ding","Infinite Hopf family of elliptic algebras and bosonization","LaTeX, 11 pages. This is the new and final version",,"10.1088/0305-4470/32/10/012",,"math.QA",,"  Elliptic current algebras E_{q,p}(\hat{g}) for arbitrary simply laced finite
+dimensional Lie algebra g are defined and their co-algebraic structures are
+studied. It is shown that under the Drinfeld like comultiplications, the
+algebra E_{q,p}(\hat{g}) is not co-closed for any g. However putting the
+algebras E_{q,p}(\hat{g}) with different deformation parameters together, we
+can establish a structure of infinite Hopf family of algebras. The level 1
+bosonic realization for the algebra E_{q,p}(\hat{g}) is also established.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 08:13:25 GMT""},{""version"":""v2"",""created"":""Sun, 18 Jan 1998 00:30:32 GMT""},{""version"":""v3"",""created"":""Wed, 4 Feb 1998 01:52:14 GMT""},{""version"":""v4"",""created"":""Sun, 5 Apr 1998 15:02:27 GMT""}]","2009-10-31"
+"math/9801063","Lena Selivanova","K.P. Hadeler, E.N. Selivanova","On the case of Kovalevskaya and new examples of integrable conservative
+  systems on S^2","10 pages",,,,"math.DG math.SG",,"  There are new integrable cases due to the construction from the previous
+version.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 11:08:24 GMT""},{""version"":""v2"",""created"":""Mon, 2 Feb 1998 09:38:53 GMT""}]","2007-05-23"
+"math/9801140",,"Hong-Ming Yin","On a $p$-Laplacian type of evolution system and applications to the Bean
+  model in the type-II superconductivity theory",,,,"MSRI 1998-001","math-ph math.MP",,"  We study the Cauchy problem for an $p$-Laplacian type of evolution system
+${\mathbf H}_{t}+\g [ | \g {\mathbf H}|^{p-2} \g {\mathbf H}|]={\mathbf F}$.
+This system governs the evolution of a magnetic field ${\bf H}$, where the
+current displacement is neglected and the electrical resistivity is assumed to
+be some power of the current density. The existence, uniqueness and regularity
+of solutions to the system are established. Furthermore, it is shown that the
+limit solution as the power $p\rightarrow \infty$ solves the problem of Bean's
+model in the type-II superconductivity theory. The result provides us
+information about how the superconductor material under the external force to
+become the normal conductor and vice visa. It also provides an effective method
+to find numerical solutions to Bean's model.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 00:00:00 GMT""}]","2008-11-06"
+"math/9801142","Michael Christ","Michael Christ","Hypoellipticity: Geometrization and Speculation",,,,"MSRI 1998-003","math.FA",,"  To any finite collection of smooth real vector fields $X_j$ in $\reals^n$ we
+associate a metric in the phase space $T^*\reals^n$. The relation between the
+asymptotic behavior of this metric and hypoellipticity of $\sum X_j^2$, in the
+smooth, real analytic, and Gevrey categories, is explored.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 00:00:00 GMT""}]","2016-09-07"
+"nucl-th/9801016","Derek Teaney","E. Shuryak and D. Teaney","$J/\psi$ suppression in heavy ion collsions and the QCD phase transition","10 pages, 3 figures","Phys.Lett. B430 (1998) 37-42","10.1016/S0370-2693(98)00490-0","SUNY-NTG 98-01","nucl-th",,"  We suggest that the new regime of $J/\psi$ suppression in Pb-Pb collisions
+found by the NA50 experiment at CERN is the result of non-trivial space-time
+evolution due to specific behavior of the Equation of State (EOS) near the QCD
+phase transition. We also study another suppression channel, the conversion of
+$J/\psi$ into $\eta_c$ during the late cool hadronic stage, and find it rather
+inefficient.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 16:02:17 GMT""}]","2009-10-31"
+"nucl-th/9801017","Urs Wiedemann","Urs Achim Wiedemann, Boris Tomasik, Ulrich Heinz","Reconstructing the Source in Heavy Ion Collisions from Particle
+  Interferometry","Proceedings for Quark Matter 97; 4 pages, 2 eps-figures","Nucl.Phys.A638:475c-478c,1998","10.1016/S0375-9474(98)00391-1","TPR-98-03","nucl-th hep-ph",,"  The preliminary CERN SPS NA49 Pb+Pb 158 GeV/A negative one- and two-particle
+spectra at mid-rapidity are consistent with a source of temperature 130 MeV,
+lifetime 9 fm/c, transverse flow 0.35, and a transverse geometric size which is
+twice as large as the cold Pb nucleus.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 20:38:29 GMT""}]","2009-10-09"
+"physics/9801015","Dieter Bauer","D. Bauer, R.R.E. Salomaa (Helsinki University of Technology, Finland),
+  and P. Mulser (TQE, Darmstadt University of Technology, Germany)","Generation of ultra-short light pulses by a rapidly ionizing thin foil","Second Revised Version, 13 pages (REVTeX), 3 figures in ps-format,
+  submitted for publication to Physical Review E, WWW:
+  http://www.physik.tu-darmstadt.de/tqe/",,"10.1103/PhysRevE.58.2436","TKK-DEPM-Bauer-98/01","physics.plasm-ph",,"  A thin and dense plasma layer is created when a sufficiently strong laser
+pulse impinges on a solid target. The nonlinearity introduced by the
+time-dependent electron density leads to the generation of harmonics. The pulse
+duration of the harmonic radiation is related to the risetime of the electron
+density and thus can be affected by the shape of the incident pulse and its
+peak field strength. Results are presented from numerical
+particle-in-cell-simulations of an intense laser pulse interacting with a thin
+foil target. An analytical model which shows how the harmonics are created is
+introduced. The proposed scheme might be a promising way towards the generation
+of attosecond pulses.
+  PACS number(s): 52.40.Nk, 52.50.Jm, 52.65.Rr
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 16:04:42 GMT""},{""version"":""v2"",""created"":""Mon, 6 Apr 1998 10:10:59 GMT""},{""version"":""v3"",""created"":""Mon, 27 Apr 1998 12:28:22 GMT""}]","2009-10-31"
+"physics/9801016","Lises Ifa","Sergiu I. Vacaru","Miron's Generalizations of Lagrange and Finsler Geometries: a
+  Self-Consistent Approach to Locally Anisotropic Gravity","3 pages, latex209, no figures",,,,"math-ph math.MP",,"  Radu Miron's approach to modelling of generalized Lagrange, Finsler and
+Kaluza-Klein spaces on vector (super) bundles provided with compatible
+nonlinear and distinguished connections and metric structures is discussed in
+connection with the theory of locally anisotropic field interactions and
+strings.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 18:29:29 GMT""}]","2008-11-06"
+"quant-ph/9801021","Volodymyr Tkachuk","V. M. Tkachuk (Ivan Franko Lviv State University, Ukraine)","Quasi-Exactly Solvable Potentials with Two Known Eigenstates","13 pages, Latex, replaced by revised version","Phys. Lett. A 245 (1998) 177-182","10.1016/S0375-9601(98)00455-1",,"quant-ph",,"  A new supersymmetry method for the generation of the quasi-exactly solvable
+(QES) potentials with two known eigenstates is proposed. Using this method we
+obtained new QES potentials for which we found in explicit form the energy
+levels and wave functions of the ground state and first excited state.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 18:13:59 GMT""},{""version"":""v2"",""created"":""Wed, 23 Dec 1998 09:29:34 GMT""}]","2009-10-31"
+"quant-ph/9801022","Tal Mor","Eli Biham, Michel Boyer, Gilles Brassard, Jeroen van de Graaf and Tal
+  Mor","Security of Quantum Key Distribution Against All Collective Attacks","5 pages, RevTeX",,,,"quant-ph",,"  Security of quantum key distribution against sophisticated attacks is among
+the most important issues in quantum information theory. In this work we prove
+security against a very important class of attacks called collective attacks
+(under a compatible noise model) which use quantum memories and gates, and
+which are directed against the final key. Although attacks stronger than the
+collective attacks can exist in principle, no explicit example was found and it
+is conjectured that security against collective attacks implies also security
+against any attack.
+","[{""version"":""v1"",""created"":""Mon, 12 Jan 1998 22:59:30 GMT""}]","2007-05-23"
+"quant-ph/9801023","Ivan H. Deutsch","I. H. Deutsch and P. S. Jessen","Quantum-state control in optical lattices","35 pages including 8 figures. To appear in Phys. Rev. A. March 1998",,"10.1103/PhysRevA.57.1972",,"quant-ph",,"  We study the means to prepare and coherently manipulate atomic wave packets
+in optical lattices, with particular emphasis on alkali atoms in the
+far-detuned limit. We derive a general, basis independent expression for the
+lattice operator, and show that its off-diagonal elements can be tailored to
+couple the vibrational manifolds of separate magnetic sublevels. Using these
+couplings one can evolve the state of a trapped atom in a quantum coherent
+fashion, and prepare pure quantum states by resolved-sideband Raman cooling. We
+explore the use of atoms bound in optical lattices to study quantum tunneling
+and the generation of macroscopic superposition states in a double-well
+potential. Far-off-resonance optical potentials lend themselves particularly
+well to reservoir engineering via well controlled fluctuations in the
+potential, making the atom/lattice system attractive for the study of
+decoherence and the connection between classical and quantum physics.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 01:38:55 GMT""}]","2009-10-31"
+"quant-ph/9801024","Anna Sanpera","Anna Sanpera, Rolf Tarrach and Guifre Vidal","Quantum inseparability as local pseudomixture","5 pages latex","Phys.Rev. A58 (1998) 826-830","10.1103/PhysRevA.58.826",,"quant-ph",,"  We show how to decompose any density matrix of the simplest binary composite
+systems, whether separable or not, in terms of only product vectors. We
+determine for all cases the minimal number of product vectors needed for such a
+decomposition. Separable states correspond to mixing from one to four pure
+product states. Inseparable states can be described as pseudomixtures of four
+or five pure product states, and can be made separable by mixing them with one
+or two pure product states.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 13:46:26 GMT""}]","2009-10-31"
+"solv-int/9801015","Igor G. Korepanov","R.M. Kashaev, I.G. Korepanov, S.M. Sergeev","Functional Tetrahedron Equation","LaTeX, 16 pages","Theor. Math. Phys. 117:3 (1998) 1402 - 1413; Teor. Mat. Fiz. 117:3
+  (1998) 370 - 384","10.1007/BF02557179",,"solv-int nlin.SI",,"  We describe a scheme of constructing classical integrable models in
+2+1-dimensional discrete space-time, based on the functional tetrahedron
+equation - equation that makes manifest the symmetries of a model in local
+form. We construct a very general ""block-matrix model"" together with its
+algebro-geometric solutions, study its various particular cases, and also
+present a remarkably simple scheme of quantization for one of those cases.
+","[{""version"":""v1"",""created"":""Tue, 13 Jan 1998 11:53:59 GMT""}]","2009-10-31"

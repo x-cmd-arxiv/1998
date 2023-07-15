@@ -1,0 +1,268 @@
+"astro-ph/9801003","Esther M. Hu","Lennox L. Cowie and Esther M. Hu (Univ. of Hawaii, Institute for
+  Astronomy)","High-z Lyman-alpha Emitters. I. A Blank-Field Search for Objects Near
+  Redshift z=3.4 in and around the Hubble Deep Field and the Hawaii Deep Field
+  SSA22","21 pages, 8 encapsulated figures, 1 table, aastex. Separate gif files
+  for 4 gray-scale images (Figs. 1a, 1b, 2a, 2c). Available with a complete set
+  of figures at http://www.ifa.hawaii.edu/~cowie/emitters.html . To appear in
+  The Astronomical Journal","Astron.J.115:1319-1328,1998","10.1086/300309","IfA-98-1","astro-ph",,"  We present deep narrow-band (lambda = 5390 Angstroms, delta lambda = 77
+Angstroms) and multi-color observations of the Hubble Deep Field and the Hawaii
+Deep Field SSA22 obtained with the LRIS instrument at the Keck II 10-m
+telescope. It is shown that there is a substantial population of galaxies at
+z~3.4 which can be selected by Ly alpha emission. Comparison with
+color-selected samples shows that the samples selected with these different
+criteria have substantial, but not complete overlap, and that there is a
+comparable surface density in the two selected populations. The emission-line
+selected samples include objects with strong Ly alpha, and which are
+significant contributers to the integrated star formation at these epochs. For
+a Salpeter IMF we estimate a minimum star formation rate of 0.01 solar masses
+per cubic Mpc per yr at z=3.4 for H_0 = 65 km/s/Mpc and q_0 = 0.5 in the Ly
+alpha-selected objects, though the value could be substantially higher if there
+is significant extinction.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 01:57:07 GMT""}]","2008-11-26"
+"astro-ph/9801004","Esther M. Hu","Esther M. Hu (Univ. of Hawaii, Institute for Astronomy)","Redshift Evolution of the Low-Column Density Lyman alpha Fores","6 pages, LaTeX, 4 PostScript figures, uses conf_iap.sty. To appear in
+  the Proceedings of the 13th IAP Colloquium: Structure and Evolution of the
+  IGM from QSO Absorption Line Systems, eds. P. Petitjean and S. Charlot","``Structure and Evolution of the Intergalactic Medium from QSO
+  Absorption Line Systems'' eds. P. Petitjean and S. Charlot (Editions
+  Fronti\`eres, Paris, 1997), 117-122",,"IfA-97-59","astro-ph",,"  Knowledge of the evolution of the low column density end of the Ly alpha
+forest (12.8 < log N_HI < 16.0 cm^-2) can provide substantial insight for
+models of structure formation and studies of the evolution of the ionizing
+background. Here we describe the evolution of the b values and column densities
+of forest clouds over the redshift range 2 < z < 4. While the distribution
+function for clouds with column densities N_HI < 3 x 10^14 cm^-2 can be well
+described by a single invariant power law fit with slope ~-1.5 over this range,
+at higher column densities a break in this distribution function is seen, with
+a deficiency of high column density clouds relative to the single power-law
+fit, and with the break point moving to lower column densities for clouds at
+lower redshifts. The median and cut-off (minimum) b values are seen to decrease
+at higher redshifts.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 03:31:38 GMT""}]","2007-05-23"
+"cond-mat/9801003","Shailesh Chandrasekharan","R. Brower, S. Chandrasekharan, U.-J. Wiese","Green's Functions from Quantum Cluster Algorithms","15 pages, LaTeX, with four figures. Added preprint number",,"10.1016/S0378-4371(98)00325-2","MIT-CTP 2686, LA-UR 98-91","cond-mat.stat-mech hep-lat",,"  We show that cluster algorithms for quantum models have a meaning independent
+of the basis chosen to construct them. Using this idea, we propose a new method
+for measuring with little effort a whole class of Green's functions, once a
+cluster algorithm for the partition function has been constructed. To explain
+the idea, we consider the quantum XY model and compute its two point Green's
+function in various ways, showing that all of them are equivalent. We also
+provide numerical evidence confirming the analytic arguments. Similar
+techniques are applicable to other models. In particular, in the recently
+constructed quantum link models, the new technique allows us to construct
+improved estimators for Wilson loops and may lead to a very precise
+determination of the glueball spectrum.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 00:02:32 GMT""},{""version"":""v2"",""created"":""Wed, 21 Jan 1998 17:14:20 GMT""}]","2015-06-25"
+"cond-mat/9801004","Piers Coleman","A. F. Ho and P. Coleman","Marginal Fermi Liquid in a lattice of three-body bound-states","Latex with seven epsf figures","Phys. Rev. B, 58, 4418 (1998).","10.1103/PhysRevB.58.4418",,"cond-mat.str-el",,"  We study a lattice model for Marginal Fermi liquid behavior, involving a gas
+of electrons coupled to a dense lattice of three-body bound-states. The
+bound-states change the phase space for electron-electron scattering and induce
+a marginal self-energy amongst the electron gas. When the three-body
+bound-states are weakly coupled to the electron gas, there is a substantial
+window for marginal Fermi liquid behavior. In this regime, the model displays
+the presence of two relaxation times, one linear, one quadratic in the
+temperature. At low temperatures the bound-states develop coherence leading to
+a cross-over to conventional Fermi liquid behavior. At strong-coupling,
+marginal Fermi liquid behavior is pre-empted by a pairing or magnetic
+instability, and it is not possible to produce a linear scattering rate
+comparable with the temperature. We discuss the low temperature instabilities
+of this model and compare it to the Hubbard model at half-filling.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 00:57:07 GMT""}]","2009-10-31"
+"cond-mat/9801005","Jinwu Ye","Jinwu Ye","Coulomb interaction at Superconductor to Mott-insulator transition","15 pages, REVTEX, 10 figures embedded in the text","Physical Review B, Sep.1 (1998)","10.1103/PhysRevB.58.9450",,"cond-mat.supr-con",,"  We reexamine the effects of long-range Coulomb interaction on the onset of
+superconductivity. We use the model of N complex scalar fields with the Coulomb
+interaction studied first by Fisher and Grinstein (FG). We find that near d=3
+space dimension, the system undergoes second order phase transition if $N \ge
+55.39$, but undergoes fluctuation driven first order transition if $N < 55.39$.
+We give the detailed derivation of the field theory Renormalization Group (RG)
+of this model to one loop. Our RG results disagree with those of FG at and near
+d=3. Possible scenario at d=2 is proposed.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 05:54:31 GMT""},{""version"":""v2"",""created"":""Sun, 4 Jan 1998 21:12:36 GMT""},{""version"":""v3"",""created"":""Thu, 22 Jan 1998 03:05:23 GMT""},{""version"":""v4"",""created"":""Wed, 8 Apr 1998 05:52:53 GMT""},{""version"":""v5"",""created"":""Mon, 29 Jun 1998 22:42:22 GMT""}]","2009-10-31"
+"cond-mat/9801006",,"C. Castellani, C. Di Castro, and P. A. Lee","Metallic Phase and Metal-insulator Transition in 2d Electronic Systems","4 pages LateX",,"10.1103/PhysRevB.57.R9381",,"cond-mat",,"  The recent experimental observation of a metal-insulator transition in two
+dimensions prompts a re-examination of the theory of disordered interacting
+systems. We argue that the existing theory permits the existence of a metallic
+phase and propose a number of experiments such as magnetoconductance and
+tunnelling in the presence of a parallel field, which should provide diagnostic
+tests as to whether a given experimental system is in fact in this regime. We
+also comment on a generic flow diagram which predicts a maximum metallic
+resistivity.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 10:52:17 GMT""}]","2009-10-31"
+"cond-mat/9801007","Roberto A. Monetti","Roberto A. Monetti and Javier E. Satulovsky","Application of a renormalization group algorithm to nonequilibrium
+  cellular automata with one absorbing state","7 pages, 4 figures, to be published in Phys. Rev. E",,"10.1103/PhysRevE.57.6289",,"cond-mat.stat-mech",,"  We improve a recently proposed dynamically driven renormalization group
+algorithm for cellular automata systems with one absorbing state, introducing
+spatial correlations in the expression for the transition probabilities. We
+implement the renormalization group scheme considering three different
+approximations which take into account correlations in the stationary
+probability distribution. The improved scheme is applied to a probabilistic
+cellular automaton already introduced in the literature.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 15:45:18 GMT""},{""version"":""v2"",""created"":""Tue, 28 Apr 1998 16:34:25 GMT""}]","2009-10-31"
+"cond-mat/9801008","Alessandro Torcini","Mickael Antoni and Alessandro Torcini","Anomalous diffusion as a signature of collapsing phase in two
+  dimensional self-gravitating systems","10 pages, Revtex - 3 Figs - Submitted to Physical Review E","Phys. Rev. E, Rapid Communication, 57 (1998) R6233","10.1103/PhysRevE.57.R6233",,"cond-mat.stat-mech astro-ph chao-dyn cond-mat.dis-nn nlin.CD nlin.PS patt-sol physics.atm-clus",,"  A two dimensional self-gravitating Hamiltonian model made by $N$
+fully-coupled classical particles exhibits a transition from a collapsing phase
+(CP) at low energy to a homogeneous phase (HP) at high energy. From a dynamical
+point of view, the two phases are characterized by two distinct single-particle
+motions : namely, superdiffusive in the CP and ballistic in the HP. Anomalous
+diffusion is observed up to a time $\tau$ that increases linearly with $N$.
+Therefore, the finite particle number acts like a white noise source for the
+system, inhibiting anomalous transport at longer times.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 15:52:14 GMT""}]","2016-08-31"
+"gr-qc/9801002","Perjes Zoltan","L\'aszl\'o \'A. Gergely, Zolt\'an Perj\'es and M\'aty\'as Vas\'uth","Radiation Backreaction in Spinning Binaries","3 pages, to appear in the Proceedings of the 8th Marcel Grossmann
+  Meeting",,,,"gr-qc",,"  The evolution under radiation backreaction of a binary system consisting of a
+black hole and a companion is studied in the limiting case when the spin of the
+companion is negligible compared with the spin S of the black hole. To first
+order in the spin, the motion of the reduced-mass particle excluding radiation
+effects, is characterized by three constants: the energy E, the magnitude L of
+the angular momentum and the projection L_S of the angular momentum along the
+spin S. This motion is quasiperiodic with a period determined by r_{min} and
+r_{max}. We introduce a new parametrization, making the integration over a
+period of a generic orbit especially simple. We give the averaged losses in
+terms of the 'constants of motion' during one period for generic orbits, to
+linear order in spin.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 14:41:12 GMT""}]","2007-05-23"
+"hep-ph/9801205","Carl Carlson","Carl E. Carlson and Nimai C. Mukhopadhyay","Perturbative Duality in the Resonance Spin Structure Functions","4 pages, revtex, no figures","Phys.Rev. D58 (1998) 094029","10.1103/PhysRevD.58.094029","RPI-97-N122 and WM-97-116","hep-ph",,"  We investigate the relations between the spin structure functions in the
+scaling and resonance regions. We examine the possible duality between the two,
+and draw inferences for the behavior of the asymmetry A_1 at large x. Finally,
+we point out the importance of additional polarized structure function data in
+the resonance region in terms of testing the hysteresis of perturbative
+physics.
+","[{""version"":""v1"",""created"":""Thu, 1 Jan 1998 21:55:36 GMT""}]","2009-10-31"
+"hep-ph/9801206","Han Meng","Jiang Yi, Zhou Mian-Lai, Ma Wen-Gan, Han Liang, Zhou Hong and Han Meng
+  (USTC P.R.China)","Probing flavor changing interactions in photon-photon collisions","22 pages, LaTeX, including 5 figures in eps files","Phys.Rev.D57:4343-4351,1998","10.1103/PhysRevD.57.4343",,"hep-ph",,"  We examine the subprocess $\gamma\gamma \to t\bar{c}+\bar{t}c$ at
+electron-positron colliders in the two-Higgs-doublet model with flavor-changing
+scalar couplings, where all the one-loop contribuions are considered, and the
+results are applicable to the whole mass range of the weakly coupled Higgs
+bosons. Because of the heavy top quark mass, this process is important in
+probing the flavor-changing top-charm-scalar vertex and could be detectable at
+the Next Linear Collider, if the values of the parameters are favorable. The
+results show that this process is more promising than the direct $e^{+} e^{-}$
+process for discovering flavor changing scalar interactions.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 02:20:57 GMT""}]","2011-07-19"
+"hep-ph/9801207",,"B.V.Martemyanov (ITEP Moscow)","The interaction of dyons in the mean field approximation","4 pages, Latex","Phys.Lett. B429 (1998) 55-57","10.1016/S0370-2693(98)00443-2","ITEP-PH 16/97","hep-ph",,"  The interaction of dyons in the mean field approximation is considered. The
+result of interaction is the mass term for dyonic field in the effective
+Lagrangian. Due to the mass term the profile function of dyon falls off
+exponentially at large distances.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 10:08:49 GMT""}]","2009-10-31"
+"hep-ph/9801208","Tord Riemann","D. Bardin, M. Bilenky, A. Chizhov, A. Sazonov, O. Fedorenko, T.
+  Riemann, M. Sachwitz","Analytic approach to the complete set of QED corrections to fermion pair
+  production in e+e- annihilation","27 pages, Latex, text corresponds to journal-ref. but some typos are
+  fixed","Nucl.Phys.B351:1-48,1991","10.1016/0550-3213(91)90080-H","PHE 89-19","hep-ph",,"  We present the convolution integral for fermion pair production in the
+electroweak standard theory to order O(alpha) including also soft photon
+exponentiation. The result is complete in the sense that it includes initial
+and final state radiation and their interference. From the basic result -
+analytic formulae for the differential cross section - we also derive the
+corresponding expressions for total cross section and integrated
+forward-backward asymmetry. The numerical importance of different contributions
+for the analysis of experiments at LEP/SLC energies is discussed.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 10:54:52 GMT""}]","2010-12-09"
+"hep-ph/9801209","Tord Riemann","D. Bardin, M. Bilenky, A. Sazonov, Yu. Sedykh, T. Riemann, M. Sachwitz","QED corrections with partial angular integration to fermion pair
+  production in e+e- - annihilation","8 pages, Latex, text is unchanged compared to preprint and
+  Journal-ref","Phys.Lett. B255 (1991) 290-296","10.1016/0370-2693(91)90250-T","PHE 90-17","hep-ph",,"  Analytic formulae are derived for the complete photon energy spectrum due to
+QED corrections to fermion pair production in case of a limited angular
+acceptance for the final state fermions. After a numerical integration over the
+energy of non-observed photons, this corresponds to typical experimental
+conditions at LEP/SLC.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 11:00:50 GMT""}]","2009-10-31"
+"hep-ph/9801210",,"Dao-Neng Gao and Mu-Lin Yan (USTC)","$\rho^0-\omega$ mixing in U(3)}$_L\times$ U(3)$_R$ chiral theory of
+  mesons","LateX, 16 pages, no figures, an error is corrected. The final version
+  will be published in EPJA","Eur.Phys.J. A3 (1998) 293-298","10.1007/s100500050180",,"hep-ph",,"  In this paper, U(3)$_L\times$ U(3)$_R$ chiral theory of mesons is extended to
+the leading order in quark mass expansion in order to evaluate the
+$\rho^0-\omega$ mixing. It is shown that the use of path integral method to
+integrate out the quark fields naturally leads to the $\rho^0-\omega$ mixing
+vertices, and this mixing is entirely from the quark loop in this theory. The
+off-shell behaviour of the mixing amplitude is analyzed. The on-shell mixing
+amplitude is obtained from the decay $\omega\to \pi^+\pi^-$. Furthermore, the
+constraints on the light quark mass parameters are extracted from the
+$\rho^0-\omega$ mixing and the mesons masses, and the mass splitting of
+$K^*(892)$-mesons is predicted.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 12:03:15 GMT""},{""version"":""v2"",""created"":""Wed, 7 Jan 1998 14:48:40 GMT""},{""version"":""v3"",""created"":""Fri, 24 Jul 1998 02:17:33 GMT""}]","2009-10-31"
+"hep-ph/9801211",,"Z. Lalak (ITP Warsaw), R. Poppe (TUM Garching)","Backreactions in Superinflationary Cosmologies","3 pages, Latex, sprocl.sty included, Proceedings of Cosmo'97,
+  Charlotte Mason College, Ambleside, Lancashire, England, 15-19 Sept. 1997",,,,"hep-ph",,"  We examine Jordan-Brans-Dicke theories with a linear potential for the scalar
+field by means of a stochastic approach. The backreaction of the scalar field
+fluctuations on the classical background is described. The analysis is
+concentrated on those values of the Jordan-Brans-Dicke parameter which predict
+a superinflationary pre-big-bang branch. The graceful exit problem present in
+these theories is discussed.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 12:36:53 GMT""}]","2007-05-23"
+"hep-th/9801002","David A. Lowe","Karl Landsteiner, Esperanza Lopez and David A. Lowe","Duality of Chiral N=1 Supersymmetric Gauge Theories via Branes","16 pages, 2 figures, TeX, harvmac, tables","JHEP 9802 (1998) 007","10.1088/1126-6708/1998/02/007","BROWN-HET-1107, TUW-97-19","hep-th",,"  Using a six-orientifold on top of a NS-fivebrane we construct a chiral N=1
+supersymmetric gauge theory in four dimensions with gauge group SU(N_c) and
+matter in the symmetric, antisymmetric and (anti)fundamental representations.
+Anomaly cancellation is fulfilled by the requirement of a smooth RR 7-form
+charge distribution and leads us to the introduction of 8 half D-sixbranes
+ending on the NS-fivebrane. We obtain the dual model from branes by a linking
+number argument. We check explicitly the 't Hooft anomaly matching conditions
+and the map between deformations in the original and the dual model.
+","[{""version"":""v1"",""created"":""Thu, 1 Jan 1998 20:34:21 GMT""}]","2009-10-31"
+"hep-th/9801003","Fabio Zwirner","Fabio Zwirner (INFN,Padua)","Effective interactions of a light gravitino","6 A4 pages, no figures, plain LATEX. Talk at the Workshop `Quantum
+  Aspects of Gauge Theories, Supersymmetry and Unification' (Neuch\^atel
+  University, Neuch\^atel, Switzerland, 18-23 September 1997), to appear in the
+  Proceedings. Typos corrected, references updated","Fortsch.Phys.47:325-332,1999","10.1002/(SICI)1521-3978(199901)47:1/3<325::AID-PROP325>3.0.CO;2-S","DFPD-98/TH/02","hep-th hep-ph",,"  We review some recent results on the effective interactions of a light
+gravitino with ordinary particles. In particular, we discuss on a simple
+example a novel aspect of the low-energy theorems for broken supersymmetry: in
+the effective lagrangian describing the goldstino couplings to matter, there
+are terms bilinear in the goldstino that, already at the lowest non-trivial
+order, are not entirely controlled by the supersymmetry-breaking scale, and
+introduce additional free parameters. We conclude by mentioning some
+phenomenological implications, including a lower bound on the gravitino mass
+from collider data.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 15:13:55 GMT""},{""version"":""v2"",""created"":""Mon, 26 Jan 1998 11:23:23 GMT""}]","2015-06-26"
+"math/9801002","Nandor Sieben","John Quigg, Nandor Sieben (Arizona State University)","C*-actions of r-discrete groupoids and inverse semigroups","LaTeX-2e, 18 pages, uses pb-diagram.sty",,,,"math.OA",,"  Groupoid actions on C*-bundles and inverse semigroup actions on C*-algebras
+are closely related when the groupoid is r-discrete.
+","[{""version"":""v1"",""created"":""Thu, 1 Jan 1998 19:05:57 GMT""},{""version"":""v2"",""created"":""Mon, 5 Apr 1999 23:15:08 GMT""}]","2007-05-23"
+"math/9801003","Ezra Getzler","Ezra Getzler (Northwestern U.)","Topological recursion relations in genus 2","28 pages, AMS-LaTeX 1.2 (with lamsarrow)",,,,"math.AG hep-th",,"  In Part 1 of this paper, we study gravitational descendents of Gromov-Witten
+invariants for general projective manifolds, applying the Behrend-Fantechi
+construction of the virtual fundamental classes.
+  In Part 2, we calculate the topological recursion relations in genus 2. There
+are two of these, one for the second descendent of a field, and one for the
+first descendents of two fields. The proof uses the results of Part 1 together
+with a thorough study of intersection theory on the moduli space
+$\bar{M}_{2,2}$.
+","[{""version"":""v1"",""created"":""Thu, 1 Jan 1998 21:52:08 GMT""}]","2007-05-23"
+"math/9801004","Takashi Kimura","Alexandre Kabanov and Takashi Kimura","Intersection Numbers on the Moduli Spaces of Stable Maps in Genus 0","LaTeX2e with Postscript figures, 29 pages, reference added",,,,"math.AG",,"  Let $V$ be a smooth, projective, convex variety. We define tautological
+$\psi$ and $\kappa$ classes on the moduli space of stable maps $\M_{0,n}(V)$,
+give a (graphical) presentation for these classes in terms of boundary strata,
+derive differential equations for the generating functions of the Gromov-Witten
+invariants of $V$ twisted by these tautological classes, and prove that these
+intersection numbers are completely determined by the Gromov-Witten invariants
+of $V$. This results in families of Frobenius manifold structures on the
+cohomology ring of $V$ which includes the quantum cohomology as a special case.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 01:48:11 GMT""},{""version"":""v2"",""created"":""Thu, 12 Feb 1998 23:43:08 GMT""},{""version"":""v3"",""created"":""Sun, 22 Mar 1998 02:08:10 GMT""}]","2007-05-23"
+"math/9801005","Yuri I. Manin","Yu. I. Manin","Stable maps of genus zero to flag spaces","12 pages, AMSTex. Several annoying misprints and errors in formulas
+  are corrected",,,,"math.AG math.QA",,"  We calculate a generating series for the virtual Euler-Poincar\'e
+characteristics of the spaces of stable maps of genus zero to flag spaces using
+the summation over trees technique.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 11:38:21 GMT""},{""version"":""v2"",""created"":""Wed, 9 Dec 1998 16:42:22 GMT""}]","2007-05-23"
+"math/9801006","Yuri I. Manin","Yu. I. Manin","Three constructions of Frobenius manifolds: a comparative study","46 pages, AMSTex",,,"MPI-98/","math.QA math.AG",,"  The paper studies three classes of Frobenius manifolds: Quantum Cohomology
+(topological sigma-models), unfolding spaces of singularities (K. Saito's
+theory, Landau-Ginzburg models), and the recent Barannikov-Kontsevich
+construction starting with the Dolbeault complex of a Calabi-Yau manifold and
+conjecturally producing the B--side of the Mirror Conjecture in arbitrary
+dimension. Each known construction provides the relevant Frobenius manifold
+with an extra structure which can be thought of as a version of ``non-linear
+cohomology''. The comparison of thesestructures sheds some light on the general
+Mirror Problem: establishing isomorphisms between Frobenius manifolds of
+different classes. Another theme is the study of tensor products of Frobenius
+manifolds, corresponding respectively to the K\""unneth formula in Quantum
+Cohomology, direct sum of singularities in Saito's theory, and presumably, the
+tensor product of the differential Gerstenhaber-Batalin-Vilkovisky algebras. We
+extend the initial Gepner's construction of mirrors to the context of Frobenius
+manifolds and formulate the relevant mathematical conjecture.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 11:38:43 GMT""}]","2007-05-23"
+"math/9801007","Peter W. Michor","Andreas Kriegl, Peter W. Michor","Regular infinite dimensional Lie groups","AmSTeX, using diag.tex with fonts lams?.ps, 38 pages","J. Lie Theory, 7,1 (1997), 61--99",,"ESI-Preprint 200","math.DG",,"  Regular Lie groups are infinite dimensional Lie groups with the property that
+smooth curves in the Lie algebra integrate to smooth curves in the group in a
+smooth way (an `evolution operator' exists). Up to now all known smooth Lie
+groups are regular. We show in this paper that regular Lie groups allow to push
+surprisingly far the geometry of principal bundles: parallel transport exists
+and flat connections integrate to horizontal foliations as in finite
+dimensions. As consequences we obtain that Lie algebra homomorphisms intergrate
+to Lie group homomorphisms, if the source group is simply connected and the
+image group is regular.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 12:50:50 GMT""}]","2007-05-23"
+"math/9801157",,"Nguyen Quoc Thang","Corestriction Principle in non-abelian Galois cohomology",,,,"ANT-0094","math.NT",,"  This is a revision of a McMaster University preprint, with extension.
+  In this paper we prove that over local or global fields of characteristic 0,
+the Corestriction Principle holds for kernel and image of all maps which are
+connecting maps in group cohomology and the groups of $R$-equivalences. Some
+related questions over arbitrary fields of characteristic 0 are also discussed.
+  AMS Mathematics Subject Classification (1991): Primary 11E72, Secondary
+18G50, 20G10
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 00:00:00 GMT""}]","2007-05-23"
+"nucl-th/9801001","Cesar Barbero","C. Barbero, F. Krmpoti\'c, A.Mariano","Competition between standard and exotic double beta decays","9 pages, latex, 1ps figures, minor changes, to appear in Phys. Lett.
+  B","Phys.Lett. B436 (1998) 49-54","10.1016/S0370-2693(98)00891-0",,"nucl-th hep-ph",,"  We discuss the contributions of higher order terms in weak Hamiltonian to the
+standard two-neutrino double beta decay. The formalism for the unique first
+forbidden transitions has been developed, and it is shown that they can alter
+the two-electron energy spectrum. Yet, their effect is too small to screen the
+detection of exotic neutrinoless double beta decays, which are candidates for
+testing the physics beyond the standard model.
+","[{""version"":""v1"",""created"":""Fri, 2 Jan 1998 14:02:58 GMT""},{""version"":""v2"",""created"":""Fri, 17 Jul 1998 15:49:14 GMT""}]","2016-09-08"

@@ -1,0 +1,141 @@
+"astro-ph/9805011","Vladimir Karas","D. Vokrouhlicky and V. Karas","Stellar dynamics in a galactic centre surrounded by a massive accretion
+  disc. I. Newtonian description","13 pages, 10 figures; LaTeX2.09 (mn.sty, epsf.sty); to appear in
+  Monthly Notices of the Royal Astronomical Society; Figs. 1--2 have been
+  bitmapped to conform standards of this library; original figures and
+  additional animation are available at
+  http://astro.mff.cuni.cz/karas/papers.htm#disc",,"10.1046/j.1365-8711.1998.01564.x",,"astro-ph",,"  The long-term evolution of stellar orbits bound to a massive centre is
+studied in order to understand the cores of star clusters in central regions of
+galaxies. Stellar trajectories undergo tiny perturbation, the origin of which
+is twofold: (i) gravitational field of a thin gaseous disc surrounding the
+galactic centre, and (ii) cumulative drag due to successive interactions of the
+stars with material of the disc. Both effects are closely related because they
+depend on the total mass of the disc, assumed to be a small fraction of the
+central mass. It is shown that, in contrast to previous works, most of the
+retrograde (with respect to the disc) orbits are captured by the central
+object, presumably a massive black hole. Initially prograde orbits are also
+affected, so that statistical properties of the central star cluster in
+quasi-equilibrium may differ significantly from those deduced in previous
+analyses.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 19:54:57 GMT""}]","2009-10-30"
+"chao-dyn/9805001","Yosef Ashkenazy","Yosef Ashkenazy","The Use of Generalized Information Dimension in Measuring Fractal
+  Dimension of Time Series","12 latex pages (including 15 figures; fig1-fig7d). Computer programs
+  can be found at http://faculty.biu.ac.il/~ashkenaz/FDprog/ To be published in
+  Physica A",,"10.1016/S0378-4371(99)00192-2",,"chao-dyn nlin.CD",,"  An algorithm for calculating generalized fractal dimension of a time series
+using the general information function is presented. The algorithm is based on
+a strings sort technique and requires $O(N \log_2 N)$ computations. A rough
+estimate for the number of points needed for the fractal dimension calculation
+is given. The algorithm was tested on analytic example as well as well-known
+examples, such as, the Lorenz attractor, the Rossler attractor, the van der Pol
+oscillator, and the Mackey-Glass equation, and compared, successfully, with
+previous results published in the literature. The computation time for the
+algorithm suggested in this paper is much less then the computation time
+according to other methods.
+","[{""version"":""v1"",""created"":""Sun, 3 May 1998 15:50:50 GMT""},{""version"":""v2"",""created"":""Thu, 19 Nov 1998 09:10:27 GMT""}]","2009-10-31"
+"cond-mat/9805022","Dan M. Stamper-Kurn","D.M. Stamper-Kurn, H.-J. Miesner, A.P. Chikkatur, S. Inouye, J.
+  Stenger, and W. Ketterle","Reversible Formation of a Bose-Einstein Condensate","4 pages with 4 figures",,"10.1103/PhysRevLett.81.2194",,"cond-mat.stat-mech",,"  We present a method of adiabatically changing the local phase-space density
+of an ultracold gas, using a combination of magnetic and optical forces.
+Applying this method, we observe phase-space density increases in a gas of
+sodium atoms by as much as 50-fold. The transition to Bose-Einstein
+condensation was crossed reversibly, attaining condensate fractions of up to
+30%. Measurements of the condensate fraction reveal its reduction due to
+interactions.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 19:20:25 GMT""}]","2009-10-31"
+"cond-mat/9805023","Doron Cohen","Doron Cohen","Quantal Brownian Motion - Dephasing and Dissipation","LaTex, 23 pages, 4 figures, published vesion","J. Phys. A {\bf 31}, 8199-8220 (1998)","10.1088/0305-4470/31/40/013",,"cond-mat chao-dyn nlin.CD",,"  We analyze quantal Brownian motion in $d$ dimensions using the unified model
+for diffusion localization and dissipation, and Feynman-Vernon formalism. At
+high temperatures the propagator possess a Markovian property and we can write
+down an equivalent Master equation. Unlike the case of the
+Zwanzig-Caldeira-Leggett model, genuine quantum mechanical effects manifest
+themselves due to the disordered nature of the environment. Using Wigner
+picture of the dynamics we distinguish between two different mechanisms for
+destruction of coherence. The analysis of dephasing is extended to the low
+temperature regime by using a semiclassical strategy. Various results are
+derived for ballistic, chaotic, diffusive, both ergodic and non-ergodic motion.
+We also analyze loss of coherence at the limit of zero temperature and clarify
+the limitations of the semiclassical approach. The condition for having
+coherent effect due to scattering by low-frequency fluctuations is also pointed
+out. It is interesting that the dephasing rate can be either larger or smaller
+than the dissipation rate, depending on the physical circumstances.
+","[{""version"":""v1"",""created"":""Sun, 3 May 1998 12:57:31 GMT""},{""version"":""v2"",""created"":""Fri, 23 Oct 1998 15:00:09 GMT""}]","2009-10-31"
+"gr-qc/9805004","Claudia Pe\ga","Claudia Pe\c{c}a, Jose' P. S. Lemos","Thermodynamics of Reissner-Nordstrom-anti-de Sitter black holes in the
+  grand canonical ensemble","15 pages, 9 figures, Revtex. Published version. Changes: figures
+  added to text","Phys.Rev. D59 (1999) 124007","10.1103/PhysRevD.59.124007",,"gr-qc",,"  The thermodynamical properties of the Reissner-Nordstr\""om-anti-de Sitter
+black hole in the grand canonical ensemble are investigated using York's
+formalism. The black hole is enclosed in a cavity with finite radius where the
+temperature and electrostatic potential are fixed. The boundary conditions
+allow us to compute the relevant thermodynamical quantities, e.g. thermal
+energy, entropy and charge. The stability conditions imply that there are
+thermodynamically stable black hole solutions, under certain conditions.
+Instantons with negative heat capacity are also found.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 17:36:39 GMT""},{""version"":""v2"",""created"":""Wed, 8 Mar 2000 02:51:48 GMT""},{""version"":""v3"",""created"":""Wed, 12 Apr 2000 02:51:12 GMT""}]","2009-10-31"
+"hep-th/9805010","Sung-Soo Kim","Sung-Soo Kim and Phillial Oh","On the Gauged Non-compact Spin System","21 pages, Latex, 3 figures included","Int.J.Mod.Phys.A13:5503-5518,1998","10.1142/S0217751X9800250X","SNUTP/98-006","hep-th cond-mat",,"  We examine classical and quantum aspects of the planar non-compact spin
+system coupled with Chern-Simons gauge field in the presence of background
+charge. We first define our classical spin system as non- relativistic
+non-linear sigma model in which the order parameter spin takes value in the
+non-compact manifold ${\cal M}=SU(1,1)/U(1)$. Although the naive model does not
+allow any finite energy self dual solitons, it is shown that the gauged system
+admits static Bogomol'nyi solitons with finite energy whose rotationally
+symmetric soliton solutions are analyzed in detail. We also discuss the large
+spin limit in which the self-dual equation reduces to the well-known gauged
+non- linear Schr\""odinger model or Abelian Higgs model, depending on the choice
+of the background charge term. Then, we perform quantization of the model. We
+find that the spin algebra satisfies anomalous commutation relations, and the
+system is a field theoretic realization of the anyons.
+","[{""version"":""v1"",""created"":""Sun, 3 May 1998 05:55:01 GMT""}]","2014-11-18"
+"math/9805007","Ruibin Zhang","R. B. Zhang","Comments on the Noncommutative Geometry of Quantum Homogeneous Vector
+  Bundles","Latex with amsfonts, 9 pages",,,,"math.QA math-ph math.MP",,"  Differential calculi are obtained for quantum homogeneous spaces by extending
+Woronowicz' approach to the present context. Representation theoretical
+properties of the differential calculi are investigated. Connections on quantum
+homogeneous vector bundles are classified and explicitly constructed by using
+the theory of projective modules.
+","[{""version"":""v1"",""created"":""Sun, 3 May 1998 03:43:46 GMT""}]","2007-05-23"
+"math/9805142",,"Gaspard Bangerezako","Discrete Darboux transformation for discrete polynomials of
+  hypergeometric type",,,"10.1088/0305-4470/31/9/009","OP-SF 3 May 1998","math.CA",,"  Darboux Transformation, well known in second order differential operator
+theory, is applied here to the difference equation satisfied by the discrete
+hypergeometric polynomials(Charlier, Meixner-Krawchuk, Hahn).
+","[{""version"":""v1"",""created"":""Sun, 3 May 1998 00:00:00 GMT""}]","2009-10-31"
+"math/9805143",,"Gaspard Bangerezako","The factorization method for the Askey-Wilson polynomials.",,,,"OP-SF 3 May 1998","math.CA",,"  A special Infeld-Hall factorization is given for the Askey-Wilson second
+order q-difference operator. It is then shown how to deducd a generalization of
+the corresponding Askey-Wilson polynomials.
+","[{""version"":""v1"",""created"":""Sun, 3 May 1998 00:00:00 GMT""}]","2016-09-07"
+"math/9805144",,"Hans-J\""urgen Glaeske, Anatoly A. Kilbas, Megumi Saigo, Sergei A.
+  Shlapakov","Integral transforms with H-function kernels on $\LLL_{\nu,r}$-Spaces",,,,"OP-SF 3 May 1998","math.CA",,"  Integral transforms
+  $$(\mbox{\boldmath$H$}f)(x)=\int^\infty_0H^{m,n}_{\thinspace p,q}
+\left[xt\left|\begin{array}{c}(a_i,\alpha_i)_{1,p}\\[1mm](b_j,\beta_j)_{1,q}
+\end{array}\right.\right]f(t)dt$$
+  involving Fox's $H$-functions as kernels are studied in the spaces
+$\Ls_{\nu,r}$ of functions $f$ such that
+  $$\int^\infty_0|t^\nu f(t)|^r\frac{dt}t<\infty\quad(1\ \eqls\ r<\infty, \
+\nu\in\Rs).$$
+  Mapping properties such as the boundedness, the representation and the range
+of the transforms \boldmath$H$ are given.
+","[{""version"":""v1"",""created"":""Sun, 3 May 1998 00:00:00 GMT""}]","2007-05-23"
+"nucl-th/9805003","Jose M. Carmona","J.M. Carmona, J. Richert and A. Tarancon","A model for nuclear matter fragmentation: phase diagram and cluster
+  distributions","27 pages, 5 figures; comments on microcanonical approach and other
+  minor corrections added; references added; 1 figure changed","Nucl.Phys. A643 (1998) 115-134","10.1016/S0375-9474(98)00550-8","DFTUZ/98/13","nucl-th",,"  We develop a model in the framework of nuclear fragmentation at thermodynamic
+equilibrium which can be mapped onto an Ising model with constant
+magnetization. We work out the thermodynamic properties of the model as well as
+the properties of the fragment size distributions. We show that two types of
+phase transitions can be found for high density systems. They merge into a
+unique transition at low density. An analysis of the critical exponents which
+characterize observables for different densities in the thermodynamic limit
+shows that these transitions look like continuous second order transitions.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 18:23:19 GMT""},{""version"":""v2"",""created"":""Tue, 6 Oct 1998 09:20:06 GMT""}]","2009-10-31"
+"nucl-th/9805004","Eli Friedman","E. Friedman and A. Gal","On the determination of the pion effective mass in nuclei from pionic
+  atoms","8 pages, Revtex, 2 figures, accepted by Physics Letters B","Phys.Lett. B432 (1998) 235-240","10.1016/S0370-2693(98)00655-8",,"nucl-th",,"  The binding energies of the deeply bound 1s and 2p states in pionic atoms of
+$^{207}$Pb, recently established experimentally in the $^{208}$Pb(d,$^3$He)
+reaction, have been used by several groups to derive the pion effective mass in
+nuclear matter. We show that these binding energies are fully consistent with
+`normal' pionic atoms and that the real part of the pion-nucleus potential at
+the center of $^{207}$Pb is 28$\pm$3 MeV and not 20 MeV as suggested
+previously.
+","[{""version"":""v1"",""created"":""Sun, 3 May 1998 06:58:34 GMT""}]","2009-10-31"
+"quant-ph/9805008","Dr. BG Sidharth","B.G. Sidharth","A New Approach to Locality and Causality","12 pages, TeX",,,,"quant-ph",,"  In the light of some recent results, it is argued that usual concepts of
+causality and locality are approximations valid at scales greater than the
+Compton wavelength and corresponding time scales. It follows that the ""spooky""
+non-locality of Quantum Mechanics is not really so and infact is perfectly
+consistent with a recently discussed holistic model, which again is
+corroborated by latest astrophysical and cosmological observations. This
+approach also provides a rationale for the origin of the metric and points to,
+what may be called a space time quantization which may be, ultimately,
+fundamental.
+","[{""version"":""v1"",""created"":""Sun, 3 May 1998 12:43:56 GMT""}]","2007-05-23"

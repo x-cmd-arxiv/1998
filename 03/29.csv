@@ -1,0 +1,204 @@
+"adap-org/9804001","Sorin Solomon","Ofer Biham, Ofer Malcai, Moshe Levy and Sorin Solomon","Generic Emergence of Power Law Distributions and L\'evy-Stable
+  Intermittent Fluctuations in Discrete Logistic Systems","18 pages and 5 figures (in one zipped file);
+  biham@flounder.fiz.huji.ac.il, malcai@flounder.fiz.huji.ac.il,
+  shiki@cc.huji.ac.il, sorin@vms.huji.ac.il, http://shum.huji.ac.il/~sorin",,"10.1103/PhysRevE.58.1352",,"adap-org nlin.AO",,"  The dynamics of generic stochastic Lotka-Volterra (discrete logistic) systems
+of the form \cite{Solomon96a} $w_i (t+1) = \lambda(t) w_i (t) + a {\bar w (t)}
+- b w_i (t) {\bar w(t)}$ is studied by computer simulations. The variables
+$w_i$, $i=1,...N$, are the individual system components and ${\bar w (t)} =
+{1\over N} \sum_i w_i (t)$ is their average. The parameters $a$ and $b$ are
+constants, while $\lambda(t)$ is randomly chosen at each time step from a given
+distribution. Models of this type describe the temporal evolution of a large
+variety of systems such as stock markets and city populations. These systems
+are characterized by a large number of interacting objects and the dynamics is
+dominated by multiplicative processes. The instantaneous probability
+distribution $P(w,t)$ of the system components $w_i$, turns out to fulfill a
+(truncated) Pareto power-law $P(w,t) \sim w^{-1-\alpha}$. The time evolution of
+${\bar w (t)} $ presents intermittent fluctuations parametrized by a truncated
+L\'evy distribution of index $\alpha$, showing a connection between the
+distribution of the $w_i$'s at a given time and the temporal fluctuations of
+their average.
+","[{""version"":""v1"",""created"":""Sun, 29 Mar 1998 14:07:19 GMT""}]","2009-10-30"
+"astro-ph/9803320","Takamitsu Miyaji","T. Miyaji, Y. Ishisaki, Y. Ogasaka, Y. Ueda, M. J. Freyberg,
+  G.Hasinger, Y. Tanaka","The Cosmic X-ray Background spectrum observed with ROSAT and ASCA","4 pages, 3 postscript figures, using aa.cls, accepted to A&A Letters",,,,"astro-ph",,"  We have made a series of joint spectral fits for two blank fields, the
+Lockman Hole and the Lynx-3A field, where a significant amount of both ASCA and
+ROSAT PSPC data exist after thorough screenings. The ASCA SIS, GIS and ROSAT
+PSPC spectra from these fields have been fitted simultaneously. Comparison at
+E>1$keV shows general agreement within 10% in the Lockman Hole data and a
+20-30% disagreement in the Lynx-3A data, indicating remaining
+observation-dependent systematic problems. In both cases, satisfactory fits
+have been found for the overall 0.1-10 keV spectrum with an extragalactic
+power-law component (or a broken power-law component with steepening at E<1
+keV), a hard thermal component with plasma temperature of kT\approx 0.14 keV
+and a soft thermal component kT\approx 0.07 keV.
+","[{""version"":""v1"",""created"":""Sat, 28 Mar 1998 16:06:30 GMT""}]","2007-05-23"
+"astro-ph/9803321","Perivolaropoulos Leandros","L. Perivolaropoulos, N. Simatos (Department of Physics, University of
+  Crete)","Hints of Cosmic String Induced Discontinuities in the COBE Data?","4 Pages, 4 Figures, Use RevTeX",,,"CRETE-HEP 19","astro-ph hep-ph",,"  We apply new statistical tests on the four year 53 GHz DMR data and show that
+there is significant probability for the existence of coherent temperature
+discontinuities hidden in the CMB maps around the Galactic Poles. Comparing
+Monte Carlo simulations with the DMR maps we find that the probability for the
+existence of a coherent discontinuity with amplitude $0.2 \times ({{\delta T}
+\over T})_{rms}$ superposed on the gaussian fluctuations is more than double
+than the corresponding probability when no discontinuity is present. This
+result is consistent with the existence of a horizon size long cosmic string
+with mass per unit length $\mu$ given by $G\mu v_s \gamma_s \simeq 10^{-6}/\pi$
+where $v_s$ is the string velocity and $\gamma_s$ is the corresponding Lorentz
+factor.
+","[{""version"":""v1"",""created"":""Sat, 28 Mar 1998 19:03:13 GMT""}]","2007-05-23"
+"astro-ph/9803322","Michael L. Allen","Michael L. Allen and Philipp P. Kronberg","Detailed Radio Spectra of Selected Compact Sources in the Nucleus of M82","19 pages, 7 tables, 29 figures, LaTeX, requires AAS macros v. 4.0. To
+  appear in ApJ July 20, 1998",,"10.1086/305894","98-0253","astro-ph",,"  We have determined detailed radio spectra for 26 compact sources in the
+starburst nucleus of M82, between 74 and 1.3 cm. Seventeen show low-frequency
+turnovers. One other has a thermal emission spectrum, and we identify it as an
+HII region. The low frequency turnovers are due to absorption by the
+interstellar gas in M82. New information on the AGN candidate 44.01+595, shows
+it to have a non-thermal falling powerlaw spectrum at the highest frequencies,
+and that it is strongly absorbed below 2 GHz. We derive large magnetic fields
+in the supernova remnants, of order 1-2 milliGauss, hence large pressures in
+the sources suggest that the brightest ones are either expanding or are
+strongly confined by a dense interstellar medium. From the largest source in
+our sample, we derive a supernova rate of 0.016 SN/yr.
+","[{""version"":""v1"",""created"":""Sat, 28 Mar 1998 21:41:49 GMT""}]","2009-10-30"
+"cond-mat/9803349","Masashi Yamashiro","Yukio Tanaka and Satoshi Kashiwaya","Influences of broken time-reversal symmetry on the d.c. Josephson
+  effects in d-wave superconductors","Latex 11 pages, 3 eps figures",,"10.1103/PhysRevB.58.R2948",,"cond-mat.supr-con",,"  In order to examine the influences of the spatial dependence of the pair
+potential, the d.c. Josephson current in d-wave superconductors is calculated
+using self-consistently determined pair potentials. The results show that the
+suppression of the d-wave pair potential near the insulator does not have
+serious effect on the properties of the Josephson current. On the other hand,
+drastic changes are obtained due to the inducement of a subdominant s-wave
+component, which spontaneously breaks time reversal symmetry. Especially, a
+rapid enhancement of the Josephson current at low temperature predicted in
+previous formulas is strongly suppressed.
+","[{""version"":""v1"",""created"":""Sun, 29 Mar 1998 09:24:55 GMT""}]","2009-10-31"
+"cond-mat/9803350","Yong-baek Kim","Yong Baek Kim, Pinaki Majumdar, A. J. Millis, and Boris I. Shraiman","Anomalous Hall Effect in Double Exchange Magnets","5 pages, Revtex",,,"PENNSTATE-JHU-BELL","cond-mat.str-el",,"  We investigate the possible origin of anomalous Hall effect in the CMR
+(colossal magnetoresistance) materials - the doped rare earth manganites -
+observed recently by Matl et al. It is demonstrated that the spin-orbit
+interaction in the double exchange model couples magnetization to the Berry
+phase associated with three dimensional spin textures and induces a non-zero
+average topological flux which in turn generates an anomalous contribution to
+transverse resistivity. The same effect, but involving the orbital Berry phase,
+occurs in the model with orbital degeneracy and Coulomb repulsion.
+","[{""version"":""v1"",""created"":""Sat, 28 Mar 1998 16:00:39 GMT""}]","2007-05-23"
+"cond-mat/9803351","Anatoly Kuklov","A. B. Kuklov","Landau damping and the echo effect in a confined Bose-Einstein
+  condensate","4 pages, (RevTeX)",,,,"cond-mat.soft cond-mat.stat-mech",,"  Low energy collective mode of a confined Bose-Einstein condensate should
+demonstrate the echo effect in the regime of Landau damping. This echo is a
+signature of reversible nature of Landau damping. General expression for the
+echo profile is derived in the limit of small amplitudes of the external
+pulses. Several universal features of the echo are found. The existence of echo
+in other cases of reversible damping -- Fano effect and Caldeira-Leggett model
+-- is emphasized. It is suggested to test reversible nature of the damping in
+the atomic traps by conducting the echo experiment.
+","[{""version"":""v1"",""created"":""Sat, 28 Mar 1998 17:30:39 GMT""}]","2016-08-31"
+"cond-mat/9803352","Aleksandr I. Sokolov","A. I. Sokolov, V. A. Ul'kov, E. V. Orlov (Saint Petersburg
+  Electrotechnical University, St.Petersburg, Russia)","On free energy of three-dimensional Ising model at criticality","7 pages, TeX, no figures","J. Phys. Studies 1 (1997) 362-365",,,"cond-mat.stat-mech hep-lat hep-ph hep-th",,"  Higher-order vertices at zero external momenta for the scalar field theory
+describing the critical behaviour of the Ising model are studied within the
+field-theoretical renormalization group (RG) approach in three dimensions.
+Dimensionless six-point g_6 and eight-point g_8 effective coupling constants
+are calculated in the three-loop approximation. Their numerical values,
+universal at criticality, are estimated by means of the Pade and Pade-Borel
+summation of the RG expansions found and by putting the renormalized quartic
+coupling constant equal to its universal fixed-point value known from six-loop
+RG calculations. The values of g_6^* obtained are compared with their analogs
+resulting from the \epsilon-expansion, Monte Carlo simulations, the
+Wegner--Houghton equations and the linked cluster expansion series. The
+field-theoretical estimates for g_6^* are shown to be in a good agreement with
+each other, differing considerably from the values given by other methods.
+","[{""version"":""v1"",""created"":""Sat, 28 Mar 1998 19:18:08 GMT""}]","2007-05-23"
+"cond-mat/9803353","Mikhail Smondyrev","B. Gerlach, J. Wuesthoff (Uni. Dortmund), M. O. Dzero, M. A. Smondyrev
+  (JINR, Dubna)","On the exciton binding energy in a quantum well","32 pages, ReVTeX, including 9 figures",,"10.1103/PhysRevB.58.10568",,"cond-mat",,"  We consider a model describing the one-dimensional confinement of an exciton
+in a symmetrical, rectangular quantum-well structure and derive upper and lower
+bounds for the binding energy $E_b$ of the exciton. Based on these bounds, we
+study the dependence of $E_b$ on the width of the confining potential with a
+higher accuracy than previous reports. For an infinitely deep potential the
+binding energy varies as expected from $1 Ry$ at large widths to $4 Ry$ at
+small widths. For a finite potential, but without consideration of a mass
+mismatch or a dielectric mismatch, we substantiate earlier results that the
+binding energy approaches the value $1 Ry$ for both small and large widths,
+having a characteristic peak for some intermediate size of the slab. Taking the
+mismatch into account, this result will in general no longer be true. For the
+specific case of a $Ga_{1-x}Al_{x}As/GaAs/Ga_{1-x}Al_{x}As$ quantum-well
+structure, however, and in contrast to previous findings, the peak structure is
+shown to survive.
+","[{""version"":""v1"",""created"":""Sat, 28 Mar 1998 20:34:48 GMT""}]","2009-10-31"
+"cond-mat/9803354","Eckhard Krotscheck","E. Krotscheck, J. Paaso, M. Saarela, K. Schoerkhuber, and R. Zillich","Single Particle and Fermi Liquid Properties of He-3/--He-4 Mixtures: A
+  Microscopic Analysis","47 pages, 15 figures",,"10.1103/PhysRevB.58.12282",,"cond-mat",,"  We calculate microscopically the properties of the dilute He-3 component in a
+He-3/--He-4 mixture. These depend on both, the dominant interaction between the
+impurity atom and the background, and the Fermi liquid contribution due to the
+interaction between the constituents of the He-3 component. We first calculate
+the dynamic structure function of a He-3 impurity atom moving in He-3. From
+that we obtain the excitation spectrum and the momentum dependent effective
+mass. The pole strength of this excitation mode is strongly reduced from the
+free particle value in agreement with experiments; part of the strength is
+distributed over high frequency excitations. Above k > 1.7$\AA$^{-1}$ the
+motion of the impurity is damped due to the decay into a roton and a low energy
+impurity mode. Next we determine the Fermi--Liquid interaction between He-4
+atoms and calculate the pressure-- and concentration dependence of the
+effective mass, magnetic susceptibility, and the He-3--He-3 scattering phase
+shifts. The calculations are based on a dynamic theory that uses, as input,
+effective interactions provided by the Fermi hypernetted--chain theory. The
+relationship between both theories is discussed. Our theoretical effective
+masses agree well with recent measurements by Yorozu et al. (Phys. Rev. B 48,
+9660 (1993)) as well as those by R. Simons and R. M. Mueller (Czekoslowak
+Journal of Physics Suppl. 46, 201 (1996)), but our analysis suggests a new
+extrapolation to the zero-concentration limit. With that effective mass we also
+find a good agreement with the measured Landau parameter F_0^a.
+","[{""version"":""v1"",""created"":""Sun, 29 Mar 1998 10:55:00 GMT""}]","2009-10-31"
+"math/9803143","Viktor Kulikov","Vik. S. Kulikov","Jacobian Conjecture and Nilpotent Mappings","10 pages, LaTeX2e",,,"MPI 98-11","math.AG",,"  We prove the equivalence of the Jacobian Conjecture (JC(n)) and the
+Conjecture on the cardinality of the set of fixed points of a polynomial
+nilpotent mapping (JN(n)) and prove a series of assertions confirming JN(n).
+","[{""version"":""v1"",""created"":""Sun, 29 Mar 1998 11:41:00 GMT""}]","2007-05-23"
+"math/9803144","Viktor Kulikov","Vik. S. Kulikov","On a Chisini Conjecture","28 pages, LaTeX2e",,,"MPI 98-28","math.AG",,"  Chisini's conjecture asserts that for a cuspidal curve $B\subset \mathbb P^2$
+a generic morphism $f$ of a smooth projective surface onto $\mathbb P^2$ of
+degree $\geq 5$, branched along $B$, is unique up to isomorphism. We prove that
+if $\deg f$ is greater than the value of some function depending on the degree,
+genus, and number of cusps of $B$, then the Chisini conjecture holds for $B$.
+This inequality holds for many different generic morphisms. In particular, it
+holds for a generic morphism given by a linear subsystem of the $m$th canonical
+class for almost all surfaces with ample canonical class.
+","[{""version"":""v1"",""created"":""Sun, 29 Mar 1998 12:22:29 GMT""}]","2007-05-23"
+"quant-ph/9803082","Dr. A. K. Mitra","A. K. Pati and S. V. Lawande (B.A.R.C, Mumbai)","Geometry of the Hilbert space and the Quantum Zeno Effect","10 pages, Latex, no figures, submitted to Phys. Rev. A",,"10.1103/PhysRevA.58.831",,"quant-ph",,"  We show that the quadratic short time behaviour of transition probability is
+a natural consequence of the inner product of the Hilbert space of the quantum
+system. We prove that Schr\""odinger time evolution between two successive
+measurements is not a necessary but only a sufficient condition for predicting
+quantum Zeno effect. We provide a relation between the survival probability and
+the underlying geometric structure such as the Fubini-Study metric defined on
+the projective Hilbert space of the quantum system. This predicts the quantum
+Zeno effect even for systems described by non-linear and non-unitary evolution
+equations, within the collapse mechanism of the wavefunction during measurement
+process. Two examples are studied, one is non-linear Schr\""odinger equation and
+other is Gisin's equation and it is shown that one can observe quantum Zeno
+effect for systems described by these equations.
+","[{""version"":""v1"",""created"":""Sun, 29 Mar 1998 04:55:11 GMT""}]","2009-10-31"
+"quant-ph/9803083","Bozhidar Zakhariev Iliev","Bozhidar Z. Iliev (Institute for Nuclear Research and Nuclear Energy,
+  Bulgarian Academy of Sciences, Sofia, Bulgaria)","Fibre bundle formulation of nonrelativistic quantum mechanics. 0.
+  Preliminary considerations: Quantum mechanics from a geometric-observer's
+  viewpoint","15 standard LaTeX 2e (11pt, A4) pages. The packages AMS-LaTeX and
+  amsfonts are required","J.Phys.A31:1297-1305,1998","10.1088/0305-4470/31/4/017",,"quant-ph gr-qc hep-th math.DG math.GT",,"  We propose a version of the non-relativistic quantum mechanics in which the
+pure states of a quantum system are described as sections of a Hilbert
+(generally infinitely-dimensional) fibre bundle over the space-time. There
+evolution is governed via (a kind of) a parallel transport in this bundle. Some
+problems concerning observables are considered. There are derived the equations
+of motion for the state sections and observables. We show that up to a constant
+the matrix of the coefficients of the evolution operator (transport) coincides
+with the matrix of the Hamiltonian of the investigated quantum system.
+","[{""version"":""v1"",""created"":""Sun, 29 Mar 1998 07:22:09 GMT""}]","2008-11-26"
+"quant-ph/9803084","Bozhidar Zakhariev Iliev","Bozhidar Z. Iliev (Institute for Nuclear Research and Nuclear Energy,
+  Bulgarian Academy of Sciences, Sofia, Bulgaria)","Fibre bundle formulation of nonrelativistic quantum mechanics: I.
+  Introduction. The evolution transport","26 standard (11pt, A4) LaTeX 2e pages. The packages AMS-LaTeX and
+  amsfonts are required. Revised: new material, references, and comments are
+  added. Minor style chages. Continuation of quan-ph/9803083. For continuation
+  of the this series see http://www.inrne.bas.bg/mathmod/bozhome/","J.Phys.A34:4887-4918,2001","10.1088/0305-4470/34/23/308",,"quant-ph gr-qc hep-th math.DG math.GT",,"  We propose a new systematic fibre bundle formulation of nonrelativistic
+quantum mechanics. The new form of the theory is equivalent to the usual one
+but it is in harmony with the modern trends in theoretical physics and
+potentially admits new generalizations in different directions. In it a pure
+state of some quantum system is described by a state section (along paths) of a
+(Hilbert) fibre bundle. Its evolution is determined through the bundle
+(analogue of the) Schr\""odinger equation. Now the dynamical variables and the
+density operator are described via bundle morphisms (along paths). The
+mentioned quantities are connected by a number of relations derived in this
+work.
+  The present first part of this investigation is devoted to the introduction
+of basic concepts on which the fibre bundle approach to quantum mechanics
+rests. We show that the evolution of pure quantum-mechanical states can be
+described as a suitable linear transport along paths, called evolution
+transport, of the state sections in the Hilbert fibre bundle of states of a
+considered quantum system.
+","[{""version"":""v1"",""created"":""Sun, 29 Mar 1998 07:24:12 GMT""},{""version"":""v2"",""created"":""Fri, 16 Oct 1998 15:03:49 GMT""}]","2008-11-26"

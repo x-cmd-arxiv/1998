@@ -1,0 +1,473 @@
+"astro-ph/9805001","Henri M. J. Boffin","A.S. Bhattal, N. Francis, S.J. Watkins, and A.P. Whitworth","Dynamically triggered star formation in giant molecular clouds","15 pages, 12 low resolution figures in 50 files, accepted by MNRAS",,"10.1046/j.1365-8711.1998.01503.x",,"astro-ph",,"  A Lagrangian, particle-based numerical method (tree code gravity plus
+smoothed particle hydrodynamics) was used to simulate clump-clump collisions
+occurring within GMCs.
+  The collisions formed shock-compressed layers, out of which condensed
+approximately co-planar protostellar discs of 7-60 solar masses and 500-1000AU
+radius. Binary and multiple systems were the usual final state. Lower mass
+objects were also produced, but commonly underwent disruption or merger. Such
+objects occasionally survived by being ejected via a three-body slingshot event
+resulting from an encounter with a binary system.
+  Varying the impact parameter, b, altered the processes by which the
+protostellar systems formed. At low b a single central disc formed initially,
+and was then spun-up by an accretion flow, causing it to produce secondaries
+via rotational instabilities. At mid b the shocked layer w hich formed
+initially broke up into fragments, and discs were then formed via fragment
+merger. At large b single objects formed within the compressed leading edge of
+each clump. These became unbound from each other as b was increased further.
+  The effect of changing numerical factors was examined by : (i) colliding
+clumps which had been re-oriented before the collision (thus altering the
+initial particle noise), and (ii) by quadrupling the number of particles in
+each clump (thus increasing the resolution of the simulation). Both changes
+were found to affect the small-scale details of a collision, but leave the
+large scale morphology largely unaltered.
+  It was concluded that clump-clump collisions provide a natural mechanism by
+which multiple protostellar systems may form.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 17:41:11 GMT""}]","2009-10-30"
+"astro-ph/9805005","Elena Pian","E. Pian, A. Koratkar, L. Maraschi, C. M. Urry, G. Madejski, I. M.
+  McHardy, J. E. Pesce, A. Treves, P. Grandi, C. M. Leach","Ultraviolet Isotropic Emission from the Blazar 3C 279","4 pages, LaTex, esapub format, 4 postscript figures, to appear in the
+  Proceedings of the Conference 'Ultraviolet Astrophysics Beyond the IUE Final
+  Archive', held in Sevilla, Spain (1997 November 11-14)",,,,"astro-ph",,"  Archival IUE SWP and HST FOS spectra show the presence of a relatively
+strong, broad Lyman alpha emission line superposed onto the UV spectral
+continuum of the blazar 3C 279. As opposed to a factor ~50 variation of the
+continuum flux during eight years, the emission line did not exhibit
+significant intensity changes. Simultaneous IUE SWP and LWP spectra of 3C 279
+in low emission state are fitted by power-laws of index alpha_nu ~1 (f_nu ~
+nu^{-alpha_nu}), significantly flatter than measured during higher states. Our
+observations suggest that the Lyman alpha line is not powered by the beamed,
+anisotropic synchrotron radiation which produces the observed continuum in 3C
+279, but rather by an unbeamed component characterized by slower and lower
+amplitude variability. The latter may account for the UV continuum observed
+during the very low state of January 1993.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 16:21:14 GMT""}]","2007-05-23"
+"astro-ph/9805006","Karl D. Gordon","A. N. Witt, K. D. Gordon, D. G. Furton","Silicon Nanoparticles: Source of Extended Red Emission?","5 pages; 1 included figure; accepted 1998 May 1, ApJL",,"10.1086/311453",,"astro-ph",,"  We have reviewed the characteristics of the extended red emission (ERE) as
+observed in many dusty astronomical environments, in particular, the diffuse
+interstellar medium of the Galaxy. The spectral nature and the photon
+conversion efficiency of the ERE identify the underlying process as highly
+efficient photoluminescence by an abundant component of interstellar dust. We
+have compared the photoluminescence properties of a variety of carbon- and
+silicon-based materials proposed as sources for the ERE with the
+observationally established constraints. We found that silicon nanoparticles
+provide the best match to the spectrum and the efficiency requirement of the
+ERE. If present in interstellar space with an abundance sufficient to explain
+the intensity of the ERE, silicon nanoparticles will also contribute to the
+interstellar 9.7 micron Si-O stretch feature in absorption, to the near- and
+mid-IR nonequilibrium thermal background radiation, and to the continuum
+extinction in the near- and far-UV. About 36% of the interstellar silicon
+depleted into the dust phase would be needed in the form of silicon
+nanoparticles, amounting to less than 5% of the interstellar dust mass. We
+propose that silicon nanoparticles form through the nucleation of SiO in
+oxygen-rich stellar mass outflows and that they represent an important
+small-grain component of the interstellar dust spectrum.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 19:59:13 GMT""}]","2009-10-30"
+"astro-ph/9805007","Cole Miller","M. Coleman Miller, Frederick K. Lamb, and Gregory B. Cook","Effects of Rapid Stellar Rotation on Equation of State Constraints
+  Derived from Quasi-Periodic Brightness Oscillations","14 pages plus three figures, uses aas2pp4.sty, submitted to The
+  Astrophysical Journal",,"10.1086/306533",,"astro-ph",,"  Quasi-periodic X-ray brightness oscillations (QPOs) with frequencies around a
+kilohertz have now been discovered in more than a dozen neutron stars in
+low-mass X-ray binary systems using the Rossi X-ray Timing Explorer. There is
+strong evidence that the frequencies of the kilohertz oscillations are the
+orbital frequencies of accreting gas in nearly circular orbits around these
+stars. Some stars that produce kilohertz QPOs may have spin frequencies greater
+than 400 Hertz. For spin rates this high, first-order analytic treatments of
+the effects of the star's rotation on its structure and the spacetime are
+inaccurate. Here we use the results of a large number of fully relativistic,
+self-consistent numerical calculations of the stellar structure of rapidly
+rotating neutron stars and the interior and exterior spacetime to investigate
+the constraints on the properties of such stars that can be derived if stable
+circular orbits of various frequencies are observed. We have computed the
+equatorial radius of the star, the radius of the innermost stable circular
+orbit, and the frequency of the highest-frequency stable circular orbit as
+functions of the stellar spin rate, for spin rates up to the maximum possible
+and for several illustrative equations of state. Our calculations show that the
+upper bounds on the stiffness of neutron star matter implied by a given orbital
+frequency are typically significantly stricter for stars with spin frequencies
+more than 400 Hertz than for slowly rotating stars.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 22:12:32 GMT""}]","2009-10-30"
+"astro-ph/9805008","N. A. Levenson","N. A. Levenson (UC Berkeley), James R. Graham (UC Berkeley), Luke D.
+  Keller (Univ. Texas), and Matthew J. Richter (Univ. Texas)","Panoramic Views of the Cygnus Loop","28 pages AAS Latex, 28 black+white figures, 6 color figures. To be
+  published in The Astrophysical Journal Supplement Series",,"10.1086/313136",,"astro-ph",,"  We present a complete atlas of the Cygnus Loop supernova remnant in the light
+of [O III] (5007), H alpha, and [S II] (6717, 6731). Despite its shell-like
+appearance, the Cygnus Loop is not a current example of a Sedov-Taylor blast
+wave. Rather, the optical emission traces interactions of the supernova blast
+wave with clumps of gas. The surrounding interstellar medium forms the walls of
+a cavity through which the blast wave now propagates, including a nearly
+complete shell in which non-radiative filaments are detected. The Cygnus Loop
+blast wave is not breaking out of a dense cloud, but is instead running into
+confining walls. The interstellar medium dominates not only the appearance of
+the Cygnus Loop but also the continued evolution of the blast wave. If this is
+a typical example of a supernova remnant, then global models of the
+interstellar medium must account for such significant blast wave deceleration.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 23:56:44 GMT""}]","2009-10-30"
+"astro-ph/9805009","Isabelle Baraffe","Isabelle Baraffe, Gilles Chabrier (Lyon, France), France Allard (Lyon,
+  France; Wichita, USA), Peter Hauschildt (Georgia, USA)","Evolutionary models for solar metallicity low-mass stars: mass-magnitude
+  relationships and color-magnitude diagrams","15 pages, Latex file, uses l-aa.sty, accepted for publication in A&A","Astron.Astrophys.337:403-412,1998",,,"astro-ph",,"  We present evolutionary models for low mass stars from 0.075 to 1 $\msol$ for
+solar-type metallicities [M/H]= 0 and -0.5. The calculations include the most
+recent interior physics and the latest generation of non-grey atmosphere
+models. We provide mass-age-color-magnitude relationships for both
+metallicities. The mass-M$_V$ and mass-M$_K$ relations are in excellent
+agreement with the empirical relations derived observationally. The theoretical
+color-magnitude diagrams are compared with the sequences of globular clusters
+(47 Tucanae) and open clusters (NGC2420 and NGC2477) observed with the Hubble
+Space Telescope. Comparison is also made with field star sequences in
+$M_V$-$(V-I)$, $M_K$-$(I-K)$ and $M_K$-$(J-K)$ diagrams. These comparisons show
+that the most recent improvements performed in low-mass star atmosphere models
+yield now reliable stellar models in the near-infrared. These models can be
+used for metallicity, mass, temperature and luminosity calibrations.
+Uncertainties still remain, however, in the optical spectral region below
+$T_{eff} \sim 3700K$, where predicted (V-I) colors are too blue by 0.5 mag for
+a given magnitude. The possible origins for such a discrepancy, most likely a
+missing source of opacity in the optical and the onset of grain formation are
+examined in detail.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 11:56:30 GMT""}]","2008-11-26"
+"astro-ph/9805010","Uros Seljak","Uros Seljak (CfA), Matias Zaldarriaga (MIT)","Polarization of Microwave Background: Statistical and Physical
+  Properties","9 pages, 4 figures, 4 color jpg plates, to appear in ""Fundamental
+  Parameters in Cosmology,"" proceedings of the XXXIIIrd Rencontres de Moriond
+  1998",,,,"astro-ph",,"  We discuss statistical and physical properties of cosmic microwave background
+polarization, both in Fourier and in real space. The latter allows for a more
+intuitive understanding of some of the geometric signatures. We present
+expressions that relate electric and magnetic type of polarization to the
+measured Stokes parameters in real space and discuss how can be constructed
+locally. We discuss necessary conditions to create polarization and present
+simulated maps and correlation functions for some typical models.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 15:07:22 GMT""}]","2007-05-23"
+"cond-mat/9805012","Philippe Ghosez","Ph. Ghosez, X. Gonze","First-principles computation of the Born effective charges and their
+  band-by-band decomposition","11 pages, 1 table, LaTeX",,,"PhG-980224","cond-mat",,"  The Born effective charge, Z*, that describes the polarization created by
+collective atomic displacements, can be computed from first-principles by
+different techniques. Its band-by-band decomposition appeared recently as a
+powerful tool for the microscopic characterisation of the bonding in solids. We
+describe the connections between the different expressions used for the
+computation of Z*, and analyze the possible associated band-by-band
+decompositions. We show that unlike for the full Z*, the different band-by-band
+values are not equal, and emphasize that one of them has an interesting
+physical meaning.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 16:38:00 GMT""}]","2007-05-23"
+"cond-mat/9805013","Philippe Ghosez","Ph. Ghosez, J.P. Michenaud, X. Gonze","The physics of dynamical atomic charges: the case of ABO3 compounds","25 pages, 6 Figures, 10 Tables, LaTeX",,"10.1103/PhysRevB.58.6224","PhG-980424","cond-mat",,"  Based on recent first-principles computations in perovskite compounds,
+especially BaTiO3, we examine the significance of the Born effective charge
+concept and contrast it with other atomic charge definitions, either static
+(Mulliken, Bader...) or dynamical (Callen, Szigeti...). It is shown that static
+and dynamical charges are not driven by the same underlying parameters. A
+unified treatment of dynamical charges in periodic solids and large clusters is
+proposed. The origin of the difference between static and dynamical charges is
+discussed in terms of local polarizability and delocalized transfers of charge:
+local models succeed in reproducing anomalous effective charges thanks to large
+atomic polarizabilities but, in ABO3 compounds, ab initio calculations favor
+the physical picture based upon transfer of charges. Various results concerning
+barium and strontium titanates are presented. The origin of anomalous Born
+effective charges is discussed thanks to a band-by-band decomposition which
+allows to identify the displacement of the Wannier center of separated bands
+induced by an atomic displacement. The sensitivity of the Born effective
+charges to microscopic and macroscopic strains is examined. Finally, we
+estimate the spontaneous polarization in the four phases of barium titanate.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 17:01:59 GMT""}]","2009-10-31"
+"cond-mat/9805014","Eva Y. Andrei","W. Henderson, M.J. Higgins and E.Y. Andrei","Plastic Motion of a Flux-line Lattice Driven by Alternating Current","5 pages, 4 figuress","Phys. Rev. Lett. 81, 2352, (1998)","10.1103/PhysRevLett.81.2352",,"cond-mat.supr-con",,"  We have measured the response of the flux-line lattice in the low T$_c$
+superconductor, 2H-NbSe$_2$, to finite frequency drives. In a well-defined
+range of fields, temperatures, and driving amplitudes the system exhibits a
+variety of novel non-linear phenomena. Most strikingly, the flux-lines can move
+easily in response to currents that are significantly lower than the DC
+critical current if the direction of the current is reversed periodically while
+the amplitude, I, is kept fixed, but they do not respond to a current that
+periodically switches between zero and I, while the direction is kept fixed.
+Pronounced memory effects associated with these phenomena indicate the presence
+of dynamically generated structural changes in the flux lattice.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 20:06:11 GMT""}]","2009-10-31"
+"cond-mat/9805015","Peter O. Fedichev","P.O.Fedichev, G.V. Shlyapnikov","Finite Temperature Perturbation Theory for a Spatially Inhomogeneous
+  Bose-condensed Gas","16 pages, 3 figures, Revtex, uses epsfig",,"10.1103/PhysRevA.58.3146",,"cond-mat",,"  We develop a finite temperature perturbation theory (beyond the mean field)
+for a Bose-condensed gas and calculate temperature-dependent damping rates and
+energy shifts for Bogolyubov excitations of any energy. The theory is
+generalized for the case of excitations in a spatially inhomogeneous (trapped)
+Bose-condensed gas, where we emphasize the principal importance of
+inhomogeneouty of the condensate density profile and develop the method of
+calculating the self-energy functions. The use of the theory is demonstrated by
+calculating the damping rates and energy shifts of low-energy quasiclassical
+excitations, i.e. the quasiclassical excitations with energies much smaller
+than the mean field interaction between particles. In this case the boundary
+region of the condensate plays a crucial role, and the result for the damping
+rates and energy shifts is completely different from that in spatially
+homogeneous gases. We also analyze the frequency shifts and damping of sound
+waves in cylindrical Bose condensates and discuss the role of damping in the
+recent MIT experiment on the sound propagation.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 21:39:20 GMT""},{""version"":""v2"",""created"":""Sun, 5 Jul 1998 22:57:03 GMT""}]","2009-10-31"
+"cond-mat/9805016","Liang-Xin Li","Liang-Xin Li and Yia-Chung Chang (U. of Illinois at Urbana-Champaign)","Band structures and optical properties of GaInAs quantum wires grown by
+  strain-induced lateral ordering","11 papges, 10 figures","Journal Applied Physics, Vol 84, No. 11, 1998, December 1st","10.1063/1.368931",,"cond-mat",,"  Band structures and optical matrix elements of strained multiple
+quantum-wires (QWR's) are investigated theoretically via the effective
+bond-orbital model, which takes into account the effects of valence-band
+anisotropy and the band mixing. In particular, the Ga$_{1-x}$In$_x$As QWR's
+grown by strain-induced lateral ordering (SILO) are considered. Recently, long
+wavelength Ga$_{1-x}$In$_x$As QWR lasers have been fabricated via a single step
+molecular beam epitaxy technique which uses the SILO process.[1] Low threshold
+current and high optical anisotropy have been achieved. Multi-axial strains
+[combinations of biaxial strains in the (001) and (110) planes] for QWR's are
+considered, Our calculated anisotropy in optical matrix elements (for light
+polarized parallel versus perpendicular to the QWR's axis) is in good agreement
+with experiment. We also find that the strain tends to increase the quantum
+confinement and enhance the anisotropy of the optical transitions.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 21:37:17 GMT""}]","2009-10-31"
+"cond-mat/9805017","Hugo Montani","S. Grillo and H. Montani","q-Deformed Anisotropic Superexchange Interaction, Frustration and
+  GL_{pq}(2)","12 pages",,"10.1142/S0217984998000986",,"cond-mat hep-th",,"  We study a suitable q-deformed version of the Moriya's superexchange
+interaction theory by means of its underlying quantum group structure. We show
+that the one-dimensional chain case is associated with the non-standard quantum
+group $GL_{pq}(2) $, evidencing the integrability structure of the system. This
+biparametric deformation of $GL(2,{\bf C}) $ arise as a twisting of $GL_{q}(2)
+$ and it match exactly the local rotation appearing in the Shekhtman's work
+\cite{Sh}. This allow us to express the frustration condition in terms of this
+twisting, also showing that effect of the Moriya's vector amounts to a twisting
+of the boundary condition.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 22:26:48 GMT""}]","2009-10-31"
+"cond-mat/9805019","Tapash Chakraborty","Sergio Conti (MPI, Leipzig) and Tapash Chakraborty (MPI, Dresden)","Dynamical Correlations in a Half-Filled Landau Level","4 pages, revtex, 3 figures included. Corrected typos","Phys. Rev. B 59, 2867 (1999)","10.1103/PhysRevB.59.2867",,"cond-mat.mes-hall",,"  We formulate a self-consistent field theory for the Chern-Simons fermions to
+study the dynamical response function of the quantum Hall system at $\nu=1/2$.
+Our scheme includes the effect of correlations beyond the random-phase
+approximation (RPA) employed to this date for this system. The resulting
+zero-frequency density response function vanishes as the square of the wave
+vector in the long-wavelength limit. The longitudinal conductivity calculated
+in this scheme shows linear dependence on the wave vector, like the
+experimentals results and the RPA, but the absolute values are higher than the
+experimental results.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 09:43:41 GMT""},{""version"":""v2"",""created"":""Wed, 8 Jul 1998 13:31:18 GMT""}]","2009-10-31"
+"cond-mat/9805020","Uli Schollwoeck","R. Roth, U. Schollwoeck","Frustrated antiferromagnetic quantum spin chains for spin length S > 1","6 pages, 8 ps figures, uses RevTeX, submitted to PRB",,"10.1103/PhysRevB.58.9264","LMU-P-US-98/4","cond-mat",,"  We investigate frustrated antiferromagnetic Heisenberg quantum spin chains at
+T=0 for S=3/2 and S=2 using the DMRG method. We localize disorder and Lifshitz
+points, confirming that quantum disorder points can be seen as quantum remnants
+of classical phase transitions. Both in the S=3/2 and the S=2 chain, we observe
+the disappearance of effectively free S=1/2 and S=1 end spins respectively. The
+frustrated spin chain is therefore a suitable system for clearly showing the
+existence of free end spins S'=[S/2] also in half-integer antiferromagnetic
+spin chains with S>1/2. We suggest that the first order transition found for
+S=1 in our previous work is present in all frustrated spin chains with S>1/2,
+characterized by the disappearance of effectively free end spins with S'=[S/2].
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 10:17:59 GMT""}]","2009-10-31"
+"cond-mat/9805021","Semjon Stepanow","Semjon Stepanow, Jens-Uwe Sommer, and Igor Ya. Erukhimovich","Localization transition of random copolymers at interfaces","5 pages","Phys. Rev. Lett. 81, 4412 (1998)","10.1103/PhysRevLett.81.4412",,"cond-mat.soft",,"  We consider adsorption of random copolymer chains onto an interface within
+the model of Garel et al. Europhysics Letters 8, 9 (1989). By using the replica
+method the adsorption of the copolymer at the interface is mapped onto the
+problem of finding the ground state of a quantum mechanical Hamiltonian. To
+study this ground state we introduce a novel variational principle for the
+Green's function, which generalizes the well-known Rayleigh-Ritz method of
+Quantum Mechanics to nonstationary states. Minimization with an appropriate
+trial Green's function enables us to find the phase diagram for the
+localization-delocalization transition for an ideal random copolymer at the
+interface.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 14:46:43 GMT""},{""version"":""v2"",""created"":""Thu, 14 Jan 1999 14:47:38 GMT""}]","2009-10-31"
+"gr-qc/9805003","Ken D. Olum","Ken D. Olum","Superluminal travel requires negative energies","5 pages, RevTeX, 2 figures with epsf. This paper now contains all the
+  material of gr-qc/6805003 and gr-qc/9806091 since these became a single
+  article in Phys. Rev. Lett","Phys.Rev.Lett. 81 (1998) 3567-3570","10.1103/PhysRevLett.81.3567",,"gr-qc",,"  I investigate the relationship between faster-than-light travel and
+weak-energy-condition violation, i.e., negative energy densities. In a general
+spacetime it is difficult to define faster-than-light travel, and I give an
+example of a metric which appears to allow superluminal travel, but in fact is
+just flat space. To avoid such difficulties, I propose a definition of
+superluminal travel which requires that the path to be traveled reach a
+destination surface at an earlier time than any neighboring path. With this
+definition (and assuming the generic condition) I prove that superluminal
+travel requires weak-energy-condition violation.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 19:39:39 GMT""},{""version"":""v2"",""created"":""Wed, 14 Oct 1998 18:55:32 GMT""}]","2015-06-25"
+"hep-ex/9805002","Valery Telnov","Valery Telnov (Institute of Nuclear Physics, Novosibirsk, Russia)","Electron-photon interactions in high energy beam production and cooling","16 pages, Latex, 7 figures(.eps), Invited talk at ICFA Workshop on
+  Quantum Aspects of Beam Physics, Monterey, CA, USA, January 4-9, 1998. To be
+  published by World Scientific","QUANTUM ASPECTS OF BEAM PHYSICS: Proceedings, Ed. by P.Chen,
+  Singapore, World Scientific, 1998, p.173.",,"Budker INP 98-33","hep-ex hep-ph physics.acc-ph physics.optics",,"  In this review we consider three important applications of lasers in high
+energy physics: gamma gamma, gamma electron colliders, laser cooling, positron
+production. These topics are actual now due to plans of construction linear
+e+e-, e-e-, gamma-gamma, gamma-e colliders with energies 0.3--1 TeV. High
+energy photons for gamma-gamma, gamma-e collisions can be obtained using laser
+backscattering. These types of collisions considerably increase physics
+potential of linear colliders. Very low emittance of electron beams required
+for achieving ultimate gamma-gamma luminosity can be obtained using a laser
+cooling of electron beams. Combining a laser-electron Compton scattering with
+subsequent conversion of these photons to e+e- pairs on the target (it can be a
+laser target) one can get a nice source of polarized positron. In this paper,
+we briefly consider these subjects with emphasis on underlying physics of
+photon-electron interactions.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 11:04:43 GMT""},{""version"":""v2"",""created"":""Thu, 7 May 1998 05:52:18 GMT""}]","2007-05-23"
+"hep-ph/9805203","Eric Chopin","E. Chopin (LAPTH)","Improvement of the Calculation of Scattering Amplitudes with External
+  Fermions","27 pages, uses FEYNMAN.tex, some clarifications and orthographic
+  corrections",,,"LAPTH-682/98","hep-ph",,"  In this paper, we present an improvement of a method for computing scattering
+amplitudes that include external (polarized) fermions with the following
+features: the formulas are quite general and work for different kinematic
+configurations and different external masses, they are explicitly covariant,
+they do not depend on a specific representation of the Dirac matrices and they
+have a meaningful limit when the masses tend to 0. The results presented make
+use of some well known formulas describing the density matrices in terms of
+projection operators within a more general formalism. Since our formulas intend
+to be as general as possible, we also take into account the possibility of a
+transverse polarization for massless fermions.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 20:01:58 GMT""},{""version"":""v2"",""created"":""Wed, 17 Jun 1998 20:08:59 GMT""}]","2007-05-23"
+"hep-ph/9805206","Jeff Forshaw","B.E.Cox and J.R.Forshaw","Double Diffraction Dissociation at High t","12 pages, 8 figures","Phys.Lett.B434:133-140,1998","10.1016/S0370-2693(98)00749-7","MC-TH-98/7, MAN/HEP/98/2","hep-ph",,"  Diffractive scattering in the presence of a large momentum transfer is an
+ideal place to study the short distance rapidity gap producing mechanism.
+Previous studies (experimental and theoretical) in this area have focussed on
+gaps between jets and on high-$t$ vector meson production. We propose the
+measurement of double dissociation at high-$t$. We examine the numerous
+advantages to studying this more inclusive process and conclude that it is an
+ideal place to study short distance diffraction.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 18:57:34 GMT""}]","2008-11-26"
+"hep-ph/9805207",,"A.A. Pankov and N. Paver","Model-independent limits on four-fermion contact interactions at LC with
+  polarization","13 pages, LaTex","Phys.Lett.B432:159-166,1998","10.1016/S0370-2693(98)00619-4","IC/98/40","hep-ph",,"  Fermion compositeness, and other types of new physics that can be described
+by the exchange of very massive particles, can manifest themselves as the
+result of an effective four-fermion contact interaction. In the case of the
+processes $e^+e^-\to \mu^+\mu^-,\tau^+\tau^-,\bar{b}b$ and $\bar{c}c$ at future
+$e^+e^-$ colliders with $\sqrt{s}=0.5-1$ TeV, we examine the sensitivity to
+four-fermion contact interactions of two new integrated observables, $\sigma_+$
+and $\sigma_-$, conveniently defined for such kind of analysis. We find that,
+if longitudinal polarization of the electron beam were available, these
+observables would offer the opportunity to separate the helicity cross sections
+and, in this way, to derive model-independent bounds on the relevant
+parameters.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 17:38:58 GMT""}]","2011-01-25"
+"hep-ph/9805208","Yuri V. Kovchegov","Yuri V. Kovchegov, A.H. Mueller (Columbia University)","Running Coupling Effects in BFKL Evolution","13 pages, LaTeX, no figures","Phys.Lett. B439 (1998) 428-436","10.1016/S0370-2693(98)01059-4","CU-TP-889","hep-ph",,"  We resum the recently calculated second order kernel of the BFKL equation.
+That kernel can be viewed as the sum of a conformally invariant part and a
+running coupling part. The conformally invariant part leads to a corrected BFKL
+intercept as found earlier. The running coupling part of the kernel leads to a
+non-Regge term in the energy dependence of high energy hard scattering, as well
+as a $Q^2-$dependent intercept.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 19:53:55 GMT""},{""version"":""v2"",""created"":""Mon, 4 May 1998 16:27:34 GMT""}]","2009-10-31"
+"hep-th/9805005","Beatriz de Carlos","T. Barreiro, B. de Carlos and E.J. Copeland (Sussex)","Stabilizing the Dilaton in Superstring Cosmology","13 pages, LaTex, uses psfig.sty with 3 figures","Phys.Rev.D58:083513,1998","10.1103/PhysRevD.58.083513","SUSX-TH-98-011, IEM-FT-174/98","hep-th hep-ph",,"  We address the important issue of stabilizing the dilaton in the context of
+superstring cosmology. Scalar potentials which arise out of gaugino condensates
+in string models are generally exponential in nature. In a cosmological setting
+this allows for the existence of quasi scaling solutions, in which the energy
+density of the scalar field can, for a period, become a fixed fraction of the
+background density, due to the friction of the background expansion. Eventually
+the field can be trapped in the minimum of its potential as it leaves the
+scaling regime. We investigate this possibility in various gaugino condensation
+models and show that stable solutions for the dilaton are far more common than
+one would have naively thought.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 17:31:21 GMT""}]","2008-11-26"
+"hep-th/9805006","Sonia Stanciu","Sonia Stanciu, Arkady Tseytlin","D-branes in curved spacetime: Nappi-Witten background","21 pages, 7 figures, references added","JHEP 9806:010,1998","10.1088/1126-6708/1998/06/010","Imperial/TP/97-98/40, NSF-ITP-98-052","hep-th",,"  We find exact D-brane configurations in the Nappi-Witten background using the
+boundary state approach and describe how they are related by T-duality
+transformations. We also show that the classical boundary conditions of the
+associated sigma model correspond to a field dependent automorphism relating
+the chiral currents and discuss the correspondence between the boundary state
+approach and the sigma model approach.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 19:56:33 GMT""},{""version"":""v2"",""created"":""Fri, 8 May 1998 15:14:19 GMT""}]","2009-10-31"
+"hep-th/9805007","Michael Dine","Michael Dine, Robert Echols and Joshua P. Gray","Renormalization of Higher Derivative Operators in the Matrix Model","14 pages latex. Note added in light of recent developments","Phys.Lett. B444 (1998) 103-110","10.1016/S0370-2693(98)01354-9","SCIPP 98/15","hep-th",,"  $M$-theory is believed to be described in various dimensions by large $N$
+field theories. It has been further conjectured that at finite $N$, these
+theories describe the discrete light cone quantization (DLCQ) of $M$ theory.
+Even at low energies, this is not necessarily the same thing as the DLCQ of
+supergravity. It is believed that this is only the case for quantities which
+are protected by non-renormalization theorems. In 0+1 and 1+1 dimensions, we
+provide further evidence of a non-renormalization theorem for the $v^4$ terms,
+but also give evidence that there are not such theorems at order $v^8$ and
+higher.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 21:58:51 GMT""},{""version"":""v2"",""created"":""Fri, 4 Sep 1998 22:54:22 GMT""},{""version"":""v3"",""created"":""Wed, 9 Sep 1998 17:00:26 GMT""}]","2009-10-31"
+"hep-th/9805008","Vladimir Bazhanov","V. V. Bazhanov, S. L. Lukyanov, A. B. Zamolodchikov","Integrable Structure of Conformal Field Theory III. The Yang-Baxter
+  Relation","35 pages, harvmac TeX, minor changes, references added","Commun.Math.Phys.200:297-324,1999","10.1007/s002200050531","RU-98-14","hep-th",,"  In this paper we fill some gaps in the arguments of our previous papers
+[hep-th/9412229,hep-th/9604044]. In particular, we give a proof that the L
+operators of Conformal Field Theory indeed satisfy the defining relations of
+the Yang-Baxter algebra. Among other results we present a derivation of the
+functional relations satisfied by ${\bf T}$ and ${\bf Q}$ operators and a proof
+of the basic analyticity assumptions for these operators used in
+[hep-th/9412229,hep-th/9604044].
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 08:11:52 GMT""},{""version"":""v2"",""created"":""Thu, 18 Jun 1998 05:49:40 GMT""}]","2011-02-11"
+"hep-th/9805009","Armen Nersessian","A. Nersessian","The Hamiltonian Formalism for the Generalized Rigid Particles","11 pages, LaTeX","Theor.Math.Phys. 117 (1998) 1214-1222; Teor.Mat.Fiz. 117 (1998)
+  130-139",,"JINR P2-98-108","hep-th",,"  The Hamiltonian formulation for the mechanical systems with
+reparametrization-invariant Lagrangians, depending on the worldline external
+curvatures is given, which is based on the use of moving frame.
+  A complete sets of constraints are found for the Lagrangians with quadratic
+dependence on curvatures, for the lagrangians, proportional to an arbitrary
+curvature, and for the Lagrangians, linear on the first and second curvatures.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 10:10:53 GMT""}]","2007-05-23"
+"math/9805006","Nobuki Takayama","Toshinori Oaku and Nobuki Takayama","Algorithms for D-modules --- restriction, tensor product, localization,
+  and local cohomology groups",,,,,"math.AG",,"  We describe algorithms for computing various functors for algebraic
+D-modules, i.e. systems of linear partial differential equations with
+polynomial coefficients. We will give algorithms for restriction, tensor
+product, localization, and local cohomology groups for all degrees.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 09:39:01 GMT""}]","2007-05-23"
+"nucl-th/9805002","Victor D. Efros","V.D. Efros (1), W. Leidemann (2), and G. Orlandini (2) ((1) Russian
+  Research Centre ""Kurchatov Institute"", Moscow, Russia (2) Dipartimento di
+  Fisica, Universita` di Trento, Italy)","Exact 4He Spectral Function in a Semirealistic NN Potential Model","7 pages, Latex (Revtex), 4 Postscript figures, to appear in Phys.
+  Rev. C","Phys.Rev.C58:582-585,1998","10.1103/PhysRevC.58.582",,"nucl-th",,"  The spectral function of 4He is calculated with the Lorentz integral
+transform method in a large energy and momentum range. The excitation spectrum
+of the residual 3N-system is fully taken into account. The obtained spectral
+function is used to calculate the quasi elastic longitudinal (e,e') response
+R_l of 4He for q=300, 400, and 500 MeV/c. Comparison with the exact R_l shows a
+rather sizeable disagreement except in the quasi elastic peak, where the
+differences reduce to about 10% at q=500 MeV/c. It is shown as well that very
+simple momentum distribution approximations for the spectral function provide
+practically the same results for R_l as the exact spectral function.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 10:50:10 GMT""}]","2008-11-26"
+"physics/9805003","Andrew Chubykalo","Andrew E. Chubykalo and Stoyan J. Vlaev","Reply to the Comment on ``Theorem on the proportionality of inertial and
+  gravitational masses in classical mechanics""","ReVTeX file, 4pp., no figures",,,"EFUAZ FT-98-59","physics.class-ph",,"  In the Comment [Eur. J. Phys., to be published] on our paper [Eur. J. Phys.
+19 (1998) 1-6], the author declares that we claim that the ratio of inertial
+mass to gravitational mass can be derived ex nihilo and that our paper was
+published ""by mistake"". In this ""Reply"" we dispute the point of view of the
+author.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 18:23:26 GMT""}]","2007-05-23"
+"physics/9805004","Gunn A. Quznetsov","Gunn A. Quznetsov","The physics space dimension","4 pages, LaTex, syntax revise",,,"TOO SET-FT G1","physics.gen-ph",,"  All fermions and all interactions between fermions are expressed by the
+Cayley numbers in our space-time. PACS 02.50.Cw 04.20.Cz 11.10.Kk 12.10.Dm
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 01:46:32 GMT""},{""version"":""v2"",""created"":""Thu, 21 Jan 1999 12:58:06 GMT""}]","2007-05-23"
+"physics/9805005","Nikolai Gouliaev","Nikolai Gouliaev and John F. Nagle","Simulations of Interacting Membranes","4 pages, 6 figures",,,,"physics.bio-ph physics.comp-ph",,"  The liquid crystalline model biomembrane system consisting of a stack of
+interacting membranes is studied by the newly developed Fourier Monte Carlo
+simulation technique. In comparison to perturbation theory, substantial
+quantitative discrepancies are found that affect determination of interbilayer
+interactions. A harmonic theory is also routinely used to interpret x-ray
+scattering line shapes; this is shown to be valid because the distance
+dependence of the simulated correlation functions can be fairly well fit by the
+harmonic theory.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 06:52:59 GMT""}]","2007-05-23"
+"physics/9805006","Alexander V. Shapovalov","A. V. Shapovalov and E. V. Evdokimov","The geometry of the Fisher selection dynamics","9 LaTeX pages",,,,"physics.bio-ph q-bio",,"  We study the Fisher model describing natural selection in a population with a
+diploid structure of a genome by differential- geometric methods. For the
+selection dynamics we introduce an affine connection which is shown to be the
+projectively Euclidean and the equiaffine one. The selection dynamics is
+reformulated similar to the motion of an effective particle moving along the
+geodesic lines in an 'effective external field' of a tensor type. An exact
+solution is found to the Fisher equations for the special case of fitness
+matrix associated to the effect of chromosomal imprinting of mammals.
+Biological sense of the differential- geometric constructions is discussed. The
+affine curvature is considered as a direct consequence of an allele coupling in
+the system. This curving of the selection dynamics geometry is related to an
+inhomogenity of the time flow in the course of the selection.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 07:13:15 GMT""}]","2007-05-23"
+"physics/9805007","Nikolai Gouliaev","Nikolai Gouliaev and John F. Nagle","Simulations of a single membrane between two walls using a Monte Carlo
+  method","10 pages, 10 figures",,"10.1103/PhysRevE.58.881",,"physics.bio-ph physics.comp-ph",,"  Quantitative theory of interbilayer interactions is essential to interpret
+x-ray scattering data and to elucidate these interactions for biologically
+relevant systems. For this purpose Monte Carlo simulations have been performed
+to obtain pressure P and positional fluctuations sigma. A new method, called
+Fourier Monte-Carlo (FMC), that is based on a Fourier representation of the
+displacement field, is developed and its superiority over the standard method
+is demonstrated. The FMC method is applied to simulating a single membrane
+between two hard walls, which models a stack of lipid bilayer membranes with
+non-harmonic interactions. Finite size scaling is demonstrated and used to
+obtain accurate values for P and sigma in the limit of a large continuous
+membrane. The results are compared with perturbation theory approximations, and
+numerical differences are found in the non-harmonic case. Therefore, the FMC
+method, rather than the approximations, should be used for establishing the
+connection between model potentials and observable quantities, as well as for
+pure modeling purposes.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 08:27:10 GMT""}]","2009-10-31"
+"quant-ph/9805003","Steven J. van Enk","S.J. van Enk, H.J. Kimble, J.I. Cirac, P. Zoller","Quantum Communication with Phantom Photons","6 pages RevTex, 4 eps figures included. Revised calculation with more
+  details about mode structure calculation and the introduction of losses",,"10.1103/PhysRevA.59.2659",,"quant-ph",,"  We show that quantum information may be transferred between atoms in
+different locations by using ``phantom photons'': the atoms are coupled through
+electromagnetic fields, but the corresponding field modes do not have to be
+fully populated. In the case where atoms are placed inside optical cavities,
+errors in quantum information processing due to photon absorption inside the
+cavity are diminished in this way. This effect persists up to intercavity
+distances of about a meter for the current levels of cavity losses, and may be
+useful for distributed quantum computing.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 17:35:14 GMT""},{""version"":""v2"",""created"":""Mon, 16 Nov 1998 22:22:53 GMT""}]","2009-10-31"
+"quant-ph/9805004","Renato Fedele","R. Fedele, V.I. Man'ko","Wigner transform and quantum-like corrections for charged-particle beam
+  transport","LaTex [sprocl] 3 pages, to be published in Proceedings of the 5th
+  Wigner Symposium (Vienna, 25-29 August, 1997)",,,,"quant-ph",,"  It is shown that charged-particle beam transport in the paraxial
+approximation can be effectively described with a quantum-like picture in
+semiclassical approximation. In particular, the classical Liouville equation
+can be suitably replaced by a von Neuman-like equation. Relevant remarks
+concerning the standard classical description of the beam transport are given.
+","[{""version"":""v1"",""created"":""Fri, 1 May 1998 17:18:50 GMT""}]","2007-05-23"
+"quant-ph/9805005","Ricardo Moritz Cavalcanti","R. M. Cavalcanti","Wave function of a Brownian particle","6 pages, REVTEX. Published version","Phys.Rev. E58 (1998) 6807","10.1103/PhysRevE.58.6807",,"quant-ph cond-mat.stat-mech",,"  Using the Caldirola-Kanai Hamiltonian, we study the time evolution of the
+wave function of a particle whose classical motion is governed by the Langevin
+equation. We show, in particular, that if the initial wave function is
+Gaussian, then (i) it remains Gaussian for all times, (ii) its width grows,
+approaching a finite value when t->infinity, and (iii) its center describes a
+Brownian motion, and so the uncertainty in the position of the particle grows
+without limit.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 03:11:06 GMT""},{""version"":""v2"",""created"":""Fri, 6 Nov 1998 20:46:23 GMT""}]","2009-10-31"
+"quant-ph/9805007","Constantin Brif","C. Brif, A. Mann and M. Revzen (Technion, Haifa)","Classical properties of generalized coherent states: from phase-space
+  dynamics to Bell's inequality","LaTeX2e, amssymb style, 11 pages, 1 figure. Presented at 2nd Jagna
+  International Workshop ``Mathematical Methods of Quantum Physics'', January
+  1998, Jagna, Philippines. To be published in a Festschrift for Professor
+  Hiroshi Ezawa (Gordon & Breach, London)",,,,"quant-ph",,"  We review classical properties of harmonic-oscillator coherent states. Then
+we discuss which of these classical properties are preserved under the
+group-theoretic generalization of coherent states. We prove that the
+generalized coherent states of quantum systems with Lie-group symmetries are
+the unique Bell states, i.e., the pure quantum states preserving the
+fundamental classical property of satisfying Bell's inequality upon splitting.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 11:41:29 GMT""}]","2007-05-23"
+"solv-int/9805001","Satoru Saito","Katsuhiko Yoshida and Satoru Saito","Analytical Study of the Julia Set of a Coupled Generalized Logistic Map","30pages, 22figures",,"10.1143/JPSJ.68.1513","TMUP-HEL-9806","solv-int nlin.SI",,"  A coupled system of two generalized logistic maps is studied. In particular
+influence of the coupling to the behaviour of the Julia set in two dimensional
+complex space is analyzed both analytically and numerically. It is proved
+analytically that the Julia set disappears from the complex plane uniformly as
+a parameter interpolates from the chaotic phase to the integrable phase, if the
+coupling strength satisfies a certain condition.
+","[{""version"":""v1"",""created"":""Sat, 2 May 1998 07:36:10 GMT""},{""version"":""v2"",""created"":""Sat, 17 Oct 1998 10:35:36 GMT""}]","2009-10-31"

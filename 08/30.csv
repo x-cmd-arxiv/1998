@@ -1,0 +1,195 @@
+"cond-mat/9808331","Enzo Granato","Enzo Granato","Current-voltage scaling of chiral and gauge-glass models of
+  two-dimensional superconductors","4 pages, 4 figures (included), to appear in Phys. Rev. B","Phys. Rev. B58, 11161 (1998)","10.1103/PhysRevB.58.11161",,"cond-mat.supr-con cond-mat.dis-nn",,"  The scaling behavior of the current-voltage characteristics of chiral and
+gauge glass models of disordered superconductors, are studied numerically, in
+two dimensions. For both models, the linear resistance is nonzero at finite
+temperatures and the scaling analysis of the nonlinear resistivity is
+consistent with a phase transition at T=0 temperature characterized by a
+diverging correlation length $\xi \propto T^{-\nu_{T}}$ and thermal critical
+exponent $\nu_{T}$. The values of $\nu_{T}$, however, are found to be different
+for the chiral and gauge glass models, suggesting different universality
+classes, in contrast to the result obtained recently in three dimensions.
+","[{""version"":""v1"",""created"":""Sat, 29 Aug 1998 18:40:03 GMT""}]","2009-10-31"
+"cond-mat/9808332","Konstantin Kladko","S. Aubry, S. Flach, K. Kladko and E. Olbrich","Manifestation of classical bifurcation in the spectrum of the integrable
+  quantum dimer","4 pages, 3 figures, REVTEX","PHYSICAL REVIEW LETTERS, 76(#10)1607-1610 MAR 4,1996",,,"cond-mat.stat-mech cond-mat.supr-con",,"  We analyze the classical and quantum properties of the integrable dimer
+problem. The classical version exhibits exactly one bifurcation in phase space,
+which gives birth to permutational symmetry broken trajectories and a
+separatrix. The quantum analysis yields all tunneling rates (splittings) in
+leading order of perturbation. In the semiclassical regime the eigenvalue
+spectrum obtained by numerically exact diagonalization allows to conclude about
+the presence of a separatrix and a bifurcation in the corresponding classical
+model.
+","[{""version"":""v1"",""created"":""Sun, 30 Aug 1998 01:00:10 GMT""}]","2007-05-23"
+"cond-mat/9808333","Augusto Gonzalez","Boris A. Rodriguez (1), Augusto Gonzalez (1), Luis Quiroga (3),
+  Roberto Capote (4) and Ferney Rodriguez (3) ((1) Universidad de Antioquia,
+  (2) Instituto de Cibernetica, Matematica y Fisica, (3) Universidad de los
+  Andes, (4) Centro de Estudios Aplicados al Desarrollo Nuclear)","Crossover between the Dense Electron-Hole Phase and the BCS Excitonic
+  Phase in Quantum Dots","Improved variational and projection calculations. 17 pages, 3 ps
+  figures. Accepted for publication in Int. J. Mod. Phys. B","Int. J. Mod. Phys. B. 14 (2000) 71-83","10.1142/S0217979200000078","IC/99/120","cond-mat.mes-hall",,"  Second order perturbation theory and a Lipkin-Nogami scheme combined with an
+exact Monte Carlo projection after variation are applied to compute the
+ground-state energy of $6\le N\le 210$ electron-hole pairs confined in a
+parabolic two-dimensional quantum dot. The energy shows nice scaling properties
+as N or the confinement strength is varied. A crossover from the high-density
+electron-hole phase to the BCS excitonic phase is found at a density which is
+roughly four times the close-packing density of excitons.
+","[{""version"":""v1"",""created"":""Sun, 30 Aug 1998 05:45:28 GMT""},{""version"":""v2"",""created"":""Fri, 23 Oct 1998 01:39:45 GMT""},{""version"":""v3"",""created"":""Mon, 1 Nov 1999 15:24:36 GMT""}]","2009-10-31"
+"hep-ex/9808035","Richard J. Hemingway","The OPAL Collaboration, G. Abbiendi et al","Measurement of the Longitudinal Cross-Section using the Direction of the
+  Thrust Axis in Hadronic Events at LEP","16 pages, LaTeX, 4 eps figures and 3 colour eps figs included,
+  submitted to Phys. Lett. B","Phys.Lett.B440:393-402,1998","10.1016/S0370-2693(98)01172-1","CERN-EP/98-124","hep-ex",,"  In the process e+e- to hadrons, one of the effects of gluon emission is to
+modify the 1+cos(theta)**2 form of the angular distribution of the thrust axis,
+an effect which may be quantified by the longitudinal cross-section. Using the
+OPAL detector at LEP, we have determined the longitudinal to total
+cross-section ratio to be 0.0127+-0.0016+-0.0013 at the parton level, in good
+agreement with the expectation of QCD computed to Order(alpha_s**2)
+Comparisions at the hadron level with Monte Carlo models are presented. The
+dependence of the longitudinal cross-section on the value of thrust has also
+been studied, and provides a new test of QCD.
+","[{""version"":""v1"",""created"":""Sun, 30 Aug 1998 13:22:12 GMT""}]","2008-11-26"
+"hep-lat/9808054","Ichie Hiroko","Hiroko Ichie (Tokyo Inst. Tech.), Hideo Suganuma (RCNP, Osaka Univ.)","Monopoles and Gluon Fields in QCD in the Maximally Abelian Gauge","46 pages (3 text-files, 10 figures, uses elsart.cls, elsart.sty,
+  elsart12.sty)","Nucl.Phys. B574 (2000) 70-106","10.1016/S0550-3213(99)00758-0",,"hep-lat",,"  We study monopoles and gluon fields in QCD in the maximally abelian (MA)
+gauge in the context of the dual superconductor picture for confinement. In the
+abelian gauge, unit-charge magnetic monopoles appear, but multi-charge
+monopoles do not in general cases. The appearance of the monopole is studied
+using the gauge-connection formalism in relation to the SU($N_c$) singular
+gauge transformation. The relevant role of off-diagonal gluons is found for the
+appearance of monopoles in the abelian gauge in QCD. We study the gluon-field
+properties around the monopole in the MA gauge in terms of the action density
+using the lattice QCD. The monopole provides infinitely large field
+fluctuations in the abelian sector. In the MA gauge, off-diagonal gluons are
+strongly suppressed but largely remain around the monopole, which indicates the
+effective size and the structure of monopoles. We find the large cancellation
+between the abelian part and the off-diagonal part of the action density around
+the monopole in the MA gauge. Owing to this cancellation, the monopole can
+appear in QCD without large cost of the QCD action. Finally, we generalize the
+framework of the abelian projection, {\it i.e.} the extraction of the abelian
+gauge manifold from QCD, by introducing the `gluonic Higgs field' $\vec
+\phi_D[A_\mu(x)]$ defined from the ${\rm SU}(N_c)$ covariant derivative $\hat
+D_\mu$. By way of $\vec \phi_D[A_\mu(x)]$, the maximally abelian projection can
+be performed in the gauge-covariant manner without the notion of gauge fixing
+in principle.
+","[{""version"":""v1"",""created"":""Sat, 29 Aug 1998 19:07:20 GMT""}]","2009-10-31"
+"hep-ph/9808474","Vipul Periwal","Vipul Periwal","Functional statistical inference of parton distributions","Department of Physics, Princeton University, Princeton, New Jersey
+  08544","Phys.Rev.D59:094006,1999","10.1103/PhysRevD.59.094006","PUPT-1811","hep-ph",,"  Bialek, Callan and Strong have recently given a solution of the problem of
+determining a continuous probability distribution from a finite set of
+experimental measurements by formulating it as a one-dimensional quantum field
+theory. This report applies an extension of their formalism to the inference of
+functional parton distributions from scattering data.
+","[{""version"":""v1"",""created"":""Sun, 30 Aug 1998 12:31:54 GMT""}]","2014-11-17"
+"hep-ph/9808475","Michael Rueter","Michael Rueter (Tel-Aviv University)","Description of elastic vectormeson production and F_2 by two pomerons","LaTeX2e, 4pp, espcrc2mod.sty (appended, espcrc2 with corrected
+  error), graphicx.sty, 17 eps-figures. Talk presented at QCD98, Montpellier,
+  France (Nucl.Phys.B Proc.Suppl.)","Nucl.Phys.Proc.Suppl. 74 (1999) 117-120","10.1016/S0920-5632(99)00145-0","TAUP-2516-98","hep-ph",,"  Using the Model of the Stochastic Vacuum many diffractive processes have been
+calculated by investigating the dipole-dipole scattering at a cm-energy of 20
+GeV. In this work we extend the calculation to larger energies and small
+dipoles. We assume that there are two pomerons, the hard- and the soft-pomeron,
+which cause the different energy dependence for processes dominated by small or
+large dipoles. The physical processes are obtained by smearing the
+dipole-dipole amplitude with wavefunctions. For small dipoles the leading
+perturbative contribution is taken into account. By that way we can describe in
+addition to the already calculated low energy results (20 GeV) also the HERA
+data for the considered processes in nearly the whole energy and Q^2 range.
+","[{""version"":""v1"",""created"":""Sun, 30 Aug 1998 12:38:33 GMT""}]","2009-10-31"
+"hep-th/9808177","Clifford V. Johnson","Andrew Chamblin, Roberto Emparan, Clifford V. Johnson and Robert C.
+  Myers","Large N Phases, Gravitational Instantons and the Nuts and Bolts of AdS
+  Holography","20 pages, three figures. (uses harvmac.tex and epsf.tex)","Phys. Rev. D 59, 064010 (1999)","10.1103/PhysRevD.59.064010",,"hep-th",,"  Recent results in the literature concerning holography indicate that the
+thermodynamics of quantum gravity (at least with a negative cosmological
+constant) can be modeled by the large N thermodynamics of quantum field theory.
+We emphasize that this suggests a completely unitary evolution of processes in
+quantum gravity, including black hole formation and decay; and even more
+extreme examples involving topology change. As concrete examples which show
+that this correspondence holds even when the space-time is only locally
+asymptotically AdS, we compute the thermodynamical phase structure of the
+AdS-Taub-NUT and AdS-Taub-Bolt spacetimes, and compare them to a 2+1
+dimensional conformal field theory (at large N) compactified on a squashed
+three sphere, and on the twisted plane.
+","[{""version"":""v1"",""created"":""Sat, 29 Aug 1998 18:42:06 GMT""}]","2016-08-25"
+"hep-th/9808180","Paola Zizzi","P. A. Zizzi","Quantum Foam and de Sitter-like universe","16 pages HTML","Int.J.Theor.Phys. 38 (1999) 2333-2348",,,"hep-th",,"  We perform a foliation of a four dimensional Riemannian space-time with
+respect to a discrete time which is an integer multiple of the Planck time. We
+find that the quantum fluctuations of the metric have a discrete energy
+spectrum. The metric field is expanded in stationary eigenstates, and this
+leads to the description of a de Sitter-like universe. At the Planck scale the
+model describes a Planckian Euclidean black hole.
+","[{""version"":""v1"",""created"":""Sat, 29 Aug 1998 17:42:17 GMT""}]","2007-05-23"
+"hep-th/9808181","Harvendra Singh","Harvendra Singh","Intersecting Branes and Anti-de Sitter Spacetimes in $SU(2)\times SU(2)$
+  Gauged Supergravity","9 pages, v1: minor typo correction in eq.(21)","Phys.Lett. B444 (1998) 327-331","10.1016/S0370-2693(98)01407-5","INFN-Padova preprint DFPD/98/TH/39","hep-th",,"  In this note we extend our work in a previous paper hep-th/9801038. We show
+here that various intersecting brane-like configurations can be found in the
+vacuum of $D=4, N=4$ supergravity with gauged R-symmetry group $SU(2)\times
+SU(2)$. These include intersections of domain-walls, strings and point-like
+objects. Some of these intersecting configurations preserve 1/2 and 1/4 of
+supersymmetry. We observe that the previously obtained $AdS_3\times R^1$ pure
+axionic vacuum or `axio-vac' is an intersection of domain-wall with extended
+string with 1/2 supersymmetries. Also the solutions known as `electro-vac' with
+geometry $AdS_2\times R^2$ can be simply interpreted as the intersection of
+domain-wall with point-like object.
+","[{""version"":""v1"",""created"":""Sun, 30 Aug 1998 09:48:05 GMT""},{""version"":""v2"",""created"":""Mon, 2 Nov 1998 11:34:05 GMT""}]","2009-10-31"
+"hep-th/9808182","Hyun Seok Yang","Changhyun Ahn, Hoil Kim and Hyun Seok Yang","SO(2N) (0,2) SCFT and M Theory on $AdS_7 \times {RP}^4$","20 papges, The discussion on N=8 3D SCFT is corrected. Minor
+  corrections, Added acknowledgments","Phys.Rev. D59 (1999) 106002","10.1103/PhysRevD.59.106002","SNUTP-98-088, SOGANG-HEP 242/98, APCTP-98-020","hep-th",,"  We study M theory on $AdS_7 \times \RP^4$ corresponding to 6 dimensional
+SO(2N) $(0, 2)$ superconformal field theory on a circle which becomes 5
+dimensional super Yang-Mills theory at low energies. For SU(N) (0,2) theory, a
+wrapped D4 brane on $\S^4$ which is connected to a D4 brane on the boundary of
+$AdS_7$ by N fundamental strings can be interpreted as baryon vertex. For
+SO(2N) (0,2) theory, by using the property of homology of $\RP^4$, we classify
+various wrapping branes. Then we consider particles, strings, twobranes, domain
+walls and the baryon vertex in Type IIA string theory.
+","[{""version"":""v1"",""created"":""Sun, 30 Aug 1998 10:20:32 GMT""},{""version"":""v2"",""created"":""Mon, 7 Sep 1998 05:34:31 GMT""}]","2009-10-31"
+"math-ph/9808016","Mary Beth Ruskai","Andrew Lesniewski, Mary Beth Ruskai","Monotone Riemannian Metrics and Relative Entropy on Non-Commutative
+  Probability Spaces","33 pages. Connections to Quantum Information Theory","J. Math. Phys., 40, 5702-5724 (1999)","10.1063/1.533053",,"math-ph math.MP math.OA quant-ph",,"  We use the relative modular operator to define a generalized relative entropy
+for any convex operator function g on the positive real line satisfying g(1) =
+0. We show that these convex operator functions can be partitioned into convex
+subsets each of which defines a unique symmetrized relative entropy, a unique
+family (parameterized by density matrices) of continuous monotone Riemannian
+metrics, a unique geodesic distance on the space of density matrices, and a
+unique monotone operator function satisfying certain symmetry and normalization
+conditions. We describe these objects explicitly in several important special
+cases, including the familiar logarithmic relative entropy. The relative
+entropies, Riemannian metrics, and geodesic distances obtained by our procedure
+all contract under completely positive, trace-preserving maps. We then define
+and study the maximal contraction associated with these quantities.
+","[{""version"":""v1"",""created"":""Sun, 30 Aug 1998 15:12:04 GMT""}]","2015-06-26"
+"math/9808125","Alice Silverberg","A. Silverberg, Yu. G. Zarhin","\'Etale cohomology and reduction of abelian varieties",,,,,"math.AG",,"  In this paper we study the \'etale cohomology groups associated to abelian
+varieties. We obtain necessary and sufficient conditions for an abelian variety
+to have semistable reduction (or purely additive reduction which becomes
+semistable over a quadratic extension) in terms of the action of the absolute
+inertia group on the \'etale cohomology groups with finite coefficients.
+","[{""version"":""v1"",""created"":""Sat, 29 Aug 1998 21:58:15 GMT""},{""version"":""v2"",""created"":""Tue, 2 Nov 1999 11:29:34 GMT""}]","2007-05-23"
+"math/9808126","Bjorn Poonen","Bjorn Poonen (U. C. Berkeley)","Mordell-Lang plus Bogomolov","6 pages, Latex 2e","Invent. Math. 137 (1999), no. 2, 413-425","10.1007/s002220050331",,"math.NT math.AG",,"  We formulate a conjecture for semiabelian varieties A over number fields that
+includes both the Mordell-Lang conjecture (now proven) and the Bogomolov
+conjecture. We prove the ""Mordellic"" (finitely generated) part of the
+conjecture when A is isogenous to the product of an abelian variety and a
+torus. The proof makes use of the Mordell-Lang conjecture, the Bogomolov
+conjecture, and an equidistribution theorem.
+","[{""version"":""v1"",""created"":""Sun, 30 Aug 1998 00:03:39 GMT""}]","2017-04-03"
+"math/9808127","Bjorn Poonen","Bjorn Poonen (U. C. Berkeley)","Mordell-Lang plus Bogomolov II: the division group","8 pages, Latex 2e","Invent. Math. 137 (1999), no. 2, 413-425","10.1007/s002220050331",,"math.NT math.AG",,"  In ""Mordell-Lang plus Bogomolov"", we formulated a conjecture combining the
+Mordell-Lang conjecture (now proven) and the Bogomolov conjecture, and proved
+the Mordellic part when A is almost split (i.e., isogenous to the product of an
+abelian variety and a torus). Here we prove that the full conjecture would
+follow from the Bogomolov conjecture and an equidistribution result for general
+semiabelian varieties. These assumptions have been proved when A is almost
+split, so the conjecture is completely proven in that case.
+","[{""version"":""v1"",""created"":""Sun, 30 Aug 1998 00:04:02 GMT""}]","2017-04-03"
+"physics/9808043","Roger Ellman","Roger Ellman (The-Origin Foundation, Inc)","A Reconsideration of Matter Waves","7 pages. See http://www.the-origin.org for related info.
+  Typographical corrections",,,,"physics.gen-ph",,"  Matter waves were discovered in the early 20th century from their wavelength,
+predicted by DeBroglie, Planck's constant divided by the particle's momentum,
+that is, lmw = h/mv. But, the failure to obtain a reasonable theory for the
+matter wave frequency resulted somewhat in loss of further interest.
+  It was expected that the frequency of the matter wave should correspond to
+the particle kinetic energy, that is, fmw = 1/2mv^2/h but the resulting
+velocity of the matter of the particle, v = fmw x lmw, is that the matter wave
+moves at one half the speed of the particle, obviously absurd as the particle
+and its wave must move together.
+  If relativistic mass is used (as it should in any case) the problem remains,
+the same mass appearing in numerator and denominator and canceling. It is no
+help to hypothesize that the total energy, not just the kinetic energy, yields
+the matter wave. That attributes a matter wave to a particle at rest. It also
+gives the resulting velocity as c^2/v, the wave racing ahead of its particle.
+  A reinterpretation of Einstein's derivation of relativistic kinetic energy
+(which produced his famous E = mc^2) leads to a valid matter wave frequency and
+a new understanding of particle kinetics and of the atom's stable orbits.
+","[{""version"":""v1"",""created"":""Sat, 29 Aug 1998 21:02:24 GMT""},{""version"":""v2"",""created"":""Wed, 4 Nov 1998 20:57:44 GMT""},{""version"":""v3"",""created"":""Wed, 9 Mar 2005 00:48:13 GMT""},{""version"":""v4"",""created"":""Mon, 16 May 2005 06:16:58 GMT""}]","2007-05-23"
+"physics/9808044","Ziv Hermon","Eshel Ben-Jacob, Ziv Hermon and Shay Caspi","DNA - Nanoelectronics: Realization of a Single Electron Tunneling
+  Transistor and a Quantum Bit Element","3 pages, RevTex, 4 PostScript figures",,,,"physics.bio-ph",,"  Based on the understanding that chemical bonds can act as tunnel junctions in
+the Coulomb blockade regime, and on the technical ability to coat a DNA strand
+with metal, we suggest that DNA can be used to built logical devices. We
+discuss two explicit examples: a Single Electron Tunneling Transistor (SET) and
+a Quantum Bit Element. These devices would be literally in the nano-meter scale
+and would be able to operate at room temperature. In addition they would be
+identical to each other, highly stable and would have a self assembly property.
+","[{""version"":""v1"",""created"":""Sun, 30 Aug 1998 12:40:04 GMT""}]","2007-05-23"

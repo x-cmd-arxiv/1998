@@ -1,0 +1,149 @@
+"astro-ph/9801011","Dipak Munshi","Dipak Munshi and Adrian L. Melott","Cumulant Correlators in 2D and 3D Scale Free Simulations","12 pages, Latex file, 6 Postscript Figures",,,,"astro-ph",,"  Shape dependence of higher order correlations introduces complication in
+direct determination of these quantities. For this reason theoretical and
+observational progress has been restricted in calculating one point
+distribution functions and related moments. Methods based on factorial moments
+of two point count probability distribution (cumulant correlators) were
+recently shown to be efficient in subtracting discreteness effects and
+extracting useful information from galaxy catalogs. We use these cumulant
+correlators $Q_{NM}$ to study clustering in scale free simulations both in two
+and three dimensions. Using this method in the highly nonlinear regime we were
+able to separate hierarchal amplitudes $Q_3, R_a and R_b$ associated with
+different tree graphs contributing to third and fourth order correlation
+functions. They were found to increase with power on large scales. Results
+based on factorial moments of one point cumulants show very good agreement with
+that on cumulant correlators. Comparison of simulation results with
+perturbation theory and extended perturbation theory were found to be in
+reasonable agreement. Comparisons were also made against predictions from
+hierarchal models for higher order correlations. We argue that finite volume
+corrections are very important for computation of cumulant correlators.
+","[{""version"":""v1"",""created"":""Sat, 3 Jan 1998 22:54:32 GMT""}]","2007-05-23"
+"astro-ph/9801012","Nahum Arav","Nahum Arav, Thomas A. Barlow, Ari Laor, Wallace L.W. Sargent, Roger D.
+  Blandford","Are AGN Broad Emission Lines Formed by Discrete Clouds? --- Analysis of
+  Keck High Resolution Spectroscopy of NGC 4151","18 pages, 8 figures, LaTeX aaspp style, to be published in MNRAS",,"10.1046/j.1365-8711.1998.297004990.x",,"astro-ph",,"  We search for a direct signature of discrete ''clouds'' in the broad line
+region (BLR) of the Seyfert galaxy NGC 4151. For this purpose we apply cross
+correlation (CC) analysis to a high resolution KECK spectrum of the galaxy. No
+such signature is found in the data. In order for cloud models to be compatible
+with this result, there must be at least $\sim3\times10^7$ emitting clouds in
+the BLR, where the limit is based on simulation of a homogeneous cloud
+population. More realistic distributions increase the lower limit to above
+$10^8$. These numbers are an order of magnitude improvement on our previous
+limit from Mrk 335, where the improvement comes from higher S/N, broader lines,
+and refined simulations. Combined with the predicted upper limit for the number
+of emitting clouds in NGC 4151 ($10^6-10^7$), the derived lower limit puts a
+strong constraint on the cloud scenario in the BLR of this object. Similar
+constraints can be paled on models where the emission originates in streams and
+sheets. Thus, this investigation suggests that the BELs in NGC 4151, and by
+extension in all AGNs, are not made of an ensemble of discrete independent
+emitters.
+","[{""version"":""v1"",""created"":""Sun, 4 Jan 1998 00:16:20 GMT""}]","2009-10-30"
+"astro-ph/9801013","Joe Silk","Joseph Silk and Martin J. Rees","Quasars and Galaxy Formation","4 pages","Astron.Astrophys.331:L1-14,1998",,,"astro-ph",,"  The formation of massive black holes may precede the epoch that characterises
+the peak of galaxy formation, as characterized by the star formation history in
+luminous galaxies. Hence protogalactic star formation may be profoundly
+affected by quasar-like nuclei and their associated extensive energetic
+outflows. We derive a relation between the mass of the central supermassive
+black hole and that of the galaxy spheroidal component, and comment on other
+implications for galaxy formation scenarios.
+","[{""version"":""v1"",""created"":""Sun, 4 Jan 1998 02:19:34 GMT""}]","2011-05-05"
+"astro-ph/9801014","Edward A. Spiegel","Edward A. Spiegel","Gravitational Screening","9 pages, appearing in ""A Festschrifft for Engelbert Schucking,"" ed.
+  Alex Harvey, Springer-Verlag",,"10.1007/978-1-4612-1422-9_32",,"astro-ph",,"  Calculations of the stopping power of a medium lead to divergent integrals in
+gravitational theory as they do in the analogous electromagnetic problem. In
+the em case, one introduces (normally in an arbitrary manner) the Debye length
+as a cutoff at large distances to remove the divergence. We show here that in
+the Newtonian gravitational analogue the distant cutoff problem is solved by
+including the self-gravity of the medium. Then the Jeans length appears
+naturally as a cutoff. Despite the different sign of the coupling constant from
+the case of the electric plasma, the same sort of theory works in both cases
+and removes the need of introducing ad hoc cutoffs from both of them.
+","[{""version"":""v1"",""created"":""Sun, 4 Jan 1998 13:56:29 GMT""}]","2022-03-14"
+"cond-mat/9801013","Vendruscolo Michele","Michele Vendruscolo and Eytan Domany","Elusive Unfoldability: Learning a Contact Potential to Fold Crambin","13 pages, RevTex",,,,"cond-mat.soft cond-mat.dis-nn q-bio",,"  We investigate the extent to which the commonly used standard pairwise
+contact potential can be used to identify the native fold of a protein. Ideally
+one would hope that a universal energy function exists, for which the native
+folds of all proteins are the respective ground states. Here we pose a much
+more restricted question: is it possible to find a set of contact parameters
+for which the energy of the native contact map of a single protein (crambin) is
+lower than that of all possible physically realizable decoy maps. We seek such
+a set of parameters by perceptron learning, a procedure which is guaranteed to
+find such a set if it exists. We found that it is extremely hard (and most
+probably, impossible) to fine tune contact parameters that will assign all
+alternative conformations higher energy than that of the native map. This
+finding clearly indicates that it is impossible to derive a general pairwise
+contact potential that can be used to fold any given protein. Inclusion of
+additional energy terms, such as hydrophobic (solvation), hydrogen bond or
+multi-body interactions may help to attain foldability within specific
+structural families.
+","[{""version"":""v1"",""created"":""Sun, 4 Jan 1998 14:53:04 GMT""}]","2007-05-23"
+"hep-th/9801007","Scott Thomas","Scott Thomas","Recent Developments in Dynamical Supersymmetry Breaking","14 pages, Latex, to appear in the proceedings of the International
+  Workshop on Perspectives of Strong Coupling Gauge Theories",,,"SU-ITP 97-32","hep-th hep-ph",,"  Some formal aspects of supersymmetry breaking are reviewed. The classic
+""requirements"" for supersymmetry breaking include chiral matter, a dynamical
+superpotential, and a classical superpotential which completely lifts the
+moduli space. These ""requirements"" may be evaded in theories with large matter
+representations. The mechanisms of supersymmetry breaking by confinement and
+quantum deformation of the moduli space are explained, with emphasis on the
+importance of identifying the relevant degrees of freedom in the ground state.
+Supersymmetry breaking and the behavior of the Witten index in non-chiral
+theories are discussed. The quantum removal of directions which are classically
+unlifted is also illustrated. Examples of product gauge group theories that
+admit dual descriptions of the non-supersymmetric ground state are also
+presented.
+","[{""version"":""v1"",""created"":""Sat, 3 Jan 1998 22:59:46 GMT""}]","2007-05-23"
+"hep-th/9801008","Ram Brustein","Ram Brustein","String Cosmology: An Update","11 pages, 1 eps figure, Latex, based on talk at COSMO97",,"10.1142/9789814447263_0077","BGU-PH-98/01","hep-th astro-ph gr-qc",,"  A string cosmology scenario (""pre-big-bang"") postulates that the evolution of
+the Universe starts from a state of very small curvature and coupling,
+undergoes a long phase of dilaton-driven kinetic inflation and at some later
+time joins smoothly standard radiation dominated cosmological evolution, thus
+giving rise to a singularity free inflationary cosmology. I report on recent
+progress in understanding some outstanding issues such as initial conditions,
+graceful exit transition and generation of inhomogeneity perturbations.
+","[{""version"":""v1"",""created"":""Sun, 4 Jan 1998 10:13:32 GMT""}]","2016-10-26"
+"nucl-th/9801002",,"T. Obikhod and S. Radionov","Instanton tunneling and multiphonon giant resonances","5 pages, LATEX, 1 figure",,,,"nucl-th",,"  The sine-Gordon model is applied to describe the multiphonon giant
+resonances.
+","[{""version"":""v1"",""created"":""Sat, 3 Jan 1998 18:20:29 GMT""}]","2007-05-23"
+"physics/9801001","Haret Rosu","H.C. Rosu, J. Socorro","q-deforming the synchrotron shape function","3 pages, talk by author Rosu at QABP98, v3","Quantum Aspects of Beam Physics, Monterey, CA, USA, 4-9 January
+  1998, ed. Pisin Chen, (World Scientific, 1999) pp. 761-763, for v2",,,"physics.acc-ph hep-ph math-ph math.MP",,"  We replace the usual integral in the shape function of the synchrotron
+spectrum by a Jackson (q-deformed) integral and write down the formulas
+required to calculate the Jackson first deformed form of the synchrotron shape
+function
+","[{""version"":""v1"",""created"":""Sun, 4 Jan 1998 04:01:20 GMT""},{""version"":""v2"",""created"":""Tue, 6 Jul 1999 22:35:36 GMT""},{""version"":""v3"",""created"":""Tue, 13 Jul 1999 22:06:45 GMT""}]","2007-05-23"
+"quant-ph/9801002","Timothy F. Havel","Shyamal S. Somaroo, David G. Cory and Timothy F. Havel","Expressing the operations of quantum computing in multiparticle
+  geometric algebra","RevTeX, 10 pages, no figures; Physics Letters A, in press","Phys.Lett. A240 (1998) 1-7","10.1016/S0375-9601(98)00010-3",,"quant-ph",,"  We show how the basic operations of quantum computing can be expressed and
+manipulated in a clear and concise fashion using a multiparticle version of
+geometric (aka Clifford) algebra. This algebra encompasses the product operator
+formalism of NMR spectroscopy, and hence its notation leads directly to
+implementations of these operations via NMR pulse sequences.
+","[{""version"":""v1"",""created"":""Sat, 3 Jan 1998 19:57:32 GMT""}]","2009-10-31"
+"quant-ph/9801003",,"Bernd A. Berg","Quantum Theory and Spacelike Measurements","14 pages latex and 1 postscript figure in one file",,,,"quant-ph hep-th",,"  Experimentally observed violations of Bell inequalities rule out local
+realistic theories. Consequently, the quantum state vector becomes a strong
+candidate for providing an objective picture of reality. However, such an
+ontological view of quantum theory faces difficulties when spacelike
+measurements on entangled states have to be described, because time ordering of
+spacelike events can change under Lorentz-Poincar\'e transformations. In the
+present paper it is shown that a necessary condition for consistency is to
+require state vector reduction on the backward light-cone. A fresh approach to
+the quantum measurement problem appears feasible within such a framework.
+","[{""version"":""v1"",""created"":""Sun, 4 Jan 1998 13:27:59 GMT""}]","2007-05-23"
+"solv-int/9801004","Andrei Pronko","A. G. Izergin, A. G. Pronko","Temperature correlators in the two-component one-dimensional gas","40 pages, LaTeX, a4.sty",,"10.1016/S0550-3213(98)00182-5","PDMI PREPRINT - 19/1997","solv-int nlin.SI",,"  The quantum nonrelativistic two-component Bose and Fermi gases with the
+infinitely strong point-like coupling between particles in one space dimension
+are considered. Time and temperature dependent correlation functions are
+represented in the thermodynamic limit as Fredholm determinants of integrable
+linear integral operators.
+","[{""version"":""v1"",""created"":""Sat, 3 Jan 1998 16:07:25 GMT""}]","2009-10-31"
+"solv-int/9801005",,"Shigeki Matsutani","Statistical Mechanics of Non-stretching Elastica in Three Dimensional
+  Space","AMS-Tex Use",,"10.1016/S0393-0440(98)00042-4",,"solv-int nlin.SI",,"  Recently I proposed a new calculation scheme of a partition function of an
+immersion object using path integral method and theory of soliton (to appear in
+J.Phys.A). I applied the scheme to problem of elastica in two-dimensional space
+and Willmore surface in three dimensional space. In this article, I will apply
+the scheme to elastica in three dimensional space as a more physical model in
+polymer science. Then orbit space of the nonlinear Schrodinger and complex
+modified Korteweg-de Vries equations can be regarded as the functional space of
+the partition function. By investigation of the partition function, I gives a
+conjecture of the relation of these soliton equations.
+","[{""version"":""v1"",""created"":""Sun, 4 Jan 1998 07:13:18 GMT""},{""version"":""v2"",""created"":""Sat, 7 Mar 1998 03:05:12 GMT""}]","2009-10-31"
+"solv-int/9801006",,"Shigeki Matsutani","Dirac Operator of a Conformal Surface Immersed in R^4: Further
+  Generalized Weierstrass Relation","AMS-Tex Use",,,,"solv-int nlin.SI",,"  In the previous report (J. Phys. A (1997) 30 4019-4029), I showed that the
+Dirac operator defined over a conformal surface immersed in R^3 is identified
+with the Dirac operator which is generalized the Weierstrass- Enneper equation
+and Lax operator of the modified Novikov-Veselov (MNV) equation. In this
+article, I determine the Dirac operator defined over a conformal surface
+immersed in R^4, which is reduced to the Lax operators of the nonlinear
+Schrodinger and the MNV equations by taking appropriate limits. Thus the Dirac
+operator might be the Lax operator of (2+1)- dimensional soliton equation.
+","[{""version"":""v1"",""created"":""Sun, 4 Jan 1998 07:20:41 GMT""}]","2007-05-23"

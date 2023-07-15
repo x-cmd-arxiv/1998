@@ -1,0 +1,282 @@
+"astro-ph/9807046","Christopher D. Matzner","Christopher D. Matzner and Christopher F. McKee (Departments of
+  Physics and Astronomy, University of California at Berkeley)","The Expulsion of Stellar Envelopes in Core-Collapse Supernovae","57 pages, 10 eps figures, aaspp4, submitted to ApJ",,"10.1086/306571",,"astro-ph",,"  We examine the relation between presupernova stellar structure and the
+distribution of ejecta in core-collapse supernovae, assuming adiabatic,
+spherically symmetric flow. We develop a simple yet accurate formula for the
+blastwave shock velocity, and demonstrate that the entire final density
+distribution can be approximated with simple models for the final pressure
+distribution, along with the approximate shock-deposited entropy, in a way that
+matches the results of simulations. We find that the distribution of density in
+a star's ejecta depends on whether its outer envelope is radiative or
+convective, and if convective, on the composition structure of the star; simple
+approximate forms are presented for red and blue supergiant ejecta. Our models
+are most accurate for the high-velocity ejecta from the periphery of a star,
+where the shock dynamics are predictable. We present formulae for the final
+density distribution of this material, for both radiative and efficiently
+convective envelopes. These formulae limit to the well-known planar,
+self-similar solutions for mass shells approaching the stellar surface. But,
+the assumption of adiabatic flow fails at low optical depth, so this planar
+limit need not be attained. Formulae are given for the observable properties of
+the X-ray burst accompanying shock emergence, and their dependence on the
+parameters of the explosion. Motivated by the relativistic expansion recently
+inferred by Kulkarni et al. (1998) for the synchrotron shell around SN1998bw,
+we estimate the criterion for relativistic mass ejection and the rest mass of
+relativistic ejecta.
+","[{""version"":""v1"",""created"":""Sat, 4 Jul 1998 20:49:30 GMT""}]","2009-10-30"
+"astro-ph/9807047","Sylvia Baggett","W. E. Baggett, S. M. Baggett, K. S. J. Anderson","Bulge-Disk Decomposition of 659 Spiral and Lenticular Galaxy Brightness
+  Profiles","18 pages, 7 figures, 10 tables. Accepted for publication in AJ",,"10.1086/300525",,"astro-ph",,"  We present one of the largest homogeneous sets of spiral and lenticular
+galaxy brightness profile decompositions completed to date. The 659 galaxies in
+our sample have been fitted with a deVaucouleurs' law for the bulge component
+and an inner-truncated exponential for the disk component. Of the 659 galaxies
+in the sample, 620 were successfully fit with the chosen fitting functions. The
+fits are generally well-defined, with more than 90% having RMS deviations from
+the observed profile of less than 0.35 magnitudes. We find no correlations of
+fitting quality, as measured by these RMS residuals, with either morphological
+type or inclination. Similarly, the estimated errors of the fitted coefficients
+show no significant trends with type or inclination. These decompositions form
+a useful basis for the study of the light distributions of spiral and
+lenticular galaxies. The object base is sufficiently large that well-defined
+samples of galaxies can be selected from it.
+","[{""version"":""v1"",""created"":""Sat, 4 Jul 1998 23:35:36 GMT""}]","2009-10-30"
+"astro-ph/9807048","Hector DE Vega","H. J. de Vega, N. S'anchez and F. Combes","Fractal Structures and Scaling Laws in the Universe: Statistical
+  Mechanics of the Self-Gravitating Gas","Invited paper to the special issue of the `Journal of Chaos, Solitons
+  and Fractals': `Superstrings, M, F, S...theory', M. S El Naschie and C.
+  Castro, Editors. Latex file, 16 pages plus three .ps figures",,"10.1016/S0960-0779(98)00194-5",,"astro-ph cond-mat gr-qc hep-ph hep-th",,"  Fractal structures are observed in the universe in two very different ways.
+Firstly, in the gas forming the cold interstellar medium in scales from 10^{-4}
+pc till 100 pc. Secondly, the galaxy distribution has been observed to be
+fractal in scales up to hundreds of Mpc. We give here a short review of the
+statistical mechanical (and field theoretical) approach developed by us. We
+consider a non-relativistic self-gravitating gas in thermal equilibrium at
+temperature T inside a volume V. The statistical mechanics of such system has
+special features and, as is known, the thermodynamical limit does not exist in
+its customary form. Moreover, the treatments through microcanonical, canonical
+and grand canonical ensembles yield different results.We present here for the
+first time the equation of state for the self-gravitating gas in the canonical
+ensemble. We find that it has the form p = [N T/ V] f(eta), where p is the
+pressure, N is the number of particles and \eta \equiv {G m^2 N \over V^{1/3}
+T}. The N \to\infty and V \to\infty limit exists keeping \eta fixed. We compute
+the function f(\eta) using Monte Carlo simulations and for small eta
+analytically. We compute the thermodynamic quantities of the system as free
+energy, entropy, chemical potential, specific heat, compressibility and speed
+of sound. We reproduce the well-known gravitational phase transition associated
+to the Jeans' instability. Namely, a gaseous phase for eta < eta_c and a
+condensed phase for eta > eta_c. Moreover, we derive the precise behaviour of
+the physical quantities near the transition. In particular, the pressure
+vanishes as p \sim(eta_c-eta)^B with B \sim 0.2 and eta_c \sim 1.6 and the
+energy fluctuations diverge as \sim(eta_c-eta)^{B-1}. The speed of sound
+decreases monotonically and approaches the value sqrt{T/6} at the transition.
+","[{""version"":""v1"",""created"":""Sun, 5 Jul 1998 14:23:57 GMT""}]","2015-06-24"
+"cond-mat/9807064","Anna Minguzzi","M. L. Chiofalo, A. Minguzzi and M. P. Tosi (Scuola Normale Superiore,
+  Pisa)","Time-dependent linear response of an inhomogeneous Bose superfluid:
+  Microscopic theory and connection to current-density functional theory","25 pages, no figures, Postscript file","Physica B254 (1998) 188","10.1016/S0921-4526(98)00472-4",,"cond-mat.stat-mech",,"  The dynamics of a confined fluid of Bose atoms is treated within the linear
+response regime, with a view to establishing a current-density functional
+formalism for an inhomogeneous superfluid state. After evaluating in full
+detail a simplified case of an external coupling to the density and phase of
+the condensate, the theory is extended to include the coupling to the total
+current density. The Kohn-Sham response functions of the condensate and all the
+exchange-correlation kernels for the superfluid are introduced from the
+microscopic equations of motion and are expressed in a physically transparent
+way through functional derivatives of correlation functions. A microscopic
+formula for the superfluid density is derived and used to introduce a
+generalized hydrodynamic approach for a weakly inhomogeneous two-fluid model in
+isothermal conditions. Local-density expressions are thereby derived for the
+velocities of first and second sound in the weakly inhomogeneous superfluid and
+for visco-elastic functions describing the transition from the hydrodynamic to
+the collisionless regime. Landau's hydrodynamic theory and known results in
+Green's functions language are recovered in the limiting case of a homogeneous
+superfluid.
+","[{""version"":""v1"",""created"":""Sat, 4 Jul 1998 17:33:38 GMT""}]","2009-10-31"
+"cond-mat/9807065","Anna Minguzzi","M. P. Tosi, M. L. Chiofalo, A. Minguzzi and R. Nifosi` (Scuola Normale
+  Superiore, Pisa)","Current-density functional theory of time-dependent linear response in
+  quantal fluids: recent progress","12 pages, 2 figures, Postscript file","contribution to ""New Approaches to Problems in Liquid State
+  Theory"", eds. C. Caccamo et al., (1999, Kluwer Academics, The Netherlands),
+  p.491-592",,,"cond-mat.stat-mech",,"  Vignale and Kohn have recently formulated a local density approximation to
+the time-dependent linear response of an inhomogeneous electron system in terms
+of a vector potential for exchange and correlation. The vector potential
+depends on the induced current density through spectral kernels to be evaluated
+on the homogeneous electron-gas. After a brief review of their theory, the case
+of inhomogeneous Bose superfluids is considered, with main focus on dynamic
+Kohn-Sham equations for the condensate in the linear response regime and on
+quantal generalized hydrodynamic equations in the weak inhomogeneity limit. We
+also present the results of calculations of the exchange-correlation spectra in
+both electron and superfluid boson systems.
+","[{""version"":""v1"",""created"":""Sat, 4 Jul 1998 17:53:48 GMT""}]","2007-05-23"
+"cond-mat/9807066","Deng-Feng Wang","D. F. Wang (TD Bank and Univ. of Waterloo)","Hedging The Risk In The Continuous Time Option Pricing Model With
+  Stochastic Stock Volatility","8 pages, Revtex style",,,"UW-98-06","cond-mat.stat-mech q-fin.PR",,"  In this work, I address the issue of forming riskless hedge in the continuous
+time option pricing model with stochastic stock volatility. I show that it is
+essential to verify whether the replicating portfolio is self-financing, in
+order for the theory to be self-consistent. The replicating methods in existing
+finance literature are shown to violate the self-financing constraint when the
+underlying asset has stochastic volatility. Correct self-financing hedge is
+formed in this article.
+","[{""version"":""v1"",""created"":""Sat, 4 Jul 1998 19:47:35 GMT""}]","2008-12-02"
+"cond-mat/9807067","Bob Markiewicz","R.S. Markiewicz, C. Kusko, and M.T. Vaughn (Northeastern U., Boston)","Tunneling and Photoemission in an SO(6) Superconductor","6 pages TeX, 4 ps. figures, Stripes'98, Rome, June 2-6, 1998",,,,"cond-mat.supr-con",,"  Combining the results of tunneling, photoemission and thermodynamic studies,
+the pseudogap is unambiguously demonstrated to be caused by Van Hove nesting: a
+splitting of the density of states peak at $(\pi, 0)$. The fact that the
+splitting remains symmetric about the Fermi level over an extended doping range
+indicates that the Van Hove singularity is pinned to the Fermi level. Despite
+these positive results, an ambiguity remains as to what instability causes the
+pseudogap. Charge or spin density waves, superconducting fluctuations, and flux
+phases all remain viable possibilities. This ambiguity arises because the
+instabilities of the two-dimensional Van Hove singularity are associated with
+an approximate SO(6) symmetry group, which contains Zhang's SO(5) as a
+subgroup. It has two 6-component superspins, one of which mixes Zhang's
+(spin-density wave plus d-wave superconductivity) superspin with a flux phase
+operator. This is the smallest group which can explain striped phases in the
+cuprates. Evidence for a prefered hole density in the charged stripes is
+discussed.
+","[{""version"":""v1"",""created"":""Sat, 4 Jul 1998 20:16:19 GMT""}]","2007-05-23"
+"cond-mat/9807068","Bob Markiewicz","R.S. Markiewicz, C. Kusko, and V. Kidambi (Northeastern U., Boston)","Pinned Balseiro-Falicov Model of Tunneling and Photoemission in the
+  Cuprates","18 pages LaTeX, 26 ps. figures",,"10.1103/PhysRevB.60.627",,"cond-mat.supr-con",,"  The smooth evolution of the tunneling gap of Bi_2Sr_2CaCu_2O_8 with doping
+from a pseudogap state in the underdoped cuprates to a superconducting state at
+optimal and overdoping, has been interpreted as evidence that the pseudogap
+must be due to precursor pairing. We suggest an alternative explanation, that
+the smoothness reflects a hidden SO(N) symmetry near the (pi,0) points of the
+Brillouin zone (with N = 3, 4, 5, or 6). Because of this symmetry, the
+pseudogap could actually be due to any of a number of nesting instabilities,
+including charge or spin density waves or more exotic phases. We present a
+detailed analysis of this competition for one particular model: the pinned
+Balseiro-Falicov model of competing charge density wave and (s-wave)
+superconductivity. We show that most of the anomalous features of both
+tunneling and photoemission follow naturally from the model, including the
+smooth crossover, the general shape of the pseudogap phase diagram, the
+shrinking Fermi surface of the pseudogap phase, and the asymmetry of the
+tunneling gap away from optimal doping. Below T_c, the sharp peak at Delta_1
+and the dip seen in the tunneling and photoemission near 2Delta_1 cannot be
+described in detail by this model, but we suggest a simple generalization to
+account for inhomogeneity, which does provide an adequate description. We show
+that it should be possible, with a combination of photoemission and tunneling,
+to demonstrate the extent of pinning of the Fermi level to the Van Hove
+singularity. A preliminary analysis of the data suggests pinning in the
+underdoped, but not in the overdoped regime.
+","[{""version"":""v1"",""created"":""Sat, 4 Jul 1998 20:16:45 GMT""}]","2009-10-31"
+"cond-mat/9807069","Eugene Kogan","Eugene Kogan and Mark Auslender","Anderson localization due to spin disorder: a driving force of
+  temperature-dependent metal-semiconductor transition in
+  colossal-magnetoresistance materials","6 pages, revtex, epsf, 3 ps figures. A typo in the final result (Eq.
+  (23)) is corrected",,,,"cond-mat",,"  We study temperature induced metal-insulator transition in doped
+ferromagnetic semiconductors, described by s-d exchange model. The transition
+is a result of the mobility edge movement, the disorder being due to magnetic
+ions spin density fluctuations. The electrons are described in the tight
+binding approximation. Using ideas and methods of Anderson localization theory
+we obtain simple formulas, which connect the mobility edge with short-range
+order characteristics of the magnetic subsystem -- static spin correlators. We
+discuss the application of the theory to several groups of novel
+colossal-magnetoresistance materials and include the reproduction of the paper
+[E. M. Kogan and M. I. Auslender, phys. stat. sol. (b) vol. 147, 613 (1988)]
+published by us 10 years ago.
+","[{""version"":""v1"",""created"":""Sun, 5 Jul 1998 13:08:03 GMT""},{""version"":""v2"",""created"":""Fri, 21 Aug 1998 16:32:15 GMT""},{""version"":""v3"",""created"":""Mon, 28 Sep 1998 10:16:37 GMT""}]","2007-05-23"
+"cond-mat/9807070","Nils Hasselmann","N. Hasselmann, A. H. Castro Neto, C. Morais Smith, and Y. Dimashko","The Striped Phase in Presence of Disorder and Lattice Potentials","5 pages, 2 Postscript figures, to appear in Physical Review Letters.
+  Revised manuscript, comparison with inelastic neutron scattering data and one
+  figure added",,,,"cond-mat.str-el cond-mat.supr-con",,"  We study the influence of disorder and lattice effects on the striped phase
+and the incommensurate spin fluctuations of the cuprates and nickelates.
+Starting from a phenomenological model of a discrete quantum string on a
+lattice with disorder, we derive the renormalisation group equations in leading
+order in the lattice and disorder strength. Three regimes are identified, the
+quantum membrane phase, the flat phase pinned by the lattice and the disorder
+pinned phase. We compare our results with measurements on nickelates and
+cuprates and find good agreement.
+","[{""version"":""v1"",""created"":""Sun, 5 Jul 1998 14:35:53 GMT""},{""version"":""v2"",""created"":""Thu, 4 Feb 1999 08:56:15 GMT""}]","2007-05-23"
+"cond-mat/9807071","Thorsten Poeschel","Clara Saluena and Thorsten Poeschel","Convection in horizontally shaken granular material","5 pages, 3 figures","Europ. Phys. J. E, Vol. 1:55 (2000)",,,"cond-mat.mtrl-sci",,"  In horizontally shaken granular material different types of pattern formation
+have been reported. We want to deal with the convection instability which has
+been observed in experiments and which recently has been investigated
+numerically. Using two dimensional molecular dynamics we show that the
+convection pattern depends crucial on the inelastic properties of the material.
+The concept of restitution coefficient provides arguments for the change of the
+behaviour with variing inelasticity.
+","[{""version"":""v1"",""created"":""Sun, 5 Jul 1998 15:55:48 GMT""},{""version"":""v2"",""created"":""Tue, 19 Mar 2002 11:47:20 GMT""}]","2007-05-23"
+"hep-lat/9807006","Ichie Hiroko","Hiroko Ichie (Tokyo Inst. Tech.), Hideo Suganuma (RCNP,Osaka Univ.)","Dual Higgs Theory for Color Confinement","10 pages LaTeX (11 figures), uses sprocl.sty, Talk given at Int.
+  Workshop on ``Future Directions in Quark Nuclear Physics''(QNP98), Adelaide,
+  Australia, Mar. 1998, and to be published in the Proceedings (World
+  Scientific)",,,,"hep-lat",,"  We study theoretical bases of the dual Higgs theory for confinement physics
+in QCD in terms of monopoles and the gluon configuration in the maximally
+abelian (MA) gauge. Abelian dominance for the confinement force can be
+analytically proved by regarding the off-diagonal angle variable as a random
+variable in the lattice formalism. In the long-distance scale, the contribution
+of off-diagonal gluons to the Wilson loop cancels each other and exhibits a
+perimeter law behavior, which leads to exact abelian dominance on the string
+tension if the finite size effect of the Wilson loop is removed. We investigate
+the appearance of the monopole in the QCD vacuum, considering the role of
+off-diagonal gluons. The monopole carries a large fluctuation of the gluon
+field and provides a large abelian action in abelian projected QCD. Due to the
+partial cancellation between the abelian part and the off-diagonal part of the
+QCD action, the monopole can appear in QCD without large cost of the QCD
+action. The off-diagonal gluon is necessary for existence of the monopole at
+the short-distance scale. We study monopole condensation, which is the
+requirement of the dual Higgs theory, by comparing the QCD vacuum with the
+monopole-current system. We find that ``entropy'' of monopole-current dominates
+than its ``energy'', and the monopole seems to be condensed at the infrared
+scale in the QCD vacuum.
+","[{""version"":""v1"",""created"":""Sun, 5 Jul 1998 10:35:06 GMT""}]","2007-05-23"
+"hep-th/9807034","Amir Masoud Ghezelbash","A.M. Ghezelbash. M. Khorrami, A. Aghamohammadi","Logarithmic conformal field theories and AdS correspondence","10 pages, LaTeX. A paragraph was added. To appear in Int. J. Mod.
+  Phys. A","Int.J.Mod.Phys. A14 (1999) 2581-2592","10.1142/S0217751X99001287",,"hep-th",,"  We generalize the Maldacena correspondence to the logarithmic conformal field
+theories. We study the correspondence between field theories in
+(d+1)-dimensional AdS space and the d-dimensional logarithmic conformal field
+theories in the boundary of $AdS_{d+1}$. Using this correspondence, we get the
+n-point functions of the corresponding logarithmic conformal field theory in
+d-dimensions.
+","[{""version"":""v1"",""created"":""Sat, 4 Jul 1998 16:14:42 GMT""},{""version"":""v2"",""created"":""Wed, 9 Dec 1998 10:29:32 GMT""}]","2009-10-31"
+"hep-th/9807035","Matthias Burkardt","M. Burkardt (New Mexico State University), F. Antonuccio (The Ohio
+  State University) and S. Tsujimaru (MPI f\""ur Kernphysik)","Decoupling of Zero-Modes and Covariance in the Light-Front Formulation
+  of Supersymmetric Theories","8 pages, revtex, 3 figures","Phys.Rev. D58 (1998) 125005","10.1103/PhysRevD.58.125005",,"hep-th",,"  We show under suitable assumptions that zero-modes decouple from the dynamics
+of non-zero modes in the light-front formulation of some supersymmetric field
+theories. The implications for Lorentz invariance are discussed.
+","[{""version"":""v1"",""created"":""Sat, 4 Jul 1998 20:22:26 GMT""}]","2009-10-31"
+"hep-th/9807036","Paulus Cahyono Tjiang","Paulus C. Tjiang, Conrad J. Burden","Test of Gauge Covariance of Fermion-Photon Vertex in Quenched, Massless
+  Three Dimensional Quantum Electrodynamics","6 pages, 1 PostScript figure in .eps format, uses epsfig.sty","Proceedings of the Workshop on Nonperturbative Methods in Quantum
+  Field Theory, edited by A. W. Schreiber, A. G. Williams and A. W. Thomas,
+  World Scientific Publishing Co. Pte. Ltd., Singapore, pp. 308-313 (1998)",,"ANU-HEP-2-98","hep-th",,"  We study the gauge covariance of the fermion-photon vertex in quenched,
+massless 3-dimensional quantum electrodynamics. A class of vertex Ans\""{a}tze
+obtained by generalizing that proposed by Dong et al. is tested using the
+invariance of the photon polarization scalar under the Landau-Khalatnikov
+transformation.
+","[{""version"":""v1"",""created"":""Sun, 5 Jul 1998 06:44:01 GMT""}]","2007-05-23"
+"hep-th/9807037","Yang Jjfeng","Jifeng Yang(Fudan Univ., Shanghai, P. R. China)","Quantum field theory: Finiteness and Effectiveness","31pages, LaTex, no figure, an extended version of the invited talk
+  Titled 'Can QFT be UV finite as well as effective?' at the XIth International
+  Conference, 'Problems of quantum field theory' held in JINR, Dubna, Russia,
+  July 13-17, 1998",,,,"hep-th hep-ph nucl-th quant-ph",,"  A new attempt is demonstrated that QFTs can be UV finite if they are viewed
+as the low energy effective theories of a fundamental underlying theory (that
+is complete and well-defined in all respects) according to the modern standard
+point of view. This approach works for any interaction model and space-time
+dimension. It is much simpler in principle and in technology comparing to any
+known renormalization program.Unlike the known renormalization methods, the
+importance of the procedure for defining the ambiguities (corresponding to the
+choice of the renormalization conditions in the conventional program) is fully
+appreciated in the new approach. It is shown that the high energy theory(s) or
+the underlying theory(s) in fact 'stipulates (stipulate)' the low energy and
+effective ones through these definitions within our approach while all the
+conventional methods miss this important point. Some simple but important
+nonperturbative examples are discussed to show the power and plausibility of
+the new approach. Other related issues (especially the IR problem and the
+implication of our new approach for the canonical quantization procedure) are
+briefly touched.
+","[{""version"":""v1"",""created"":""Sun, 5 Jul 1998 14:42:14 GMT""},{""version"":""v2"",""created"":""Thu, 28 Jan 1999 12:44:03 GMT""}]","2007-05-23"
+"math/9807023","Henry C. King","Henry C. King","Planar Linkages and Algebraic Sets","22 pages, 10 figures, submitted to Proceedings of 1998 Gokova
+  Conference",,,,"math.AG math.GT",,"  A linkage is a finite graph with lengths assigned to each edge. A planar
+realization is a map to the plane which preserves edge lengths. It can be
+thought of as a mechanical device formed from stiff rods and rotating joints.
+We look at the configuration space of all planar realizations of a linkage
+(following work of Kapovich-Millson). We also look at configuration spaces of
+cabled linkages, where some edges are flexible cables. These configuration
+spaces are classified up to analytic isomorphism.
+","[{""version"":""v1"",""created"":""Sat, 4 Jul 1998 19:06:10 GMT""}]","2007-05-23"
+"physics/9807013","Valeri Dvoeglazov","Valeri V. Dvoeglazov (Zacatecas University, Mexico)","Speculations on the Neutrino Theory of Light","REVTeX file. 14pp. No figures","Annales Fond.Broglie 24 (1999) 111-128",,"Preprint EFUAZ FT-94-08-REV","physics.gen-ph",,"  The basis of new ideas in the old theory is the Majorana and Ahluwalia
+constructs, modified versions of the Weinberg $2(2j+1)$ theory, and the Barut's
+self-field quantum electrodynamics.
+","[{""version"":""v1"",""created"":""Sun, 5 Jul 1998 01:11:25 GMT""}]","2007-05-23"
+"quant-ph/9807014","Reuben Shuker","D. Braunstein and R. Shuker","Absorption with inversion and amplification without inversion in a
+  coherently prepared V - system: a dressed state approach","23 pages, 5 figures",,,"bgu/lwi1","quant-ph",,"  Light induced absorption with population inversion and amplification without
+population inversion (LWI) in a coherently prepared closed three level V - type
+system are investigated. This study is performed from the point of view of a
+two color dressed state basis. Both of these processes are possible due to
+atomic coherence and quantum interference contrary to simple intuitive
+predictions. Merely on physical basis, one would expect a complementary process
+to the amplification without inversion. We believe that absorption in the
+presence of population inversion found in the dressed state picture utilized in
+this study, constitutes such a process.
+  Novel approximate analytic time dependent solutions, for coherences and
+populations are obtained, and are compared with full numerical solutions
+exhibiting excellent agreement. Steady state quantities are also calculated,
+and the conditions under which the system exhibits absorption and gain with and
+without inversion, in the dressed state representation are derived. It is found
+that for a weak probe laser field absorption with inversion and amplification
+without inversion may occur, for a range of system parameters.
+","[{""version"":""v1"",""created"":""Sun, 5 Jul 1998 14:35:09 GMT""}]","2016-09-08"

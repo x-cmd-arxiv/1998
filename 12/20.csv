@@ -1,0 +1,308 @@
+"astro-ph/9812367","Mike Hudson","Michael J. Hudson (University of Victoria)","A Test for Large-Scale Systematic Errors in Maps of Galactic Reddening","8 pages, PASP, in press (Jan 1999)",,"10.1086/316299",,"astro-ph",,"  Accurate maps of Galactic reddening are important for a number of
+applications, such as mapping the peculiar velocity field in the nearby
+Universe. Of particular concern are systematic errors which vary slowly as a
+function of position on the sky, as these would induce spurious bulk flow. We
+have compared the reddenings of Burstein & Heiles (BH) and those of Schlegel,
+Finkbeiner & Davis (SFD) to independent estimates of the reddening, for
+Galactic latitudes |b| > 10. Our primary source of Galactic reddening estimates
+comes from comparing the difference between the observed B-V colors of
+early-type galaxies, and the predicted B-V color determined from the B-V--Mg_2
+relation. We have fitted a dipole to the residuals in order to look for
+large-scale systematic deviations. There is marginal evidence for a dipolar
+residual in the comparison between the SFD maps and the observed early-type
+galaxy reddenings. If this is due to an error in the SFD maps, then it can be
+corrected with a small (13%) multiplicative dipole term. We argue, however,
+that this difference is more likely to be due to a small (0.01 mag.) systematic
+error in the measured B-V colors of the early-type galaxies. This
+interpretation is supported by a smaller, independent data set (globular
+cluster and RR Lyrae stars), which yields a result inconsistent with the
+early-type galaxy residual dipole. BH reddenings are found to have no
+significant systematic residuals, apart from the known problem in the region
+230 < l < 310, -20 < b < 20.
+","[{""version"":""v1"",""created"":""Sat, 19 Dec 1998 19:16:25 GMT""}]","2009-10-31"
+"astro-ph/9812368","Risa H. Wechsler","Risa H. Wechsler (1), Michael A. K. Gross (2), Joel R. Primack (1),
+  George R. Blumenthal(1), Avishai Dekel(3), and Rachel S. Somerville(3) ((1)
+  UC Santa Cruz (2) NASA/Goddard (3) Hebrew U, Jerusalem)","Cosmological Implications of Lyman-Break Galaxy Clustering","4 pages, 2 figures, Latex, uses aipproc.sty; to appear in the
+  proceedings of the 9th Annual October Maryland Astrophysics Conference,
+  ""After the Dark Ages: When the Galaxies Were Young (the Universe at 2<z<5)""",,"10.1063/1.58596",,"astro-ph",,"  We review our analysis of the clustering properties of ``Lyman-break''
+galaxies (LBGs) at redshift z~3, previously discussed in Wechsler et al (1998).
+We examine the likelihood of spikes found by Steidel et al (1998) in the
+redshift distribution of LBGs, within a suite of models for the evolution of
+structure in the Universe. Using high-resolution dissipationless N-body
+simulations, we analyze deep pencil-beam surveys from these models in the same
+way that they are actually observed, identifying LBGs with the most massive
+dark matter halos. We find that all the models (with SCDM as a marginal
+exception) have a substantial probability of producing spikes similar to those
+observed, because the massive halos are much more clumped than the underlying
+matter -- i.e., they are biased. Therefore, the likelihood of such a spike is
+not a good discriminator among these models. The LBG correlation functions are
+less steep than galaxies today (gamma~1.4), but show similar or slightly longer
+correlation lengths. We have extened this analysis and include a preliminary
+comparison to the new data presented in Adelberger et al (1998). We also
+discuss work in progress, in which we use semi-analytic models to identify
+Lyman-break galaxies within dark-matter halos.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 05:05:29 GMT""}]","2009-10-31"
+"astro-ph/9812369","Ariyeh H. Maller","Ariyeh H. Maller, Rachel S. Somerville, Jason X. Prochaska and Joel R.
+  Primack","Making Damped Lyman Alpha Systems in Semi-Analytic Models","4 pages, 2 figures, uses aipproc.sty, to appear in After the Dark
+  Ages: The 9th Annual October Astrophysics Conference",,"10.1063/1.58642",,"astro-ph",,"  The velocity profiles of weak metal absorption lines can be used to
+observationally probe the kinematic state of gas in damped Lyman-alpha systems.
+Prochaska and Wolfe have argued that the flat distribution of velocity widths
+combined with the asymmetric line profiles indicate that the DLAS are disks
+with large rotation velocities. An alternative explanation has been proposed by
+Haehnelt, Steinmetz, and Rauch, in which the observed large velocity widths and
+asymmetric profiles can be produced by lines of sight passing through two or
+more clumps each having relatively small internal velocity dispersions. We
+investigate the plausibility of this scenario in the context of semi-analytic
+models based on hierarchical merging trees and including simple treatments of
+gas dynamics, star formation, supernova feedback, and chemical evolution. We
+find that all the observed properties of the metal-line systems including the
+distribution of velocities and the asymmetric profiles, can be reproduced by
+lines of sight passing through sub-clumps that are bound within larger
+virialized dark matter halos. In order to produce enough multiple hits, we find
+that the cold gas must be considerably more extended than the optical radius of
+the proto-galaxies, perhaps even beyond the tidal radius of the sub-halo. This
+could occur due to tidal stripping or supernova-driven outflows.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 05:00:26 GMT""}]","2009-10-31"
+"astro-ph/9812370","Bullock","J.S. Bullock, R.S. Somerville, D. MacMinn, and J.R. Primack","Constraining the IMF using TeV gamma ray absorption","contribution to ""TeV Astrophysics of Extragalactic Sources"" VERITAS
+  workshop, editors M. Catanese, J. Quinn, T. Weekes; 3 pages 1 figure","Astropart.Phys.11:111-112,1999","10.1016/S0927-6505(99)00033-X",,"astro-ph",,"  Gamma rays of ~TeV energies from distant sources suffer attenuation due to
+pair production off of ~1 micron EBL photons. We may exploit this process in
+order to indirectly measure the EBL and constrain models of galaxy formation.
+Here, using semi-analytic models of galaxy formation, we examine how gamma ray
+absorption may be used as an indirect probe of the stellar initial mass
+function (IMF), although there is a degeneracy with dust modeling. We point out
+that with the new generation of gamma ray telescopes including STACEE, MAGIC,
+HESS, VERITAS, and Milagro, we should soon possess a wealth of new data and a
+new method for probing the nature of the IMF.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 04:54:50 GMT""}]","2010-12-09"
+"astro-ph/9812371","Hiroyuki Horashita","H. Hirashita(1), T. T. Takeuchi(1), K. Ohta(1), and H. Shibai(2)
+  ((1)Department of Astronomy, Kyoto University (2)Department of Physics,
+  Nagoya University)","Optical Number Count Estimation of IRIS Far-Infrared Survey of Galaxies","18 pages LaTeX, 9 figures, to appear in PASJ",,"10.1093/pasj/51.1.81",,"astro-ph",,"  Infrared Imaging Surveyor (IRIS) is a satellite which will be launched at the
+beginning of 2003. One of the main purposes of the IRIS mission is an all-sky
+survey in the far-infrared region with a flux limit much deeper than that of
+IRAS. Detection of a large number of galaxies ($\sim several \times 10^6$ in
+the whole sky) is expected in this survey. We investigated the expected optical
+and near-infrared (NIR) number counts of galaxies detected by the far-infrared
+scanner (FIS) of IRIS (hereafter, IRIS galaxies) and possibility of optical and
+NIR follow-up of them. The spectral energy distribution and the luminosity
+function of the IRIS galaxies are modeled based on the properties of galaxies
+observed by IRAS. The IRIS galaxies are divided into two populations according
+to their infrared luminosities ($L_{IR}$); normal spirals ($L_{IR}<10^{10}\LO$)
+and starbursts ($L_{IR}>10^{10}\LO$). The expected number counts of IRIS
+galaxies for both of the populations are calculated in $B$ and $H$ bands. We
+show that about 60 normal galaxies and about 80 starburst galaxies are detected
+per square degree in both of the two bands, when galaxy evolution is not taken
+into account. All of the normal population of IRIS galaxies are located at the
+redshift $z\ltsim 0.1$. As for the starburst population, we also calculated
+number of galaxies with a simple model of evolution. The total number of
+starburst population predicted by the evolution model is larger by 20% than
+that expected from the non-evolution model. In the evolution model, the numbers
+of low-z ($z<1$), intermediate-z ($1<z<3$), and high-z ($z>3$) galaxies are
+100, 20, and 0.2 per square degree, respectively.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 08:40:52 GMT""}]","2015-06-24"
+"astro-ph/9812372","Vladislav V. Izmodenov","V. V. Izmodenov, R. Lallement, Y. G. Malama","Heliospheric and Astrospheric Hydrogen Absorption towards Sirius: No
+  Need for Interstellar Hot Gas","4 pages, 1 figure, A & A latex style, accepted to A&A Letters",,,,"astro-ph",,"  We use an updated self-consistent kinetic/gasdynamic model of the solar
+wind/interstellar flow interaction to compute the Lyman-alpha absorption by
+hydrogen atoms of both interstellar and solar origin generated in the
+heliospheric interface. We apply this model to the direction of the star
+Sirius. We show that the neutralized, compressed solar wind from the
+heliosheath explains the extra absorption at positive redshifts observed in the
+Lyman-alpha line with the HST/GHRS. This removes the need for the interstellar
+hot gas previously proposed to explain this extra absorption. We also show that
+extra absorption in the blue wing can possibly be explained by H atoms formed
+in an astrosphere around Sirius, providing the stellar wind is at least as
+massive and fast as the solar wind.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 14:17:58 GMT""}]","2007-05-23"
+"astro-ph/9812373","Vladislav V. Izmodenov","V. V. Izmodenov, J. Geiss, R. Lallement, G. Gloeckler, V. B. Baranov,
+  Y. G. Malama","Filtration of interstellar hydrogen in the two-shock heliospheric
+  interface: Inferences on the local interstellar electron density","14 pages, 5 figures, JGR-Space Physics, accepted, AGU preprint style",,"10.1029/1998JA900122",,"astro-ph",,"  The solar system is moving through the partially ionized local interstellar
+cloud (LIC). The ionized matter of the LIC interacts with the expanding solar
+wind forming the heliospheric interface. The neutral component (interstellar
+atoms) penetrates through the heliospheric interface into the heliosphere,
+where it is measured directly ""in situ"" as pick-up ions and neutral atoms (and
+as anomalous cosmic rays) or indirectly through resonant scattering of solar
+Ly-alpha. When crossing the heliospheric interface, interstellar atoms interact
+with the plasma component through charge exchange. This interaction leads to
+changes of both neutral gas and plasma properties. The heliospheric interface
+is also the source of radio emissions which have been detected by the Voyager
+since 1983. In this paper, we have used a kinetic model of the flow of the
+interstellar atoms with updated values of velocity, temperature, and density of
+the circumsolar interstellar hydrogen and calculated how all quantities which
+are directly associated to the observations vary as a function of the
+interstellar proton number density. These quantities are the degree of
+filtration, the temperature and the velocity of the interstellar H atoms in the
+inner heliosphere, the distances to the bow shock (BS), heliopause, and
+termination shock, and the plasma frequencies in the LIC, at the BS and in the
+maximum compression region around the heliosphere which constitutes the
+""barrier"" for radio waves formed in the interstellar medium. Comparing the
+model results with recent pickup ion data, Ly- alpha measurements, and
+low-frequencies radio emissions, we have searched for a number density of
+protons in the local interstellar cloud compatible with all observations.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 15:27:10 GMT""}]","2015-06-24"
+"chao-dyn/9812026","Benny Davidovitch","Benny Davidovich and Itamar Procaccia","Conformal Theory of the Dimensions of Diffusion Limited Aggregates","5 pages, 3 figures, submitted to Phys. Rev. Lett",,"10.1209/epl/i1999-00518-y",,"chao-dyn cond-mat.stat-mech nlin.CD",,"  We employ the recently introduced conformal iterative construction of
+Diffusion Limited Aggregates (DLA) to study the multifractal properties of the
+harmonic measure. The support of the harmonic measure is obtained from a
+dynamical process which is complementary to the iterative cluster growth. We
+use this method to establish the existence of a series of random scaling
+functions that yield, via the thermodynamic formalism of multifractals, the
+generalized dimensions D(q) of DLA for q >= 1. The scaling function is
+determined just by the last stages of the iterative growth process which are
+relevant to the complementary dynamics. Using the scaling relation D(3) =
+D(0)/2 we estimate the fractal dimension of DLA to be D(0) = 1.69 +- 0.03.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 13:36:01 GMT""}]","2009-10-31"
+"cond-mat/9812328","Werner Krauth","Werner Krauth","Comment on ``Critical temperature of trapped hard-sphere Bose gases''","2 pages, 1 figure",,,,"cond-mat.stat-mech",,"  In this comment, I discuss a recent path-integral Monte Carlo calculation by
+Pearson, Pang, and Chen (Phys. Rev. A 58, 4796 (1998)). For bosons with a small
+hard-core interaction in a harmonic trap, the authors find a critical
+temperature which does not change with respect to the non-interacting gas. The
+calculation suffers from a serious discretization error of the many-particle
+density matrix.
+","[{""version"":""v1"",""created"":""Sat, 19 Dec 1998 17:28:32 GMT""}]","2007-05-23"
+"cond-mat/9812330","Valeri Kotov","V.N. Kotov, J. Oitmaa, and Zheng Weihong (UNSW)","Excitation spectrum and ground state properties of the S=1/2 Heisenberg
+  ladder with staggered dimerization","13 pages, 7 figures","Phys. Rev. B 59, 11377 (1999).","10.1103/PhysRevB.59.11377","UNSW-98-12","cond-mat.str-el",,"  We have studied the excitation spectrum of the $S=1/2$ quantum spin ladder
+with staggered dimerization by dimer series expansions, diagrammatic analysis
+of an effective interacting Bose gas of local triplets, and exact
+diagonalization of small clusters. We find that the model has two massive
+phases, with predominant inter-chain (rung) or intra-chain correlations. The
+transition from the rung dimer into the intra-chain dimer phase is
+characterized by softening of the triplet spectrum at $k=\pi$. The excitation
+spectrum as well as the spin correlations away from and close to the critical
+line are calculated. The location of the phase boundary is also determined.
+","[{""version"":""v1"",""created"":""Sat, 19 Dec 1998 19:44:31 GMT""}]","2009-10-31"
+"cond-mat/9812331","Sergey Kravchenko","S. V. Kravchenko, D. Simonian, and M. P. Sarachik","Comment on ""Charged impurity scattering limited low temperature
+  resistivity of low density silicon inversion layers"" (Das Sarma and Hwang,
+  cond-mat/9812216)","1 page, LaTeX file",,,,"cond-mat.str-el",,"  In a recent preprint cond-mat/9812216, Das Sarma and Hwang propose an
+explanation of the sharp decrease in resistivity at low temperatures which has
+been attributed to a transition to an unexpected conducting phase in dilute
+high-mobility two-dimensional systems at B=0. In this Comment, we examine
+whether their model is supported by the available experimental data.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 00:15:52 GMT""}]","2007-05-23"
+"cond-mat/9812332","Nishiyama","Yoshihiro Nishiyama (Okayama University)","Numerical diagonalization analysis of the ground-state
+  superfluid-localization transition in two dimensions",,"Eur. Phys. J. B 9, 215-223 (1999).",,,"cond-mat",,"  Ground state of the two-dimensional hard-core-boson system in the presence of
+the quenched random chemical potential is investigated by means of the
+exact-diagonalization method for the system sizes up to L=5. The criticality
+and the DC conductivity at the superfluid-localization transition have been
+controversial so far. We estimate, with the finite-size scaling analysis, the
+correlation-length and the dynamical critical exponents as nu=2.3(0.6) and z=2,
+respectively. The AC conductivity is computed with the Gagliano-Balseiro
+formula, with which the resolvent (dynamical response function) is expressed in
+terms of the continued-fraction form consisted of Lanczos tri-diagonal
+elements. Thereby, we estimate the universal DC conductivity as
+sigma_c(omega=0)=0.135(0.01) ((2e)^2/h).
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 03:59:55 GMT""}]","2007-05-23"
+"gr-qc/9812070","Ibrahim Arbab Arbab","Arbab I. Arbab","The Universe With Bulk Viscosity","7 LateX pages, no figures","Chin.J.Astron.Astrophys.3:113,2003","10.1088/1009-9271/3/2/113",,"gr-qc",,"  Exact solutions for a model with variable $G$, $\Lambda$ and bulk viscosity
+are obtained. Inflationary solutions with constant (de Sitter-type) and
+variable energy density are found. An expanding anisotropic universe is found
+to isotropize during its course of expansion but a static universe is not. The
+gravitational constant is found to increase with time and the cosmological
+constant decreases with time as $\Lambda \propto t^{-2}$.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 15:58:25 GMT""},{""version"":""v2"",""created"":""Fri, 25 Apr 2003 17:05:40 GMT""}]","2014-11-17"
+"hep-lat/9812018","Christian B. Lang","F. Farchioni, I. Hip, C. B. Lang and M. Wohlgenannt","Eigenvalue spectrum of massless Dirac operators on the lattice","13 figures, 33 pages; minor changes, update to version accepted for
+  publication","Nucl.Phys. B549 (1999) 364-388","10.1016/S0550-3213(99)00162-5","UNIGRAZ-UTP-18-12-98","hep-lat hep-ph",,"  We present a detailed study of the interplay between chiral symmetry and
+spectral properties of the Dirac operator in lattice gauge theories. We
+consider, in the framework of the Schwinger model, the fixed point action and a
+fermion action recently proposed by Neuberger. Both actions show the remnant of
+chiral symmetry on the lattice as formulated in the Ginsparg-Wilson relation.
+We check this issue for practical implementations, also evaluating the fermion
+condensate in a finite volume by a subtraction procedure. Moreover, we
+investigate the distribution of the eigenvalues of a properly defined
+anti-hermitian lattice Dirac operator, studying the statistical properties at
+the low lying edge of the spectrum. The comparison with the predictions of
+chiral Random Matrix Theory enables us to obtain an estimate of the infinite
+volume fermion condensate.
+","[{""version"":""v1"",""created"":""Sat, 19 Dec 1998 18:05:26 GMT""},{""version"":""v2"",""created"":""Fri, 30 Apr 1999 06:37:27 GMT""}]","2009-10-31"
+"hep-ph/9812446","V. Zoller","N. N. Nikolaev (FZ-Ikp Juelich) and V. R. Zoller (ITEP Moscow)","The Running BFKL: Resolution of Caldwell's Puzzle","7 pages, Latex, 4 Figures, PS","JETP Lett.69:103-109,1999","10.1134/1.567991","ITEP-PH-6/98, FZ-IKP(TH)-1998-5","hep-ph",,"  The HERA data on the proton structure function, $F_2(x,Q^2)$, at very small
+$x$ and $Q^2$ show the dramatic departure of the logarithmic slope, $\partial
+F_2/\partial\log Q^2$, from theoretical predictions based on the DGLAP
+evolution. We show that the running BFKL approach provides the quantitative
+explanation for the observed $x$ and/or $Q^2$ -dependence of $\partial
+F_2/\partial\log Q^2$.
+","[{""version"":""v1"",""created"":""Sat, 19 Dec 1998 17:08:02 GMT""}]","2014-11-17"
+"hep-ph/9812447","Wilfried Buchmuller","W. Buchm\""uller","Baryogenesis above the Fermi scale","18 pages, 9 figures",,,"DESY-98-171","hep-ph",,"  In the standard model and most of its extensions the electroweak transition
+is too weak to affect the cosmological baryon asymmetry. Due to sphaleron
+processes baryogenesis in the high-temperature, symmetric phase of the standard
+model is closely related to neutrino properties. The experimental indications
+for very small neutrino masses from the solar and the atmospheric neutrino
+deficits favour a large scale of B-L breaking. For hierarchical neutrino
+masses, with B-L broken at the unification scale $\Lambda_{GUT} \sim 10^{16}$
+GeV, the observed baryon asymmetry $n_B/s \sim 10^{-10}$ is naturally explained
+by the decay of heavy Majorana neutrinos. The corresponding baryogenesis
+temperature is $T_B \sim 10^{10}$ GeV. In supersymmetric models implications
+for the mass spectrum of superparticles can be derived. A consistent picture is
+obtained with the gravitino as LSP, which may be the dominant component of cold
+dark matter.
+","[{""version"":""v1"",""created"":""Sat, 19 Dec 1998 18:19:31 GMT""}]","2007-05-23"
+"hep-ph/9812449","Kazuhiro Tanaka","Jiro Kodaira (Hiroshima Univ.), Kazuhiro Tanaka (Juntendo Univ.)","Polarized Structure Functions in QCD","58 pages, PTPTEX, 4 Postscript figures, psfig.sty and here.sty are
+  required; typos fixed and minor changes in the text. Final version to be
+  published in Prog. Theor. Phys","Prog.Theor.Phys. 101 (1999) 191-242","10.1143/PTP.101.191","HUPD-9819, JUPD-9825","hep-ph",,"  Hadron spin physics is now one of the most active fields of physics.
+Especially in the last ten years, great progress has been made both
+theoretically and experimentally that has considerably improved our knowledge
+of the spin structure of nucleons. We review the nucleon's polarized structure
+functions from the viewpoint of factorization theorems and the gauge invariant,
+nonlocal light-cone operators in QCD. We discuss a systematic treatment of the
+polarized structure functions and the corresponding parton distribution
+functions, which are relevant to inclusive lepto- and hadro-production. We give
+a detailed analysis of these spin-dependent distribution functions at the
+twist-2 and twist-3 level, and present various properties and relations
+satisfied by the parton distributions, which can be derived directly from QCD.
+We emphasize unique features of higher twist distributions, and the role of the
+QCD equations of motion to derive their sensitivity to the quark-gluon
+correlation and their anomalous dimensions for Q^2-evolution.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 11:45:04 GMT""},{""version"":""v2"",""created"":""Fri, 15 Jan 1999 11:35:07 GMT""}]","2009-10-31"
+"hep-ph/9812450","Vajravelu Ravindran","J. Bl\""umlein, V. Ravindran and W.L. van Neerven","Relations among QCD corrections beyond leading order","3 pages, LaTeX. Contributed to 3rd UK Phenomenology Workshop on HERA
+  Physics, Durham, England, 20-25 Sep 1998","J.Phys.G25:1551-1552,1999","10.1088/0954-3899/25/7/349",,"hep-ph",,"  The status of various relations among higher order QCD corrections is
+discussed. In particular, Drell-Levy-Yan relation and Supersymmetric relation
+are studied at the two-loop level. We have also investigated the validity of
+such relations for physical observables.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 15:34:06 GMT""}]","2008-11-26"
+"hep-th/9812178","Martin Reuter","M. Reuter","Background-Quantum Split Symmetry and Phase-Space Path-Integrals","4 pages, latex",,,"MZ-TH 98-51","hep-th",,"  Phase-space path-integrals are used in order to illustrate various aspects of
+a recently proposed interpretation of quantum mechanics as a gauge theory of
+metaplectic spinor fields.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 08:10:34 GMT""}]","2007-05-23"
+"hep-th/9812179","Detlev Buchholz","Detlev Buchholz","On the Implementation of Supersymmetry","Latex, 9 pages, prose improved, typos corrected","Lect.Notes Phys. 539 (2000) 211-220",,,"hep-th math-ph math.MP",,"  The implementation of supersymmetry transformations by Hilbert space
+operators is discussed in the framework of supersymmetric C$^*$--dynamical
+systems. It is shown that the only states admitting such an implementation are
+pure supersymmetric ground states or mixtures and elementary excitations
+thereof. Faithful states, such as KMS--states, are never supersymmetric.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 13:19:05 GMT""},{""version"":""v2"",""created"":""Mon, 4 Jan 1999 23:27:56 GMT""}]","2007-05-23"
+"hep-th/9812180","A. Demichev","M. Chaichian, A. Demichev and P. Presnajder","Quantum Field Theory on Noncommutative Space-Times and the Persistence
+  of Ultraviolet Divergences","31 pages, Latex, minor typos corrected","Nucl.Phys. B567 (2000) 360-390",,"HIP-1998-77/TH","hep-th",,"  We study properties of a scalar quantum field theory on two-dimensional
+noncommutative space-times. Contrary to the common belief that noncommutativity
+of space-time would be a key to remove the ultraviolet divergences, we show
+that field theories on a noncommutative plane with the most natural
+Heisenberg-like commutation relations among coordinates or even on a
+noncommutative quantum plane with $E_q(2)$-symmetry have ultraviolet
+divergences, while the theory on a noncommutative cylinder is ultraviolet
+finite. Thus, ultraviolet behaviour of a field theory on noncommutative spaces
+is sensitive to the topology of the space-time, namely to its compactness. We
+present general arguments for the case of higher space-time dimensions and as
+well discuss the symmetry transformations of physical states on noncommutative
+space-times.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 14:41:21 GMT""},{""version"":""v2"",""created"":""Wed, 23 Dec 1998 11:14:18 GMT""},{""version"":""v3"",""created"":""Tue, 13 Apr 1999 15:16:07 GMT""}]","2007-05-23"
+"hep-th/9812181","Gagik Ter-Gazarian","G.T.Ter-Kazarian (Byurakan Observatory)","The Operator Manifold Formalism. I","LaTex, 30 pages",,,"BAO/98/01","hep-th",,"  The suggested operator manifold formalism enables to develop an approach to
+the unification of the geometry and the field theory. We also elaborate the
+formalism of operator multimanifold yielding the multiworld geometry involving
+the spacetime continuum and internal worlds, where the subquarks are defined
+implying the Confinement and Gauge principles. This formalism in Part II
+(hep-th/9812182) is used to develop further the microscopic approach to some
+key problems of particle physics.
+","[{""version"":""v1"",""created"":""Sun, 20 Dec 1998 14:59:55 GMT""}]","2007-05-23"
+"math/9812121","Frank-Olaf Schreyer","N. Manolache, F.-O. Schreyer","Moduli of (1,7)-polarized abelian surfaces via syzygies","20 pages, TeX",,,,"math.AG math.AC",,"  We prove that the moduli space X(1,7) of (1,7)-polarized abelian surfaces
+with canonical level structure is birational to the Fano 3-fold V22 of polar
+hexagons of the Klein quartic X(7). In particular X(1,7) is rational and the
+birational map to P^3 is defined over Q. As a byproduct we obtain explicitely
+the equations of the (1,7)-very-ample polarized abelian surfaces in P^6.
+","[{""version"":""v1"",""created"":""Sat, 19 Dec 1998 17:12:03 GMT""}]","2007-05-23"
+"nucl-th/9812055","Jose Carlos Nacher Diez","J. C. Nacher (1,2), E. Oset (1,2), H. Toki (1), A. Ramos (3) ((1)
+  RCNP,Osaka U., (2) Centro Mixto U. de Valencia-CSIC, (3) Barcelona U.)","Photoproduction of the Lambda(1405) on the proton and nuclei","9 pages, 4 postscripts figures","Phys.Lett. B455 (1999) 55-61","10.1016/S0370-2693(99)00380-9",,"nucl-th",,"  We study the gamma p ---> K^+ Lambda(1405) reaction at energies close to
+threshold using a chiral unitary model where the resonance is generated
+dynamically from K^-p interaction with other channels constructed from the
+octets of baryons and mesons. Predictions are made for cross sections into
+several channels and it is shown that the detection of the K^+ is sufficient to
+determine the shape and strength of the Lambda(1405) resonance. The
+determination of the resonance properties in nuclei requires instead the
+detection of the resonance decay channels. Pauli blocking effects on the
+resonance, which have been shown to be very important for the resonance at rest
+in the nucleus, are irrelevant here where the resonance is produced with a
+large momentum. The nuclear modifications here would thus offer information on
+the resonance and K^- nucleus dynamics complementary to the one offered so far
+by K^- atoms.
+","[{""version"":""v1"",""created"":""Sat, 19 Dec 1998 17:03:47 GMT""}]","2009-10-31"

@@ -1,0 +1,127 @@
+"astro-ph/9808006","Piotr A. Popowski","Piotr Popowski, Andrew Gould (Ohio State University)","The RR Lyrae Distance Scale","Invited review article to appear in: `Post-Hipparcos Cosmic Candles',
+  A. Heck & F. Caputo (Eds), Kluwer Academic Publ., Dordrecht, in press. 21
+  pages including 1 table; uses Kluwer's crckapb.sty LaTeX style file, enclosed",,"10.1007/978-94-011-4734-7_4","OSU-TA-13/98","astro-ph",,"  We review seven methods of measuring the absolute magnitude M_V of RR Lyrae
+stars in light of the Hipparcos mission and other recent developments. We focus
+on identifying possible systematic errors and rank the methods by relative
+immunity to such errors. For the three most robust methods, statistical
+parallax, trigonometric parallax, and cluster kinematics, we find M_V (at
+[Fe/H] = -1.6) of 0.77 +/- 0.13, 0.71 +/- 0.15, 0.67 +/- 0.10. These methods
+cluster consistently around 0.71 +/- 0.07. We find that Baade-Wesselink and
+theoretical models both yield a broad range of possible values (0.45-0.70 and
+0.45-0.65) due to systematic uncertainties in the temperature scale and input
+physics. Main-sequence fitting gives a much brighter M_V = 0.45 +/- 0.04 but
+this may be due to a difference in the metallicity scales of the cluster giants
+and the calibrating subdwarfs. White-dwarf cooling-sequence fitting gives 0.67
++/- 0.13 and is potentially very robust, but at present is too new to be fully
+tested for systematics. If the three most robust methods are combined with
+Walker's mean measurement for 6 LMC clusters, V_{0,LMC} = 18.98 +/- 0.03 at
+[Fe/H] = -1.9, then mu_{LMC} = 18.33 +/- 0.08.
+","[{""version"":""v1"",""created"":""Sun, 2 Aug 1998 13:13:42 GMT""}]","2016-01-27"
+"astro-ph/9808008","Y. Divakara Mayya","Y.D. Mayya (INAOE, Puebla), Swara Ravindranath (IIA, Bangalore) and L.
+  Carrasco (INAOE, Puebla)","Near infrared and optical morphology of the dusty galaxy NGC972","Uses aas2pp4.sty and epsfig.sty, 12 pages To appear in Astronomical
+  Journal, October 1998",,"10.1086/300574",,"astro-ph",,"  Near infrared (NIR) and optical surface photometric analyses of the dusty
+galaxy NGC972 are presented. The photometric profiles in the BVRJHK bands can
+be fitted with a combination of gaussian and exponential profiles,
+corresponding to a starburst nucleus and a stellar disk respectively. The
+exponential scale length in the B-band is 2.8 times larger than in the K-band,
+which implies a central B-band optical depth as high as 11. A bulge is absent
+even in the NIR bands and hence the galaxy must be of a morphological type
+later than the usually adopted Sb type. Relatively low rotational velocity and
+high gas content also favor a later type, probably Sd, for the galaxy. Only one
+arm can be traced in the distribution of old stars; the second arm, however,
+can be traced in the distribution of dust and HII regions. Data suggest a short
+NIR bar, which ends inside the nuclear ring. The slowly rising nature of the
+rotation curve rules out a resonance origin of the the nuclear ring. The ring
+is most likely not in the plane of the galaxy, given its circular appearance in
+spite of the moderately high inclination of the galaxy. The off-planar nature
+of the star forming ring, the unusually high fraction (30%) of the total mass
+in molecular form, the presence of a nuclear starburst and the asymmetry of
+spiral arms, are probably the result of a merger with a gas-rich companion
+galaxy.
+","[{""version"":""v1"",""created"":""Sun, 2 Aug 1998 15:16:57 GMT""}]","2009-10-30"
+"chao-dyn/9808002","Kim S.-Y.","Sang-Yoon Kim","Intermittency in coupled maps","24 pages, RevTeX, 5 eps figures",,"10.1103/PhysRevE.59.2887",,"chao-dyn nlin.CD",,"  Using a renormalization method, we study the critical behavior for
+intermittency in two coupled one-dimensional (1D) maps. We find two fixed maps
+of the renormalization transformation. They all have common relevant
+eigenvalues associated with scaling of the control parameter of the uncoupled
+1D map. However, the relevant ``coupling eigenvalues'' associated with coupling
+perturbations vary depending on the fixed maps. It is also found that the two
+fixed maps are associated with the critical behavior in the vicinity of a
+critical line segment. One fixed map with no relevant coupling eigenvalues
+governs the critical behavior at interior points of the critical line segment,
+while the other one with relevant coupling eigenvalues governs the critical
+behavior at both ends. The results of the two coupled 1D maps are also extended
+to many globally-coupled 1D maps, in which each 1D map is coupled to all the
+other ones with equal strength.
+","[{""version"":""v1"",""created"":""Sun, 2 Aug 1998 10:03:45 GMT""}]","2009-10-31"
+"cond-mat/9808005","Zhou Haijun","Zhou Haijun, Ou-Yang Zhong-can","Theory on quench-induced pattern formation: Application to the isotropic
+  to smectic-A phase transitions","9 pages in RevTex form, with 3 postscript figures. Accepted by PRE","Phys. Rev. E 58, No. 5 (1998)5909-5913","10.1103/PhysRevE.58.5909",,"cond-mat.soft cond-mat.mtrl-sci cond-mat.stat-mech",,"  During catastrophic processes of environmental variations of a thermodynamic
+system, such as rapid temperature decreasing, many novel and complex patterns
+often form.
+  To understand such phenomena, a general mechanism is proposed based on the
+competition between heat transfer and conversion of heat to other energy forms.
+We apply it to the smectic-A filament growth process during quench-induced
+isotropic to smectic-A phase transition. Analytical forms for the buckling
+patterns are derived and we find good agreement with experimental observation
+[Phys. Rev. {\bf E55} (1997) 1655]. The present work strongly indicates that
+rapid cooling will lead to structural transitions in the smectic-A filament at
+the molecular level to optimize heat conversion. The force associated with this
+pattern formation process is estimated to be in the order of $10^{-1}$
+piconewton.
+","[{""version"":""v1"",""created"":""Sun, 2 Aug 1998 05:57:01 GMT""}]","2016-08-31"
+"hep-lat/9808001","Yamaguchi Azusa","Yamaguchi Azusa","Genetic Algorithm for SU(N) gauge theory on a lattice","rev.tex form, 9 pages, 12 figures",,,"OCHA-PP-122","hep-lat cs.NE",,"  An Algorithm is proposed for the simulation of pure SU(N) lattice gauge
+theories based on Genetic Algorithms(GAs). Main difference between GAs and
+Metropolis methods(MPs) is that GAs treat a population of points at once, while
+MPs treat only one point in the searching space. This provides GAs with
+information about the assortment as well as the fitness of the evolution
+function and producting a better solution. We apply GAs to SU(2) pure gauge
+theory on a 2 dimensional lattice and show the results are consistent with
+those given by MP and Heatbath methods(HBs). Thermalization speed of GAs is
+especially faster than the simple MPs.
+","[{""version"":""v1"",""created"":""Sun, 2 Aug 1998 13:26:31 GMT""},{""version"":""v2"",""created"":""Tue, 25 Aug 1998 02:46:23 GMT""}]","2007-05-23"
+"hep-ph/9808202","Ma Bo-Qiang","Bo-Qiang Ma and Ivan Schmidt","The Quark Orbital Angular Momentum in a Light-Cone Representation","20 latex pages, including an eps figure, to appear in Phys. Rev. D","Phys.Rev. D58 (1998) 096008","10.1103/PhysRevD.58.096008","USM-TH-74","hep-ph hep-ex nucl-th",,"  We perform an analysis of the quark angular momentum in a light-cone
+representation by taking into account the effect due to the Melosh-Wigner
+rotation and find that there is a relativistic correction factor connecting the
+quark orbital angular momentum with the quark model spin distribution:
+$L_q(x)={<M_L(x)>}\Delta q_{QM}(x)$. The quark orbital angular momentum
+$L_q(x)$ and the quark helicity distribution $\Delta q(x)$ are connected to the
+quark model spin distribution $\Delta q_{QM}(x)$ by a relation:
+$\frac{1}{2}\Delta q(x)+ L_q(x)=\frac{1}{2}\Delta q_{QM}(x)$, which means that
+one can decompose the quark model spin contribution $\Delta q_{QM}(x)$ by a
+quark helicity term $\Delta q(x)$ {\it plus} an orbital angular momentum term
+$L_q(x)$. There is also a new relation connecting the quark orbital angular
+momentum with the measurable quark helicity distribution and transversity
+distribution ($\delta q(x)$): $\Delta q(x)+L_q(x)=\delta q(x)$, from which we
+may have new sum rules connecting the quark orbital angular momentum with the
+nucleon axial and tensor charges.
+","[{""version"":""v1"",""created"":""Sun, 2 Aug 1998 04:31:28 GMT""}]","2009-10-31"
+"hep-th/9808004","Damiano Anselmi","D. Anselmi","Theory of higher spin tensor currents and central charges","Latex, 46 pages, 4 figures. Final version, to appear in NPB. (v2:
+  added two terms in vector OPE)","Nucl.Phys. B541 (1999) 323-368","10.1016/S0550-3213(98)00783-4","CPTH S.636 0798","hep-th hep-ph",,"  We study higher spin tensor currents in quantum field theory. Scalar, spinor
+and vector fields admit unique ""improved"" currents of arbitrary spin, traceless
+and conserved. Off-criticality as well as at interacting fixed points
+conservation is violated and the dimension of the current is anomalous. In
+particular, currents J^(s,I) with spin s between 0 and 5 (and a second label I)
+appear in the operator product expansion of the stress tensor. The TT OPE is
+worked out in detail for free fields; projectors and invariants encoding the
+space-time structure are classified. The result is used to write and discuss
+the most general OPE for interacting conformal field theories and
+off-criticality. Higher spin central charges c_(s,I) with arbitrary s are
+defined by higher spin channels of the many-point T-correlators and central
+functions interpolating between the UV and IR limits are constructed. We
+compute the one-loop values of all c_(s,I) and investigate the RG trajectories
+of quantum field theories in the conformal window following our approach. In
+particular, we discuss certain phenomena (perturbative and nonperturbative)
+that appear to be of interest, like the dynamical removal of the I-degeneracy.
+Finally, we address the problem of formulating an action principle for the RG
+trajectory connecting pairs of CFT's as a way to go beyond perturbation theory.
+","[{""version"":""v1"",""created"":""Sun, 2 Aug 1998 07:34:29 GMT""},{""version"":""v2"",""created"":""Tue, 4 Aug 1998 16:09:39 GMT""},{""version"":""v3"",""created"":""Mon, 7 Sep 1998 13:01:28 GMT""},{""version"":""v4"",""created"":""Wed, 11 Nov 1998 12:13:49 GMT""}]","2009-10-31"
+"hep-th/9808005","Gregory Gabadadze","G. Gabadadze (Rutgers Univ.)","The Discrete $Z_{2N_c}$ Symmetry And Effective Superpotential In SUSY
+  Gluodynamics","22 pages, LaTex file","Nucl.Phys. B544 (1999) 650-665","10.1016/S0550-3213(98)00856-6","RU-98-33","hep-th",,"  We find an expression for the effective superpotential describing the $N_c$
+vacua of $SU(N_c)$ SUSY gluodynamics. The superpotential reduces in some
+approximation to the Veneziano-Yankielowicz expression amended by the term
+restoring the discrete $Z_{2N_c}$ symmetry. Moreover, the superpotential, being
+restricted to one particular vacuum state, yields the expression which was
+derived recently to describe all the lowest-spin physical states of the theory.
+The corresponding scalar potential has no cusp singularities and can be used to
+study the domain walls interpolating between the chirally asymmetric vacua of
+the model.
+","[{""version"":""v1"",""created"":""Sun, 2 Aug 1998 14:59:17 GMT""}]","2009-10-31"

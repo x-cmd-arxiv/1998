@@ -1,0 +1,153 @@
+"astro-ph/9804184","Scott J. Kenyon","Scott J. Kenyon (Harvard-Smithsonian Center for Astrophysics), David
+  I. Brown (Jet Propulsion Laboratory), Chris Tout (Institute of Astronomy),
+  and Perry Berlind (Whipple Observatory)","Optical Spectroscopy of Embedded Young Stars in the Taurus-Auriga
+  Molecular Cloud","19 pages of text, 4 pages of tables, and 10 pages of figures",,"10.1086/300368",,"astro-ph",,"  This paper describes the first optical spectroscopic survey of class I
+sources (also known as embedded sources and protostars) in the Taurus-Auriga
+dark cloud. We detect 10 of the 24 known class I sources in the cloud at
+5500-9000 A. All detected class I sources have strong H-alpha emission; most
+also have strong [O I] and [S II] emission. These data - together with high
+quality optical spectra of T Tauri stars in the Taurus-Auriga cloud -
+demonstrate that forbidden emission lines are stronger and more common in class
+I sources than in T Tauri stars. Our results also provide a clear discriminant
+in the frequency of forbidden line emission between weak-emission and classical
+T Tauri stars. In addition to strong emission lines, three class I sources have
+prominent TiO absorption bands. The M-type central stars of these sources
+mingle with optically visible T Tauri stars in the HR diagram and lie somewhat
+below both the birthline for spherical accretion and the deuterium burning
+sequence for disc accretion.
+","[{""version"":""v1"",""created"":""Sat, 18 Apr 1998 19:27:52 GMT""}]","2009-10-30"
+"astro-ph/9804185","Scott J. Kenyon","Scott J. Kenyon (Harvard-Smithsonian Center for Astrophysics), Jane X.
+  Luu (Department of Astronomy, Harvard University)","Accretion in the Early Kuiper Belt I. Coagulation and Velocity Evolution","45 pages of text (including 5 tables), 31 pages of figure",,"10.1086/300331",,"astro-ph",,"  We describe planetesimal accretion calculations in the Kuiper Belt.
+  Our evolution code simulates planetesimal growth in a single annulus and
+includes velocity evolution but not fragmentation. Test results match analytic
+solutions and duplicate previous simulations at 1 AU.
+  In the Kuiper Belt, simulations without velocity evolution produce a single
+runaway body with a radius of 1000 km on a time scale inversely proportional to
+the initial mass in the annulus. Runaway growth occurs in 100 Myr for 10 earth
+masses and an initial eccentricity of 0.001 in a 6 AU annulus centered at 35
+AU. This mass is close to the amount of dusty material expected in a minimum
+mass solar nebula extrapolated into the Kuiper Belt.
+  Simulations with velocity evolution produce runaway growth on a wide range of
+time scales. Dynamical friction and viscous stirring increase particle
+velocities in models with large (8 km radius) initial bodies. This velocity
+increase delays runaway growth by a factor of two compared to models without
+velocity evolution. In contrast, collisional damping dominates over dynamical
+friction and viscous stirring in models with small (80--800 m radius) initial
+bodies. Collisional damping decreases the time scale to runaway growth by
+factors of 4--10 relative to constant velocity calculations. Simulations with
+minimum mass solar nebulae, 10 earth masses, reach runaway growth on time
+scales of 20-40 Myr with 80 m initial bodies, 50-100 Myr with 800 m bodies, and
+75-250 Myr for 8 km initial bodies. These growth times vary linearly with the
+mass of the annulus but are less sensitive to the initial eccentricity than
+constant velocity models.
+","[{""version"":""v1"",""created"":""Sat, 18 Apr 1998 19:41:56 GMT""}]","2016-08-30"
+"cond-mat/9804202","Jian-Ming Tang","Jian-Ming Tang and D. J. Thouless","Longitudinal Force on a Moving Potential","RevTeX, 4 pages, revised text","Phys. Rev. B 58, 14179 (1998)","10.1103/PhysRevB.58.14179",,"cond-mat",,"  We show a formal result of the longitudinal force acting on a moving
+potential. The potential can be velocity-dependent, which appears in various
+interesting physical systems, such as electrons in the presence of a magnetic
+flux-line, or phonons scattering off a moving vortex. By using the phase-shift
+analysis, we are able to show the equivalence between the adiabatic
+perturbation theory and the kinetic theory for the longitudinal force in the
+dilute gas limit.
+","[{""version"":""v1"",""created"":""Sun, 19 Apr 1998 06:21:24 GMT""},{""version"":""v2"",""created"":""Wed, 8 Jul 1998 22:40:49 GMT""}]","2007-05-23"
+"cond-mat/9804203","Masamichi Nishino","Masamichi Nishino, Kizashi Yamaguchi and Seiji Miyashita","Switching dynamics between metastable ordered magnetic state and
+  nonmagnetic ground state - A possible mechanism for photoinduced
+  ferromagnetism -","12 pages, 13 figures",,"10.1103/PhysRevB.58.9303",,"cond-mat.mtrl-sci cond-mat.stat-mech",,"  By studying the dynamics of the metastable magnetization of a statistical
+mechanical model we propose a switching mechanism of photoinduced
+magnetization. The equilibrium and nonequilibrium properties of the Blume-Capel
+(BC) model, which is a typical model exhibiting metastability, are studied by
+mean field theory and Monte Carlo simulation. We demonstrate reversible changes
+of magnetization in a sequence of changes of system parameters, which would
+model the reversible photoinduced magnetization. Implications of the calculated
+results are discussed in relation to the recent experimental results for
+prussian blue analogs.
+","[{""version"":""v1"",""created"":""Sun, 19 Apr 1998 09:41:00 GMT""},{""version"":""v2"",""created"":""Thu, 23 Apr 1998 01:55:32 GMT""},{""version"":""v3"",""created"":""Fri, 1 May 1998 01:43:24 GMT""}]","2009-10-31"
+"cond-mat/9804204","Richard Berkovits","Richard Berkovits and Yshai Avishai","Plastic flow of persistent currents in two dimensional strongly
+  interacting systems","12 pages, 4 figures, accepted for publication in Phys. Rev. B (RC)","Phys. Rev. B, 57, R15076 (1998)","10.1103/PhysRevB.57.R15076",,"cond-mat.mes-hall",,"  The local persistent current in two dimensional strongly interacting systems
+is investigated. As the interaction strength is enhanced the current in the
+sample undergoes a transition from diffusive to ordered flow. The strong
+interacting flow has the characteristics of a plastic flow through dislocations
+in the pinned charge density wave which develops in the system at low
+densities.
+","[{""version"":""v1"",""created"":""Sun, 19 Apr 1998 09:35:32 GMT""}]","2009-10-31"
+"cond-mat/9804205","Dan T. Fuchs","Dan T. Fuchs (1), Eli Zeldov (1), Tsuyoshi Tamegai (2), Shuuichi Ooi
+  (2), Michael Rappaport (1), Hadas Shtrikman(1) ((1) Weizmann Institute of
+  Science, (2) Tokyo University)","Possible new vortex matter phases in BSCCO","11 pages, 3 figures, accepted for publication in PRL","PRL, Volume 80, page 4971, (1998).","10.1103/PhysRevLett.80.4971",,"cond-mat.supr-con",,"  The vortex matter phase diagram of BSCCO crystals is analyzed by
+investigating vortex penetration through the surface barrier in the presence of
+a transport current. The strength of the effective surface barrier, its
+nonlinearity, and asymmetry are used to identify a possible new ordered phase
+above the first-order transition. This technique also allows sensitive
+determination of the depinning temperature. The solid phase below the
+first-order transition is apparently subdivided into two phases by a vertical
+line extending from the multicritical point.
+","[{""version"":""v1"",""created"":""Sun, 19 Apr 1998 10:35:43 GMT""}]","2009-10-31"
+"hep-ph/9804325","Chih-Lung Chou","Chih-Lung Chou","Fermion Mass Hierarchy without Flavour Symmetry","24 pages, REVTex. Eq.(15) Corrected","Phys. Rev. D 58, 093018 (1998)","10.1103/PhysRevD.58.093018","SLAC-PUB-7761","hep-ph",,"  We discuss a supersymmetric grand unified model which has gauge group SU(5)
+$\times$ SU(5) $\times$ SU(5), with matter fields transforming asymmetrically
+under different gauge SU(5) groups. We observe that the gauge structure of the
+model leads to approximate texture zero structures in fermion mass matrices and
+a natural hierarchy in the Yukawa couplings. The proton lifetime is estimated
+to be larger than $10^{34}$ years in this model. As in more conventional
+supersymmetric GUT models with product gauge groups, this model possesses no
+tensor fields with rank higher than 2, so that it might arise from a level 1
+string construction.
+","[{""version"":""v1"",""created"":""Sat, 18 Apr 1998 21:39:38 GMT""},{""version"":""v2"",""created"":""Tue, 29 Sep 1998 21:30:28 GMT""}]","2016-08-25"
+"math/9804086","Alexei Borodin","Grigori Olshanski","Point processes and the infinite symmetric group. Part I: The general
+  formalism and the density function","AMSTeX, 40 pages","In: The orbit method in geometry and physics: in honor of A. A.
+  Kirillov (C. Duval, L. Guieu, V. Ovsienko, eds), Progress in Math. 213.
+  Birkhauser, 2003, pp. 349-393.",,,"math.RT cond-mat hep-th math.PR nlin.SI solv-int",,"  We study a 2-parametric family of probability measures on an
+infinite-dimensional simplex (the Thoma simplex). These measures originate in
+harmonic analysis on the infinite symmetric group (S.Kerov, G.Olshanski and
+A.Vershik, Comptes Rendus Acad. Sci. Paris I 316 (1993), 773-778). Our approach
+is to interpret them as probability distributions on a space of point
+configurations, i.e., as certain point stochastic processes, and to find the
+correlation functions of these processes.
+  In the present paper we relate the correlation functions to the solutions of
+certain multidimensional moment problems. Then we calculate the first
+correlation function which leads to a conclusion about the support of the
+initial measures. In the appendix, we discuss a parallel but more elementary
+theory related to the well-known Poisson-Dirichlet distribution.
+  The higher correlation functions are explicitly calculated in the subsequent
+paper (A.Borodin, math.RT/9804087). In the third part (A.Borodin and
+G.Olshanski, math.RT/9804088) we discuss some applications and relationships
+with the random matrix theory.
+  The goal of our work is to understand new phenomena in noncommutative
+harmonic analysis which arise when the irreducible representations depend on
+countably many continuous parameters.
+","[{""version"":""v1"",""created"":""Sat, 18 Apr 1998 20:01:50 GMT""}]","2008-03-02"
+"math/9804087","Alexei Borodin","Alexei Borodin","Point Processes and the Infinite Symmetric Group. Part II: Higher
+  Correlation Functions","AMSTeX, 57 pages",,,,"math.RT cond-mat hep-th math.PR nlin.SI solv-int",,"  We continue the study of the correlation functions for the point stochastic
+processes introduced in Part I (G.Olshanski, math.RT/9804086). We find an
+integral representation of all the correlation functions and their explicit
+expression in terms of multivariate hypergeometric functions. Then we define a
+modification (``lifting'') of the processes which results in a substantial
+simplification of the structure of the correlation functions. It turns out that
+the ``lifted'' correlation functions are given by a determinantal formula
+involving a kernel. The latter has the form (A(x)B(y)-B(x)A(y))/(x-y), where A
+and B are certain Whittaker functions. Such a form for correlation functions is
+well known in the random matrix theory and mathematical physics. Finally, we
+get some asymptotic formulas for the correlation functions which are employed
+in Part III (A.Borodin and G.Olshanski, math.RT/9804088).
+","[{""version"":""v1"",""created"":""Sat, 18 Apr 1998 19:57:13 GMT""}]","2007-05-23"
+"math/9804088","Alexei Borodin","Alexei Borodin and Grigori Olshanski","Point processes and the infinite symmetric group. Part III: Fermion
+  point processes","AMSTeX, 20 pages",,,,"math.RT cond-mat hep-th math.PR nlin.SI solv-int",,"  In Part I (G.Olshanski, math.RT/9804086) and Part II (A.Borodin,
+math.RT/9804087) we developed an approach to certain probability distributions
+on the Thoma simplex. The latter has infinite dimension and is a kind of dual
+object for the infinite symmetric group. Our approach is based on studying the
+correlation functions of certain related point stochastic processes.
+  In the present paper we consider the so-called tail point processes which
+describe the limit behavior of the Thoma parameters (coordinates on the Thoma
+simplex) with large numbers. The tail processes turn out to be stationary
+processes on the real line. Their correlation functions have determinantal form
+with a kernel which generalizes the well-known sine kernel arising in random
+matrix theory. Our second result is a law of large numbers for the Thoma
+parameters. We also produce Sturm-Liouville operators commuting with the
+Whittaker kernel introduced in Part II and with the generalized sine kernel.
+","[{""version"":""v1"",""created"":""Sat, 18 Apr 1998 19:52:45 GMT""}]","2007-05-23"
+"physics/9804020","Subhash Kak","Subhash Kak (Louisiana State University, Baton Rouge)","The Speed of Light and Puranic Cosmology","13 pages","Annals Bhandarkar Oriental Research Institute, vol. 80, pp.
+  113-123, 1999.",,,"physics.hist-ph physics.pop-ph physics.soc-ph",,"  We survey early Indian ideas on the speed of light and the size of the
+universe. A context is provided for Sayana's statement (14th century)that the
+speed is 2,202 yojanas per half nimesha (186,000 miles per second!). It is
+shown how this statement may have emerged from early Puranic notions regarding
+the size of the universe. Although this value can only be considered to be an
+amazing coincidence, the Puranic cosmology at the basis of this assertion
+illuminates many ancient ideas of space and time.
+","[{""version"":""v1"",""created"":""Sat, 18 Apr 1998 20:38:30 GMT""},{""version"":""v2"",""created"":""Sat, 30 Dec 2000 22:13:55 GMT""},{""version"":""v3"",""created"":""Mon, 15 Jan 2001 19:35:18 GMT""}]","2007-05-23"

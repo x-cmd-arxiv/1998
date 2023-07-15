@@ -1,0 +1,360 @@
+"astro-ph/9812444","Frederick W. Kantor","Frederick W. Kantor","Cosmological Redshift. An Information Mechanics Perspective","4 pages; LaTeX2e; in press, International Journal of Theoretical
+  Physics","Frederick W. Kantor, International Journal of Theoretical Physics,
+  Vol. 38, No. 3, pp. 993-996, 1999.",,,"astro-ph",,"  A photon's observed wavelength tells an astronomical detector about the
+amount of position information obtained by observing that photon. This amount
+of position information may depend on time in a way which, to first order over
+distances small compared to the size of the universe, might account for the
+cosmological redshift.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 18:12:51 GMT""},{""version"":""v2"",""created"":""Fri, 19 Feb 1999 22:15:47 GMT""},{""version"":""v3"",""created"":""Mon, 22 Feb 1999 21:07:32 GMT""},{""version"":""v4"",""created"":""Tue, 23 Feb 1999 22:36:48 GMT""}]","2007-05-23"
+"astro-ph/9812445","Luis Anchordoqui","Luis A. Anchordoqui","From 3K to $10^{20}$eV","PhD Thesis (summary)",,,,"astro-ph",,"  The problem of predicting the upper cut-off of the cosmic ray spectrum is
+re-examined. Some aspects of extremely high energy interactions and their
+implications for the interpretation of giant air showers are also discussed.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 16:46:56 GMT""}]","2007-05-23"
+"astro-ph/9812446",,"S.M. Kopeikin and L.M. Ozernoy","Post-Newtonian Theory for Precision Doppler Measurements of Binary Star
+  Orbits","Minor changes, 1 Figure included, submitted to Astrophys. J",,"10.1086/307759",,"astro-ph gr-qc",,"  The determination of velocities of stars from precise Doppler measurements is
+described here using relativistic theory of astronomical reference frames so as
+to determine the Keplerian and post-Keplerian parameters of binary systems. We
+apply successive Lorentz transformations and the relativistic equation of light
+propagation to establish the exact treatment of Doppler effect in binary
+systems both in special and general relativity theories. As a result, the
+Doppler shift is a sum of (1) linear in $c^{-1}$ terms, which include the
+ordinary Doppler effect and its variation due to the secular radial
+acceleration of the binary with respect to observer; (2) terms proportional to
+$c^{-2}$, which include the contributions from the quadratic Doppler effect
+caused by the relative motion of binary star with respect to the Solar system,
+motion of the particle emitting light and diurnal rotational motion of
+observer, orbital motion of the star around the binary's barycenter, and
+orbital motion of the Earth; and (3) terms proportional to $c^{-2}$, which
+include the contributions from redshifts due to gravitational fields of the
+star, star's companion, Galaxy, Solar system, and the Earth. After
+parameterization of the binary's orbit we find that the presence of
+periodically changing terms in the Doppler schift enables us disentangling
+different terms and measuring, along with the well known Keplerian parameters
+of the binary, four additional post-Keplerian parameters, including the
+inclination angle of the binary's orbit, $i$. We briefly discuss feasibility of
+practical implementation of these theoretical results, which crucially depends
+on further progress in the technique of precision Doppler measurements.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 04:53:15 GMT""},{""version"":""v2"",""created"":""Sun, 31 Jan 1999 02:52:35 GMT""}]","2009-10-31"
+"cond-mat/9812396","Cliff Burgess","C.P. Burgess and C.A. Lutken","On the Implications of Discrete Symmetries for the Beta Function of
+  Quantum Hall Systems","Minor typographical errors corrected. 6 pages, LaTeX, no figures","Phys.Lett. B451 (1999) 365-371","10.1016/S0370-2693(99)00239-7","McGill-98/36","cond-mat.mes-hall hep-ph hep-th",,"  We argue that the large discrete symmetry group of quantum Hall systems is
+insufficient in itself to determine the complete beta function for the scaling
+of the conductivities, $\sigma_{xx}$ and $\sigma_{xy}$. We illustrate this
+point by showing that a recent ansatz for this function is one of a
+many-parameter family. A clean prediction for the delocalization exponents for
+these systems therefore requires the specification of more information, such as
+past proposals that the beta function is either holomorphic or
+quasi-holomorphic in the variable $z = (\hbar/e^2)(\sigma_{xy} +
+i\sigma_{xx})$.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 19:57:38 GMT""},{""version"":""v2"",""created"":""Tue, 29 Dec 1998 21:03:13 GMT""}]","2015-06-25"
+"cond-mat/9812397","Roos Pascal","Pascal Roos and Seiji Miyashita","Temperature dependence of local states due to S=1/2 impurities and their
+  correlation in a S=1 Heisenberg chain","13 pages, 16 figures. Corrected version due to inverted picture 3a
+  and 3b. RevTex. Submitted to Phys. Rev. B",,"10.1103/PhysRevB.59.13782",,"cond-mat.str-el cond-mat.stat-mech",,"  We study the temperature dependence of the low temperature spin
+configurations, investigating the magnetization profile of the local states due
+to the impurities and the two point correlation function centered in one of the
+impurities. This correlation is found to be weak against temperature effects
+although the magnetization profile in the triplet state is visible up to higher
+temperatures. Here we introduce a loop cluster quantum Monte-Carlo method with
+a fixed magnetization Mz in order to study the correlations in the ground state
+of a given value of Mz. From the population distribution of magnetization, the
+very small energy gap between the quasi degenerate states due to the impurities
+is obtained.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 05:19:38 GMT""},{""version"":""v2"",""created"":""Tue, 19 Jan 1999 14:01:36 GMT""}]","2009-10-31"
+"cond-mat/9812398","Masanori Ichioka","Kazushige Machida, Masanori Ichioka (Okayama Univ.)","Stripe structure, spectral feature and soliton gap in high Tc cuprates","4 pages RevTex, 5 figures","J. Phys. Soc. Jpn. 68, 2168 (1999).","10.1143/JPSJ.68.2168",,"cond-mat.str-el",,"  We show that the lightly doped La_{2-x}Sr_{x}CuO_{4} can be described in
+terms of a stripe magnetic structure or soliton picture. The internal
+relationship between the recent neutron observation of the diagonal (x=0.05) to
+vertical (x >= 0.06) stripe transition, which was predicted, and the
+concomitant metal-insulator transition is clarified by this solitonic physics.
+The phase diagram with the unidentified transition lines between
+antiferromagnetic to stripe phases, the doping dependence of the modulation
+period, the origin of the mid-infrared optical absorption are investigated
+comparatively with other single layer systems: La_{2-x}Sr_{x}NiO_{4} and
+(La,Nd)_{2-x}Sr_{x}CuO_{4}. The novel type of quasi-particles and holes is
+fully responsible for metallic conduction and ultimately superconductivity.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 05:26:32 GMT""}]","2009-10-31"
+"cond-mat/9812399","Suncica Elezovic Hadjic","Sava Milosevic (Faculty of Physics, University of Belgrade), Ivan
+  Zivic (Faculty of Natural Sciences and Mathematics, University of
+  Kragujevac), Suncica Elezovic-Hadzic (Faculty of Physics, University of
+  Belgrade)","Comment on ``Critical behavior of the chain--generating function of
+  self--avoiding walks on the Sierpinski gasket family: The Euclidean limit''","7 pages (REVTEX), 4 figures (EPS), submitted to Phys. Rev. E",,,,"cond-mat.stat-mech",,"  We refute the claims made by Riera and Chalub [Phys.Rev.E {\bf 58}, 4001
+(1998)] by demonstrating that they have not provided enough data (requisite in
+their series expansion method) to draw reliable conclusions about criticality
+of self-avoiding walks on the Sierpinski gasket family of fractals.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 14:44:08 GMT""},{""version"":""v2"",""created"":""Tue, 29 Dec 1998 16:58:48 GMT""}]","2009-09-25"
+"hep-ex/9812031","Jurgen Engelfried","SELEX Collaboration: J. Russ, et al","First Charm Hadroproduction Results from SELEX","5 pages with 5 figures (postscript). Invited talk presented by J.Russ
+  at the 1998 International Conference on High Energy Physics, Vancouver, B.C.,
+  Canada, July 1998. To be published in the proceedings",,,"CMU-HEP98-07, DOE-ER/40682-103","hep-ex",,"  The SELEX experiment (E781) at Fermilab is a 3-stage magnetic spectrometer
+for the high statistics study of charm hadroproduction out to large x_F using
+600 GeV Sigma^-, p and pi beams. The main features of the spectrometer are:
+high precision silicon vertex system, broad-coverage particle identification
+with TRD and RICH, 3-stage lead glass photon detector. Preliminary results on
+differences in hadroproduction characteristics of charm mesons and Lambda_c^+
+for x_F>0.3 are reported. For baryon beams there is a striking asymmetry in the
+production of baryons compared to antibaryons. Leading particle effects for all
+incident hadrons are discussed.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 17:52:27 GMT""}]","2007-05-23"
+"hep-ex/9812032","Gagunashvilli N.","N. Gagunashvili","Stable Algorithm for Extraction of Asymmetries from the Data on
+  Polarized Lepton-Nucleon Scattering","10 pages, latex + 4 eps figures","Nucl.Instrum.Meth. A451 (2000) 657-661","10.1016/S0168-9002(00)00335-1","JINR E1-98-333","hep-ex",,"  A new algorithm for extraction of asymmetries from polarized lepton-nucleon
+scattering data is proposed. The algorithm is stable to set-up acceptance
+and/or luminosity monitor acceptance variations. A statistical test for
+checking the data quality is proposed.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 10:39:29 GMT""}]","2009-10-31"
+"hep-ph/9812500","Wei-Min Zhang","Chi-Yee Cheung and Wei-Min Zhang","Nonperturbative Determination of Heavy Meson Bound States","15 pages, 1 figure","Phys.Rev.D60:014017,1999","10.1103/PhysRevD.60.014017",,"hep-ph",,"  In this paper we obtain a heavy meson bound state equation from the heavy
+quark equation of motion in heavy quark effective theory (HQET) and the heavy
+meson effective field theory we developed very recently. The bound state
+equation is a covariant extention of the light-front bound state equation for
+heavy mesons derived from light-front QCD and HQET. We determine the covariant
+heavy meson wave function variationally by minimizing the binding energy
+$\bar{\Lambda}$. Subsequently the other basic HQET parameters $\lambda_1$ and
+$\lambda_2$, and the heavy quark masses $m_b$ and $m_c$ can also be
+consistently determined.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 18:19:32 GMT""}]","2008-11-26"
+"hep-ph/9812501","Oleg Lebedev","Oleg Lebedev (Virginia Tech)","Probing Spontaneous CP-Violation in Supersymmetric Models via B-Decays","13 pages, 4 figures, revised","Phys.Lett.B452:294-300,1999","10.1016/S0370-2693(99)00231-2","VPI-IPPAP-98-10","hep-ph",,"  We study implications of spontaneous CP-violation in minimal susy models for
+CP-asymmetries in rare $B,\bar B$-decays. In particular, we estimate
+characteristic values of the angles of the unitarity triangle and show that
+sizeable CP-violating effects result from $B-\bar B$ mixing only. Significant
+deviations from the SM predictions are pointed out.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 19:21:41 GMT""},{""version"":""v2"",""created"":""Thu, 11 Feb 1999 18:06:20 GMT""}]","2010-11-23"
+"hep-ph/9812502","Kenichi Naito","K. Naito, K. Yoshida, Y. Nemoto, M. Oka and M. Takizawa","Finite Quark Mass Effects in the Improved Ladder Bethe-Salpeter
+  Amplitudes","32 pages, LaTex, 11 figures","Phys.Rev. C59 (1999) 1722-1734","10.1103/PhysRevC.59.1722","TIT/HEP-405/NP","hep-ph",,"  We study the finite quark mass effects of the low-energy QCD using the
+improved ladder Schwinger-Dyson and Bethe-Salpeter equations which are derived
+in the manner consistent with the vector and axial-vector Ward-Takahashi
+identities. The non-perturbative mass-independent renormalization allows us to
+calculate the quark condensate for a non-zero quark mass. We explicitly show
+that the PCAC relation holds. The key ingredients are the
+Cornwall-Jackiw-Tomboulis effective action, the generalized Noether current and
+the introduction of the regularization function to the Lagrangian. The
+reasonable values of the pion mass, the pion decay constant and the quark
+condensate are obtained with a rather large $\Lambda_{QCD}$. The pion mass
+square and the pion decay constant are almost proportional to the current quark
+mass up to the strange quark mass region. It suggests that the chiral
+perturbation is applicable up to the strange quark mass region.
+  We study the validity of the approximation often used in solving the
+Bethe-Salpeter equations too.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 07:49:43 GMT""}]","2009-10-31"
+"hep-ph/9812503","Valeri Yudichev","D. Blaschke (1), G. Burau (1), M. K. Volkov (2), V. L. Yudichev (2)
+  ((1) Rostock Univ., Germany, (2) JINR, Dubna, Russia)","NJL model with infrared confinement","LaTeX, 12 pages, 3 figures, 1 table",,,"MPG-VT-UR-178/98","hep-ph",,"  We consider an extended Nambu--Jona-Lasinio (NJL) model for the light meson
+sector of QCD where unphysical quark production thresholds are excluded by an
+infrared cut-off on the momentum integration within quark loop diagrams. This
+chiral quark model conserves the low energy theorems. The infrared cut-off is
+fixed selfconsistently by the dynamically generated quark mass (quark
+condensate). The masses and decay widths of the \sigma- and \rho-mesons are
+described in the model.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 15:15:05 GMT""}]","2007-05-23"
+"hep-th/9812229","Harutada Sato","Haru-Tada Sato and Michael G. Schmidt (Heidelberg U.)","World-line approach to the Bern-Kosower formalism in two-loop Yang-Mills
+  theory","37(+1) pages, details added for section 2","Nucl.Phys. B560 (1999) 551-586","10.1016/S0550-3213(99)00386-7","HD-THEP-98-64","hep-th hep-ph",,"  Based on the world-line formalism with a sewing method, we derive the
+Yang-Mills effective action in a form useful to generate the Bern-Kosower-type
+master formulae for gluon scattering amplitudes at the two-loop level. It is
+shown that four-gluon ($\Phi^4$ type sewing) contributions can be encapsulated
+in the action with three-gluon ($\Phi^3$ type) vertices only, the total action
+thus becoming a simple expression. We then derive a general formula for a
+two-loop Euler-Heisenberg type action in a pseudo-abelian $su(2)$ background.
+The ghost loop and fermion loop cases are also studied.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 19:20:39 GMT""},{""version"":""v2"",""created"":""Tue, 1 Jun 1999 12:30:59 GMT""}]","2009-10-31"
+"hep-th/9812230","Supriya Kar","Supriya Kar","Path-Integral Formulation of Dirichlet String in General Backgrounds","23 pages, LaTex, corrected typos, added reference, version to appear
+  in Nuclear Physics B","Nucl.Phys.B554:163-182,1999","10.1016/S0550-3213(99)00292-8","Goteborg-ITP-98-20","hep-th",,"  We investigate the dynamics of an arbitrary Dirichlet (D-) string in presence
+of general curved backgrounds following a path-integral formalism. In
+particular, we consider the interaction of D-string with the massless
+excitations of closed string in open bosonic string theory. The background
+fields induce invariant curvatures on the D-string manifold and the extrinsic
+curvature can be seen to contain a divergence at the disk boundary. The
+re-normalization of D-string coordinates, next to the leading order in its
+derivative expansion, is performed to handle the divergence. Then we obtain the
+generalized Dirac-Born-Infeld action representing the effective dynamics of
+D-string in presence of the non-trivial backgrounds. On the other hand,
+D-string acts as a source for the Ramond-Ramond two-form which induces an
+additional (lower) form due to its coupling to the U(1) gauge invariant fields
+on the D-string. These forms are reviewed in this formalism for an arbitrary
+D-string and is encoded in the Wess-Zumino action. Quantization of the D-string
+collective coordinates, in the U(1) gauge sector, is performed by taking into
+account the coupling to the lower form and the relevant features of D-string
+are analyzed in presence of the background fields.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 22:15:15 GMT""},{""version"":""v2"",""created"":""Mon, 28 Dec 1998 14:22:54 GMT""},{""version"":""v3"",""created"":""Tue, 11 May 1999 13:42:46 GMT""}]","2008-11-26"
+"hep-th/9812231","Okumura Yoshitaka","Hiromi Kase, Katsusada Morita and Yoshitaka Okumura","Lagrangian Formulation of Connes' Gauge Theory","9 pages, PTPTEX.sty","Prog.Theor.Phys. 101 (1999) 1093-1103","10.1143/PTP.101.1093","CHUBU-9603","hep-th",,"  It is shown that Connes' generalized gauge field in non-commutative geometry
+is derived by simply requiring that Dirac lagrangian be invariant under local
+transformations of the unitary elements of the algebra, which define the gauge
+group. The spontaneous breakdown of the gauge symmetry is guaranteed provided
+the chiral fermions exist in more than one generations as first observed by
+Connes-Lott. It is also pointed out that the most general gauge invariant
+lagrangian in the bosonic sector has two more parameters than in the original
+Connes-Lott scheme.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 06:41:58 GMT""}]","2009-10-31"
+"hep-th/9812232","Ryu Sasaki","A.J. Bordner, R. Sasaki (YITP, Kyoto)","Calogero-Moser Models III: Elliptic Potentials and Twisting","LaTeX2e with amsfonts.sty, 36 pages, no figures","Prog.Theor.Phys. 101 (1999) 799-829","10.1143/PTP.101.799","YITP-98-76","hep-th math-ph math.MP nlin.SI solv-int",,"  Universal Lax pairs of the root type with spectral parameter and independent
+coupling constants for twisted non-simply laced Calogero-Moser models are
+constructed. Together with the Lax pairs for the simply laced models and
+untwisted non-simply laced models presented in two previous papers, this
+completes the derivation of universal Lax pairs for all of the Calogero-Moser
+models based on root systems. As for the twisted models based on B_n, C_n and
+BC_nroot systems, a new type of potential term with independent coupling
+constants can be added without destroying integrability. They are called
+extended twisted models. All of the Lax pairs for the twisted models presented
+here are new, except for the one for the F_4 model based on the short roots.
+The Lax pairs for the twisted G_2 model have some novel features. Derivation of
+various functions, twisted and untwisted, appearing in the Lax pairs for
+elliptic potentials with the spectral parameter is provided. The origin of the
+spectral parameter is also naturally explained. The Lax pairs with spectral
+parameter, twisted and untwisted, for the hyperbolic, the trigonometric and the
+rational potential models are obtained as degenerate limits of those for the
+elliptic potential models.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 08:07:41 GMT""}]","2009-10-31"
+"math-ph/9812026","Nikita A. Slavnov","V. E. Korepin (State University of New York, Stony Brook, USA) and N.
+  A. Slavnov (Steklov Mathematical Institute, Moscow, Russia)","The form factors in the finite volume","16 pages, Latex, no figures","Int.J.Mod.Phys. B13 (1999) 2933-2942","10.1142/S0217979299002769","MI-98-86","math-ph math.MP",,"  The form factors of integrable models in finite volume are studied. We
+construct the explicite representations for the form factors in terms of
+determinants.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 10:55:24 GMT""}]","2009-10-31"
+"math/9812136","Bruce E. Sagan","Bruce E. Sagan","Why the characteristic polynomial factors","28 pages, 4 figures, Latex, to be published in AMS Bulletin","Bull. Amer. Math. Soc. 36 (1999), 113-134",,,"math.CO",,"  We survey three methods for proving that the characteristic polynomial of a
+finite lattice factors over the nonnegative integers and indicate how they have
+evolved recently. The first technique uses geometric ideas and is based on
+Zaslavsky's theory of signed graphs. The second approach is algebraic and
+employs results of Saito and Terao about free hyperplane arrangements. Finally,
+we consider a purely combinatorial theorem of Stanley about semimodular
+supersolvable lattices and its generalizations.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 20:54:11 GMT""}]","2007-05-23"
+"math/9812141","Gaetano Fiore","Gaetano Fiore, John Madore","The Hidden Geometry of the Quantum Euclidean Space","latex file, 9 pages, no figure. Talk given at QGS98, Prague","Czech. J. of Phys. 48 (1998), 1331-1336","10.1023/A:1021636618344","Preprint 98-61 Dip. Matematica Univ. Napoli","math.QA hep-th",,"  We briefly describe how to introduce the basic notions of noncommutative
+differential geometry on the 3-dim quantum space covariant under the quantum
+group of rotations $SO_q(3)$.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 16:29:55 GMT""}]","2012-09-28"
+"math/9812142","Andrea Maffei","Andrea Maffei","Quiver varieties of type A","18 pages, Latex2e",,,,"math.AG",,"  Improvements in the exposition.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 18:10:24 GMT""},{""version"":""v2"",""created"":""Fri, 24 Mar 2000 02:10:54 GMT""}]","2007-05-23"
+"math/9812143","S. C. Woon","S.C. Woon (U. of Cambridge)","A New Representation of the Riemann Zeta Function $\zeta(s)$","12 pages, 2 figures, LaTeX2e, \usepackage[dvips]",,,,"math.NT math-ph math.CA math.CO math.CV math.MP math.NA",,"  A generalization of a well-known relation between the Riemann zeta function
+$\zeta(s)$ and Bernoulli numbers $B_n$ is obtained. The formula is a new
+representation of the Riemann zeta function in terms of a nested series of
+Bernoulli numbers.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 21:22:56 GMT""}]","2007-05-23"
+"math/9812144","Yu Zu-guo","Zu-Guo Yu and Fu-Yao Ren","Noise and chaotic disturbance on self-similar set","9 pages with no figures","The Southeast Asian Bull. of Math. 23(1) (1998)145-152",,,"math.CA",,"  The effect of noise on self-similar set is studied. The iteratie procedure
+used to generate the self-similar set is moidified by adding a stochastic
+variable to the diameter of generating sets at each iteration. The noise may
+causes the generating set to collapse to a point. Distribution functions are
+found describing the probability that any generating set collapse. The effect
+of chaotic disturbance on the iteration of self-similar set is studied. It is
+shown that the iterative procedure which describes the self-similar set is
+truncated under the influence of disturbance generated by the tent map.
+Conditions which lead to truncation of any chaotic map are also obtained.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 06:59:20 GMT""}]","2007-05-23"
+"math/9812145","Red Hat Linux User","H. Ahmedov and I. H. Duru","Quantum Analogue of the Neumann Function of Integer Order","latex, 6 pages",,,"FGI-99-4","math.QA",,"  q-Neumann function of integer order N_n(x,q) is obtained and some of its
+properties are given. q-Psi function which is used in deriving N_n(x,q) is also
+introduced and some of its properties are presented.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 13:54:35 GMT""},{""version"":""v2"",""created"":""Tue, 16 Mar 1999 14:18:16 GMT""}]","2007-05-23"
+"nucl-ex/9812011","Rainer Jahn","F. Bellemann, A. Berg, J. Bisplinghoff, G. Bohlscheid, J. Ernst, C.
+  Henrich, F. Hinterberger, R. Ibald, R. Jahn, L. Jarczyk, R. Joosten, A.
+  Kozela, H. Machner, A. Magiera, R. Maschuw, T. Mayer-Kuckuk, G. Mertler, J.
+  Munkel, P.von Neumann-Cosel, D. Rosendaal, P. von Rossen, H. Schnitker, K.
+  Scho, J. Smyrski, A. Strzalkowski, R. Toelle, and C. Wilkin","P-wave dominance in the pd -> 3He pi+ pi- reaction near threshold
+  measured with the MOMO experiment at COSY","9 pages, 2 figures",,,,"nucl-ex",,"  The cross section of the pd -> 3He pi+ pi - reaction has been measured at the
+MOMO facility in a kinematically complete experiment at a c. m. excess energy
+of Q = 70 MeV. The energy and angular distributions show that the reaction is
+dominated by p-wave pi+ pi- pairs. This is in complete contrast to the results
+of inclusive measurements at somewhat higher energies which show a strong
+s-wave ABC enhancement at low pi pi masses. There are however indications of
+p-wave pion pairs from other experiments at low Q.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 16:26:54 GMT""}]","2007-05-23"
+"nucl-th/9812068","T. Goldman","Jia-Lun Ping (Nanjing Normal U.), Fan Wang (Nanjing U.) and T. Goldman
+  (Los Alamos)","Effective Baryon-Baryon Potentials in the Quark Delocalization and Color
+  Screening Model","12 pp. RevTeX + 8 figs.ps, submitted to Nucl. Phys. A","Nucl.Phys.A657:95-109,1999","10.1016/S0375-9474(99)00321-8","LA-UR-98-5727","nucl-th",,"  The quark delocalization and color screening model is used for a systematic
+study of the effective potential between baryons in the u,d and s sector. The
+model is constrained by the properties of baryons and N-N scattering. The
+effective potentials for the N-N (IJ=01,10,11,00) channels and the N-Lambda and
+N-Sigma (IJ = (1/2)1, (1/2)0, (3/2)1, (3/2)0) channels fit the N-N, N-Lambda
+and N-Sigma scattering data reasonably well. This model predicts: There are
+rather strong effective attractions between decuplet-baryons; the effective
+attractions between octet-baryons are weak or even repulsive; and the
+attractions between decuplet- and octet-baryons lie in between.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 21:15:22 GMT""}]","2008-11-26"
+"nucl-th/9812069","Stepan G. Mashnik","Stepan G. Mashnik and Arnold J. Sierk","Improved Cascade-Exciton Model of Nuclear Reactions","23 pages, 12 figures, LaTeX, Talk given at the Fourth Workshop on
+  Simulating Accelerator Radiation Environments (SARE4), Knoxville, Tennessee,
+  September 14-16, 1998",,,"LANL Report LA-UR-98-5999 (1998)","nucl-th",,"  Recent improvements to the Cascade-Exciton Model (CEM) of nuclear reactions
+are briefly described. They concern mainly the cascade stage of reactions and a
+better description of nuclei during the preequilibrium and evaporation stages
+of reactions. The development of the CEM concerning fission is given in a
+separate talk at this conference. The increased accuracy and predictive power
+of the CEM are shown by several examples. Possible further improvements to the
+CEM and other models are discussed.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 23:19:32 GMT""}]","2007-05-23"
+"nucl-th/9812070","Stepan G. Mashnik","Arnold J. Sierk and Stepan G. Mashnik","Modeling Fission in the Cascade-Exciton Model","15 pages, 5 figures, LaTeX, Talk given at the Fourth Workshop on
+  Simulating Accelerator Radiation Environments (SARE4), Knoxville, Tennessee,
+  September 14-16, 1998",,,"LANL Report LA-UR-98-5998 (1998)","nucl-th",,"  Recent developments of the Cascade-Exciton Model (CEM) of nuclear reactions
+to describe high energy particle induced fission are briefly described. The
+increased accuracy and predictive power of the CEM are shown by several
+examples. Further necessary work is outlined.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 00:09:24 GMT""}]","2007-05-23"
+"nucl-th/9812071","Stepan G. Mashnik","S. G. Mashnik, A. J. Sierk, K. A. Van Riper, and W. B. Wilson","Production and Validation of Isotope Production Cross Section Libraries
+  for Neutrons and Protons to 1.7 GeV","11 pages, 2 figures, LaTeX, Talk given at the Fourth Workshop on
+  Simulating Accelerator Radiation Environments (SARE4), Knoxville, Tennessee,
+  September 14-16, 1998",,,"LANL Report LA-UR-98-6000 (1998)","nucl-th nucl-ex",,"  For validation and development of codes and for modeling isotope production
+in high power accelerators and APT Materials studies, we have produced
+experimental, calculated, and evaluated activation libraries for interaction of
+nucleons with nuclides covering about a third of all natural elements. For
+targets considered here, our compilation of experimental data is the most
+complete we are aware of, since it contains all data available on the Web, in
+journal papers, laboratory reports, theses, and books, as well as all data
+included in the large compilation by Sobolevsky with co-authors (NUCLEX)
+published recently by Springer-Verlag in 4 volumes. Our evaluated library was
+produced using all available experimental cross sections together with
+calculations by the CEM95, LAHET, and HMS-ALICE codes and with the European
+Activation File EAF-97 and LANL Update II of the ECNAF Neutron Activation
+Cross-Section Library.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 00:45:31 GMT""}]","2007-05-23"
+"nucl-th/9812072","Toru Sato","H. Nabetani, T. Ogaito, T. Sato, T. Kishimoto","Spin observables in the $pn \to p \Lambda$ reaction","7pages,ReVTeX,no figures","Phys.Rev. C60 (1999) 017001","10.1103/PhysRevC.60.017001",,"nucl-th",,"  The T matrix of the LambdaN-> NN reaction, which is a strangeness changing
+weak process, is derived. The explicit formulas of the spin observables are
+given for s-wave p-Lambda final states which kinematically corresponds to
+inverse reaction of the weak nonmesonic decay of Lambda hypernuclei. One can
+study interferences between amplitudes of parity- conserving and violating,
+spin- singlet and triplet and isospin- singlet and triplet. Most of them are
+not available in the study of the nonmesonic decay. They clarify structure of
+the reaction and constrain strongly theoretical models for weak hyperon nucleon
+interaction.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 12:19:16 GMT""}]","2009-10-31"
+"patt-sol/9812009","Boris Malomed","Andrey Maimistov (Moscow Engineering Physics Institute, Moscow,
+  Russia), Boris Malomed (Faculty of Engineering, Tel Aviv University, Tel
+  Aviv, Israel), and Anton Desyatnikov (Moscow Engineering Physics Institute,
+  Moscow, Russia)","A Potential of Incoherent Attraction Between Multidimensional Solitons","latex, no figures, submitted to Physics Letters A",,"10.1016/S0375-9601(99)00148-6",,"patt-sol nlin.PS",,"  We obtain analytical expressions for an effective potential of interaction
+between two- and three-dimensional (2D and 3D) solitons (including the case of
+2D vortex solitons) belonging to two different modes which are incoherently
+coupled by cross-phase modulation. The derivation is based on calculation of
+the interaction term in the full Hamiltonian of the system. An essential
+peculiarity is that, in the 3D case, as well as in the case of 2D solitons with
+unequal masses, the main contribution to the interaction potential originates
+from a vicinity of one or both solitons, similarly to what was recently found
+in the 2D and 3D single-mode systems, while in the case of identical 2D
+solitons, the dominating area covers all the space between the solitons. Unlike
+the single-mode systems,_stable_ bound states of mutually orbiting solitons are
+shown to be possible in the bimodal system.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 13:56:30 GMT""}]","2009-10-31"
+"physics/9812045","Nikolay A. Zabotin","A.G. Bronin, S.M. Grach, G.A. Zhbankov, N.A. Zabotin","Dependence of Ordinary Wave Anomalous Absorption on the sounding Problem
+  Parameters","HTML format, 6 figures",,,,"physics.plasm-ph",,"  The paper describes the straightforward method of calculation of anomalous
+absorption of ordinary wave due to transformation into plasma wave in the
+upper-hybrid resonance region of magnetized plasma with random irregularities.
+The method is based on the general approach to calculation of scattering or
+transformation cross-sections in magnetized plasma. The expressions for
+anomalous attenuation obtained in the paper take into account the thermal
+motions of the particles and have a wide area of application. Numeric
+estimations of anomalous absorption for different conditions are carried out.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 11:53:39 GMT""}]","2007-05-23"
+"quant-ph/9812073","Lauro Tomio","F.A.B. Coutinho, Y. Nogami and Lauro Tomio","Validity of Feynman's prescription of disregarding the Pauli principle
+  in intermediate states",,,"10.1103/PhysRevA.59.2624",,"quant-ph hep-ph",,"  Regarding the Pauli principle in quantum field theory and in many-body
+quantum mechanics, Feynman advocated that Pauli's exclusion principle can be
+completely ignored in intermediate states of perturbation theory. He observed
+that all virtual processes (of the same order) that violate the Pauli principle
+cancel out. Feynman accordingly introduced a prescription, which is to
+disregard the Pauli principle in all intermediate processes. This ingeneous
+trick is of crucial importance in the Feynman diagram technique. We show,
+however, an example in which Feynman's prescription fails. This casts doubts on
+the general validity of Feynman's prescription.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 18:21:54 GMT""}]","2009-10-31"
+"quant-ph/9812074","Lauro Tomio","F.A.B. Coutinho, Y. Nogami and Lauro Tomio","Two definitions of the electric polarizability of a bound system in
+  relativistic quantum theory",,,"10.1119/1.19362",,"quant-ph",,"  For the electric polarizability of a bound system in relativistic quantum
+theory, there are two definitions that have appeared in the literature. They
+differ depending on whether or not the vacuum background is included in the
+system. A recent confusion in this connection is clarified.
+","[{""version"":""v1"",""created"":""Thu, 24 Dec 1998 18:43:34 GMT""}]","2009-10-31"
+"solv-int/9812027","Nugmanova G. N.","F.B.Altynbaeva, A.K.Danlybaeva, G.N.Nugmanova and R.N.Syzdykova","On some soliton equations in 2+1 dimensions and their 1+1 and/or 2+0
+  dimensional integrable reductions","18 pages, Latex, no figures",,,,"solv-int nlin.SI",,"  Some soliton equation in 2+1 dimensions and their 1+1 and/or dimensional
+integrable reductions are considered.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 09:58:55 GMT""}]","2007-05-23"
+"solv-int/9812028","Nikita A. Slavnov","N. A. Slavnov (Steklov Mathematical Institute, Moscow, Russia)","Integral equations for the correlation functions of the quantum
+  one-dimensional Bose gas","22 pages, Latex, no figures",,"10.1007/BF02557233","MI-98-91","solv-int nlin.SI",,"  The large time and long distance behavior of the temperature correlation
+functions of the quantum one-dimensional Bose gas is considered. We obtain
+integral equations, which solutions describe the asymptotics. These equations
+are closely related to the thermodynamic Bethe Ansatz equations. In the low
+temperature limit the solutions of these equations are given in terms of
+observables of the model.
+","[{""version"":""v1"",""created"":""Fri, 25 Dec 1998 10:56:52 GMT""}]","2009-10-31"

@@ -1,0 +1,200 @@
+"astro-ph/9805303","F. Douglas Swesty","F. Douglas Swesty","Gray Models of convection in core collapse supernovae","10 Pages",,,"SN-98-1","astro-ph",,"  One of the major difficulties encountered in modeling core collapse
+supernovae is obtaining an accurate description of the transport of neutrinos
+through the collapsed stellar core. The behavior of the neutrino distribution
+function transitions from an LTE distribution in the center of the core to a
+non-LTE distribution in the outer regions of the core. One method that has been
+recently employed in order to model the flow of neutrinos in 2-D models is the
+gray approximation. This approximation assumes that the neutrino distribution
+can be described by a function that is parameterized in terms of a neutrino
+temperature and a neutrino chemical potential. However, these parameters must
+be assumed. Furthermore, the parameters will also differ between the LTE and
+NLTE regions. Additionally, within the gray approximation the location at which
+the neutrino distribution function transitions from LTE to NLTE must be
+assumed. By considering a series of models where the LTE/NLTE decoupling point
+is varied we show that the outcome of the numerical models is critically
+sensitive to the choice of the decoupling point when the gray approximation is
+employed. We also examine the effects of the neutrino--electron scattering
+(NES) rate which is difficult to correctly formulate within the gray
+approximation. We show that NES has a dramatic affect on the the overall
+neutrino heating rate and the dynamics of the model. This result conflicts with
+the results of high resolution multi-group models which model neutrino
+transport without employing the gray approximation.
+","[{""version"":""v1"",""created"":""Sun, 24 May 1998 04:27:35 GMT""}]","2007-05-23"
+"astro-ph/9805304","N. W. Evans","G. Gyuk (Trieste), N.W. Evans (Oxford), E.I. Gates (Chicago)","Brown Dwarfs, White Knights and Demons","15 pages, 3 figures, in press at The Astrophysical Journal (Letters)",,"10.1086/311478",,"astro-ph",,"  This paper investigates the hypothesis that the lensing objects towards the
+Large Magellanic Cloud (LMC) are brown dwarfs by analysing the effects of
+velocity anisotropy on the inferred microlensing masses. To reduce the masses,
+the transverse velocity of the lenses with respect to the microlensing tube
+must be minimised. In the outer halo, radial anisotropy is best for doing this;
+closer to the solar circle, azimuthal anisotropy is best. By using a constraint
+on the total kinetic energy of the tracer population from the Jeans equations,
+the microlensing mass is minimised over orientations of the velocity dispersion
+tensor. This minimum mass is about a tenth of a solar mass, which lies above
+the hydrogen burning limit. This demonstrates explicitly that populations of
+brown dwarfs with smoothly decreasing densities and dynamically mixed velocity
+distributions cannot be responsible for the microlensing events. Brown dwarfs
+are no white knights! There is one caveat. If there are demons sitting on the
+microlensing tube, they can drop brown dwarfs so as to reproduce the
+microlensing data-set exactly. Such a distribution is not smooth and does not
+give well-mixed velocities in phase space. It is a permissible solution only if
+the outer halo is dynamically young and lumpy. In such a case, theorists cannot
+rule out brown dwarfs. Only exorcists can!
+","[{""version"":""v1"",""created"":""Sun, 24 May 1998 14:28:47 GMT""}]","2009-10-30"
+"astro-ph/9805305","N. W. Evans","N.W. Evans (Oxford) and J.C.A. Read (Oxford)","Stability of Power-Law Disks I -- The Fredholm Integral Equation","27 pages, 9 figures, in press at Monthly Notices",,"10.1046/j.1365-8711.1998.01863.x",,"astro-ph",,"  The power-law disks are a family of infinitesimally thin, axisymmetric
+stellar disks of infinite extent. The rotation curve can be rising, falling or
+flat. The self-consistent power-law disks are scale-free, so that all physical
+quantities vary as a power of radius. They possess simple equilibrium
+distribution functions depending on the two classical integrals, energy and
+angular momentum. While maintaining the scale-free equilibrium force law, the
+power-law disks can be transformed into cut-out disks by preventing stars close
+to the origin (and sometimes also at large radii) from participating in any
+disturbance. This paper derives the homogeneous Fredholm integral equation for
+the in-plane normal modes in the self-consistent and the cut-out power-law
+disks. This is done by linearising the collisionless Boltzmann equation to find
+the response density corresponding to any imposed density and potential. The
+normal modes -- that is, the self-consistent modes of oscillation -- are found
+by requiring the imposed density to equal the response density. In practice,
+this scheme is implemented in Fourier space, by decomposing both imposed and
+response densities in logarithmic spirals. The Fredholm integral equation then
+relates the transform of the imposed density to the transform of the response
+density. Numerical strategies to solve the integral equation and to isolate the
+growth rates and the pattern speeds of the normal modes are discussed.
+","[{""version"":""v1"",""created"":""Sun, 24 May 1998 15:44:00 GMT""}]","2017-01-04"
+"cond-mat/9805301","Wentao T. Lu","F. Y. Wu (Northeastern University)","Self-dual property of the Potts model in one dimension","RevTex file, 6 pages, 1 fig, submitted to Physics Letters A",,,,"cond-mat.stat-mech",,"  A new duality relation is derived for the Potts model in one dimension. It is
+shown that the partition function is self-dual with the nearest-neighbor
+interaction and the external field appearing as dual parameters. Zeroes of the
+partition function are analyzed. Particularly, we show that the new duality
+relation implies a circle theorem in the complex temperature plane for the
+one-dimensional Ising model.
+","[{""version"":""v1"",""created"":""Sat, 23 May 1998 18:07:47 GMT""},{""version"":""v2"",""created"":""Tue, 26 May 1998 22:15:09 GMT""}]","2007-05-23"
+"cond-mat/9805302","Alexander Litvinchuk","A.P. Litvinchuk","Comment on ""Temperature dependence of the Raman-active B_{1g} and A_{1g}
+  modes in YNi_2B_2C""","2 pages",,,"Preprint of the Texas Center for Superconductivity No. 98:028","cond-mat.supr-con",,"  Both principal conclusions of Hirata and Takeya paper (Phys. Rev. B 57, 2671
+(1998)) dealing with an analysis of the electron-phonon coupling strengths and
+stating the existence of two boron-related fully symmetric phonon modes in
+YNi_2B_2C are argued not to be supported by experimental data and not
+justified.
+","[{""version"":""v1"",""created"":""Sat, 23 May 1998 19:20:11 GMT""}]","2007-05-23"
+"cond-mat/9805303",,"Hai-cang Ren and Maw-kuen Wu","On T-violation signals originating from magnetic orders through double
+  exchange mechanism","21 pages",,,"RU98-5-B","cond-mat.str-el",,"  The photon self energy tensor in a crystal with double exchange and
+ferromagnetic or canting magnetic orders is analyzed at zero temperature with
+emphasis on the signal of the time-reversal invariance breaking. Three
+comparable contributions, spin susceptibility, local magnetic field and
+spin-orbit coupling are estimated and the prospect of their experimental
+detection is discussed.
+","[{""version"":""v1"",""created"":""Sat, 23 May 1998 20:11:04 GMT""}]","2007-05-23"
+"cond-mat/9805304","Victor Makhro","V. V. Makhro","Thermally assisted domain walls quantum tunneling at the high
+  temperature range","5 pages, 3 figures","J. Phys.: Condens. Matter 10 6911-6918 (1998)","10.1088/0953-8984/10/31/009",,"cond-mat.mes-hall",,"  A theoretical and numerical investigations of the quantum tunneling of the
+domain walls in ferromagnets and weak ferromagnets was performed taking into
+account the interaction between walls and thermal excitations of a crystal. The
+numerical method for calculations of the probability of a thermally stimulated
+quantum depinning as the function of temperature at the wide temperature range
+has been evolved.
+","[{""version"":""v1"",""created"":""Sun, 24 May 1998 00:53:04 GMT""},{""version"":""v2"",""created"":""Sat, 30 May 1998 05:15:37 GMT""}]","2009-10-31"
+"cond-mat/9805305","T. A. Arias","T.D. Engeness and T.A. Arias","A Multiscale Approach to Determination of Thermal Properties and Changes
+  in Free Energy: Application to Reconstruction of Dislocations in Silicon","5 pages, 3 figures","Physical Review Letters, 79, 3006 (1997)","10.1103/PhysRevLett.79.3006",,"cond-mat.mtrl-sci cond-mat.stat-mech",,"  We introduce an approach to exploit the existence of multiple levels of
+description of a physical system to radically accelerate the determination of
+thermodynamic quantities. We first give a proof of principle of the method
+using two empirical interatomic potential functions. We then apply the
+technique to feed information from an interatomic potential into otherwise
+inaccessible quantum mechanical tight-binding calculations of the
+reconstruction of partial dislocations in silicon at finite temperature. With
+this approach, comprehensive ab initio studies at finite temperature will now
+be possible.
+","[{""version"":""v1"",""created"":""Sun, 24 May 1998 04:08:31 GMT""}]","2009-10-31"
+"cond-mat/9805306","Peter Forrester","P.J. Forrester (University of Melbourne)","Fluctuation formula for complex random matrices","5 pages",,,,"cond-mat.stat-mech",,"  A Gaussian fluctuation formula is proved for linear statistics of complex
+random matrices in the case that the statistic is rotationally invariant. For a
+general linear statistic without this symmetry, Coulomb gas theory is used to
+predict that the distribution will again be a Gaussian, with a specific mean
+and variance. The variance splits naturally into a bulk and surface
+contibution, the latter resulting from the long range correlations at the
+boundary of the support of the eigenvalue density.
+","[{""version"":""v1"",""created"":""Sun, 24 May 1998 03:59:25 GMT""}]","2007-05-23"
+"cond-mat/9805308","Feng Shiping","Zhongbing Huang and Shiping Feng","Spin Dynamics for the t-J Model","3 pages, three figures are added","Phys. Lett. A242, 94 (1998)","10.1016/S0375-9601(98)00195-9","BNUPHY-98-50","cond-mat",,"  The spin dynamics at the finite temperature for the t-J model in the
+underdoped and optimal doped regimes is studied within the fermion-spin theory.
+It is shown that the dynamical spin structure factor spectrum at the
+antiferromagnetic wave vector $Q=(\pi,\pi)$ are separated as low- and
+high-frequency parts, respectively, but the high-frequency part is suppressed
+in the dynamical susceptibility spectrum $\chi^{''}(Q,\omega)$, while the
+low-frequency part is the temperature dependent, which are in qualitative
+agreement with the experiments and numerical simulations.
+","[{""version"":""v1"",""created"":""Sun, 24 May 1998 11:15:07 GMT""},{""version"":""v2"",""created"":""Fri, 7 Nov 2003 02:20:50 GMT""}]","2009-10-31"
+"hep-ph/9805435",,"Stanislaw Mrowczynski","Topics in the Transport Theory of Quark-Gluon Plasma","42 pages, no macros","Phys.Part.Nucl. 30 (1999) 419-435; Fiz.Elem.Chast.Atom.Yadra 30
+  (1999) 954-991","10.1134/1.953113",,"hep-ph",,"  A few topics of the transport theory of quark-gluon plasma are reviewed. A
+derivation of the transport equations form the underlaying dynamical theory is
+discussed within the $\phi^4$ model. Peculiarities of the kinetic equations of
+quarks and gluons are considered and the plasma (linear) response to the color
+field is studied. The chromoelectric tensor permeability is found and the
+plasma oscillations are discussed. Finally, the filamentation instability in
+the strongly anisotropic parton system from ultrarelativistic heavy-ion
+collisions is discussed in detail.
+","[{""version"":""v1"",""created"":""Sat, 23 May 1998 18:34:25 GMT""}]","2009-10-31"
+"hep-ph/9805436","Bjoern Poetter","B. P\""otter","Jet Production in Deep Inelastic Electron-Photon Scattering at e+e-
+  Colliders in Next-to-Leading Order QCD","28 pages, LaTeX, 10 eps figures","Nucl.Phys. B540 (1999) 382-404","10.1016/S0550-3213(98)00687-7","DESY 98-052","hep-ph",,"  A complete next-to-leading order QCD calculation of deep inelastic
+electron-photon scattering including direct and resolved real photon components
+is presented. Soft and collinear singularities are extracted using the phase
+space slicing method. Application of the results for the prediction of single-
+and dijet cross sections at the LEP e+e- collider are presented, using the
+Snowmass jet definition. The dependence of the cross sections on the transverse
+momentum and on the rapidities of the jets are discussed.
+","[{""version"":""v1"",""created"":""Sun, 24 May 1998 11:24:06 GMT""}]","2009-10-31"
+"hep-ph/9805437","A. A. Bolokhov","A.A. Bolokhov (1), V.A. Kozhevnikov (1), S.G. Sherman (2) and D.N.
+  Tatarkin (1) ((1) St. Petersburg State University, (2) St. Petersburg Nuclear
+  Physics Institute)","Polarization Properties of Low Energy Amplitude for $\pi N \to \pi \pi
+  N$ Reaction","24 pages, Latex, 6 Postscript figures, uses epsf.sty","Phys.Rev. C61 (2000) 055203","10.1103/PhysRevC.61.055203","SPbU-IP-98-12","hep-ph",,"  The theoretical study of cross sections for polarized--target measurements of
+$ \pi N \to \pi \pi N $ reactions gives evidence that the interplay between the
+strong contribution from OPE mechanism and the one from isobar exchanges, which
+is equally strong within isobar half--widths energy region, must result in
+nontrivial polarization phenomena. The Monte--Carlo simulations for asymmetries
+in $ \pi^{-} p^{\uparrow} \to \pi^{-} \pi^{+} n $ reaction at $ P_{Lab} = 360
+$~MeV/c with the use of theoretical amplitudes found as solutions for
+unpolarized data at $ P_{Lab} < 500 $~MeV/c provide confirmations for
+significant effect. The effect is capable to discriminate between the OPE and
+isobar exchanges and it is sensitive to the OPE parameters in question. This
+leads to the conclusion that the decisive $\pi N \to \pi \pi N$ analysis,
+aiming at determination of $ \pi \pi $--scattering lengths, must combine both
+unpolarized data and polarization information. The appropriate measurements are
+shown to be feasible at the already existing CHAOS spectrometer.
+","[{""version"":""v1"",""created"":""Sun, 24 May 1998 15:40:49 GMT""}]","2009-10-31"
+"hep-th/9805154","Jose Fernandez Barbon","J.L.F. Barbon, J. Manes and M.A. Vazquez-Mozo","Large N limit of Extremal Non-supersymmetric Black Holes","25 pages, harvmac, typos corrected and references added","Nucl.Phys. B536 (1998) 279-300","10.1016/S0550-3213(98)00554-9","CERN-TH/98-158, EHU/FT-9804","hep-th",,"  The large N limit of extremal non-supersymmetric Type-I five-dimensional
+string black holes is studied from the point of view of D-branes.
+  We find that the agreement between the D-brane and the black-hole picture is
+due to an asymptotic restoration of supersymmetry in the large $N$ limit in
+which both pictures are compared.
+  In that limit Type-I string perturbation theory is effectively embedded into
+a Type-IIB perturbation theory with unbroken supersymmetric charges whose
+presence guarantees the non-renormalization of mass and entropy as the
+effective couplings are increased. In this vein, we also study the near-horizon
+geometry of the Type-I black hole using D5-brane probes to find that the low
+energy effective action for the probe is identical to the corresponding one in
+the auxiliary Type-IIB theory in the large N limit.
+","[{""version"":""v1"",""created"":""Sun, 24 May 1998 09:28:53 GMT""},{""version"":""v2"",""created"":""Thu, 11 Jun 1998 20:51:50 GMT""}]","2016-09-06"
+"hep-th/9805155","Adi Armoni","A. Armoni, Y. Frishman, J. Sonnenschein and U. Trittmann","The spectrum of multi-flavor QCD_2 and the non-Abelian Schwinger
+  equation","17 pages, Latex. 1 figure","Nucl.Phys. B537 (1999) 503-515","10.1016/S0550-3213(98)00664-6","TAUP-2500-98, WIS-98/13/May-DPP","hep-th",,"  Massless $QCD_2$ is dominated by classical configurations in the large $N_f$
+limit. We use this observation to study the theory by finding solutions to
+equations of motion, which are the non-Abelian generalization of the Schwinger
+equation. We find that the spectrum consists of massive mesons with $M^2={e^2
+N_f\over 2\pi}$ which correspond to Abelian solutions. We generalize previously
+discovered non-Abelian solutions and discuss their interpretation. We prove a
+no-go theorem ruling out the existence of soliton solutions. Thus the
+semi-classical approximation shows no baryons in the case of massless quarks, a
+result derived before in the strong-coupling limit only.
+","[{""version"":""v1"",""created"":""Sun, 24 May 1998 13:20:39 GMT""}]","2016-09-06"
+"nucl-th/9805045","Filomena Maciel Nunes","F.M. Nunes, R. Shyam and I.J. Thompson","Structure Effects on Coulomb Dissociation of $^8$B","6 pages, proceedings from International Workshop on RNB, Puri, India,
+  January 1998 - to be published in J. Phys. G","J.Phys.G24:1575-1582,1998","10.1088/0954-3899/24/8/036",,"nucl-th",,"  Coulomb Dissociation provides an alternative method for determining the
+radiative capture cross sections at astrophysically relevant low relative
+energies. For the breakup of $^8$B on $^{58}$Ni, we calculate the total Coulomb
+Dissociation cross section and the angular distribution for E1, E2 and M1. Our
+calculations are performed first within the standard first order semiclassical
+theory of Coulomb Excitation, including the correct three body kinematics, and
+later including the projectile-target nuclear interactions.
+","[{""version"":""v1"",""created"":""Sat, 23 May 1998 18:18:38 GMT""}]","2008-11-26"
+"physics/9805032","Matthew A. Trump","M. A. Trump and W. C. Schieve","Perihelion Precession in the Special Relativistic Two-Body Problem","9 pp., 1 GIF figure also viewable at
+  http://order.ph.utexas.edu/mtrump/figures",,,"IPCUT-98/22","physics.class-ph physics.plasm-ph",,"  The classical two-body system with Lorentz-invariant Coulomb interaction
+V=-k/rho is solved in 3+1 dimensions using the manifestly covariant Hamiltonian
+mechanics of Stueckelberg. Particular solutions for the reduced motion are
+obtained which correspond to bound attractive, unbound attractive, and
+repulsive scattering motion. A lack of perihelion precession is found in the
+bound attractive orbit, and the semi-classical hydrogen spectrum subsequently
+contains no fine structure corrections. It is argued that this prediction is
+indicative of the correct classical special relativistic two-body theory for
+the limit of no magnetic interaction.
+","[{""version"":""v1"",""created"":""Sun, 24 May 1998 05:18:12 GMT""}]","2009-09-25"
